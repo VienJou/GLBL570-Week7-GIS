@@ -1,0 +1,52 @@
+{
+  "title": "U.S. counties with ACS 2018\u20132022 attributes and 2025 USGS earthquakes (GLBL 570 teaching pack)",
+  "content": "3,144 counties/county equivalents (50 states + DC); 3,754 earthquakes M>=2.5 in 2025",
+  "structure": {
+    "crs_counties": "EPSG:4269",
+    "crs_quakes": "EPSG:4979",
+    "fields": [
+      "geoid",
+      "state_fips",
+      "county_fips",
+      "state_abbr",
+      "state_name",
+      "county_name",
+      "county_label",
+      "land_km2",
+      "water_km2",
+      "population",
+      "pop_density_km2",
+      "median_hh_income",
+      "poverty_universe",
+      "below_poverty",
+      "poverty_pct",
+      "race_white",
+      "race_black",
+      "race_aian",
+      "race_asian",
+      "race_nhpi",
+      "race_other",
+      "race_two_plus",
+      "commuters_total",
+      "commute_drive_alone",
+      "commute_carpool",
+      "commute_transit",
+      "commute_bicycle",
+      "commute_walk",
+      "commute_other",
+      "commute_wfh",
+      "transit_pct",
+      "wfh_pct"
+    ]
+  },
+  "quality": [
+    "ACS values are survey estimates; margins of error not included in this pack",
+    "1 county had median_hh_income = -666666666 (not available) -> set to NaN",
+    "Boundaries are 1:5,000,000 cartographic; areas come from detailed TIGER, not the simplified geometry"
+  ],
+  "lineage": [
+    "Census TIGER/Line 2022 + ACS 5-year (B02001, B19013, B17001, B08301)",
+    "USGS FDSN catalog 2025-01-01..2026-01-01, M>=2.5, clipped to county boundaries"
+  ],
+  "constraints": "Teaching use; not for cadastral/engineering area work; earthquakes are one year only"
+}

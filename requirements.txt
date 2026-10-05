@@ -1,0 +1,11 @@
+# CPU-only; tested with Python 3.9
+geopandas>=0.14     # tested 1.0.1
+pyogrio>=0.7        # tested 0.7.2 (GeoPackage/KML I/O)
+shapely>=2.0        # tested 2.0.2
+pyproj>=3.6         # tested 3.6.1
+mapclassify>=2.6    # tested 2.8.1 (classification schemes)
+rasterio>=1.3       # tested 1.3.8
+matplotlib>=3.7     # tested 3.9.3
+numpy>=1.24         # tested 1.26.4
+pandas>=2.0         # tested 2.3.3
+scipy>=1.10         # tested 1.13.1

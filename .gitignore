@@ -1,0 +1,4 @@
+# Lecture slides are not redistributed
+*.pptx
+.ipynb_checkpoints/
+__pycache__/

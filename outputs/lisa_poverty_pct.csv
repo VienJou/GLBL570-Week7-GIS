@@ -1,0 +1,3108 @@
+geoid,county_label,state_abbr,poverty_pct,lisa
+13233,Polk County,GA,17.1875,Not significant
+21023,Bracken County,KY,16.96342637151107,Not significant
+28153,Wayne County,MS,22.081553792963188,High-High
+42001,Adams County,PA,7.890299989026008,Low-Low
+04007,Gila County,AZ,18.99340693038945,Not significant
+05111,Poinsett County,AR,20.951619352259097,High-High
+13231,Pike County,GA,8.142750771194553,Not significant
+17093,Kendall County,IL,4.746177739821792,Low-Low
+19101,Jefferson County,IA,13.973857970623905,Not significant
+19095,Iowa County,IA,9.128783237348363,Not significant
+31143,Polk County,NE,7.733175914994097,Low-Low
+31137,Phelps County,NE,14.49325492909028,High-Low
+38103,Wells County,ND,10.773977886346104,Not significant
+39045,Fairfield County,OH,8.714877995558806,Not significant
+18117,Orange County,IN,14.698000412286127,Not significant
+46037,Day County,SD,14.714658709436778,Not significant
+48125,Dickens County,TX,12.273641851106639,Not significant
+26137,Otsego County,MI,10.665755407252552,Not significant
+27029,Clearwater County,MN,11.25164061567832,Not significant
+40093,Major County,OK,11.646211312700107,Not significant
+48311,McMullen County,TX,14.925373134328359,High-High
+06049,Modoc County,CA,16.895085066162572,Not significant
+17031,Cook County,IL,13.375672083257825,Low-Low
+17075,Iroquois County,IL,10.714692374843436,Not significant
+28139,Tippah County,MS,18.89270749964691,Not significant
+27159,Wadena County,MN,11.93227236392704,Not significant
+30051,Liberty County,MT,26.195320447609358,Not significant
+29171,Putnam County,MO,12.276882890727036,Not significant
+48017,Bailey County,TX,12.739520958083832,Not significant
+08121,Washington County,CO,9.695652173913043,Not significant
+17189,Washington County,IL,7.976409878363436,Not significant
+19151,Pocahontas County,IA,9.06458152331306,Low-Low
+19117,Lucas County,IA,16.617973588874605,Not significant
+21087,Green County,KY,21.348314606741575,High-High
+26111,Midland County,MI,10.146532629067984,Not significant
+39119,Muskingum County,OH,15.61964795432921,Not significant
+42131,Wyoming County,PA,11.220030707452462,Not significant
+48139,Ellis County,TX,8.195068481818323,Not significant
+48003,Andrews County,TX,11.941854086670324,Not significant
+50015,Lamoille County,VT,8.583707909470862,Not significant
+46025,Clark County,SD,9.430413756045137,Low-Low
+48317,Martin County,TX,16.88588007736944,Not significant
+20141,Osborne County,KS,13.416075650118204,Not significant
+13149,Heard County,GA,16.69025296302848,Not significant
+19195,Worth County,IA,7.366255144032922,Low-Low
+21213,Simpson County,KY,14.190897597977244,Not significant
+28141,Tishomingo County,MS,19.218522316368936,Not significant
+28131,Stone County,MS,20.821481397201048,Not significant
+27051,Grant County,MN,10.108243130724397,Low-Low
+31095,Jefferson County,NE,11.09846328969835,Low-Low
+46013,Brown County,SD,10.54768370392278,Not significant
+01109,Pike County,AL,23.6365416625869,High-High
+13217,Newton County,GA,13.387174844481097,Not significant
+17009,Brown County,IL,10.041027855754697,Not significant
+17005,Bond County,IL,14.890719684074352,Not significant
+19041,Clay County,IA,11.453224905332423,Low-Low
+21211,Shelby County,KY,7.92100369760831,Not significant
+31115,Loup County,NE,7.94912559618442,Low-Low
+31181,Webster County,NE,7.913017215342797,Not significant
+39005,Ashland County,OH,11.74264850996645,Low-Low
+31077,Greeley County,NE,12.471237919926368,Low-Low
+54079,Putnam County,WV,10.945352310665964,Not significant
+38007,Billings County,ND,11.11111111111111,Low-Low
+48151,Fisher County,TX,12.179663819233948,Not significant
+48295,Lipscomb County,TX,13.789615643964936,Not significant
+20137,Norton County,KS,9.412819363514119,Not significant
+24043,Washington County,MD,12.345485732955783,Low-Low
+28023,Clarke County,MS,20.58728203798535,High-High
+28077,Lawrence County,MS,22.51405555089368,High-High
+30001,Beaverhead County,MT,15.399134006883536,Not significant
+31007,Banner County,NE,7.379518072289157,Low-Low
+38019,Cavalier County,ND,10.0,Not significant
+29145,Newton County,MO,14.89972337482711,Not significant
+13227,Pickens County,GA,13.481146304675717,Not significant
+18005,Bartholomew County,IN,11.51092412164157,Low-Low
+19033,Cerro Gordo County,IA,9.328553112683414,Low-Low
+21137,Lincoln County,KY,17.37492149884865,High-High
+29065,Dent County,MO,16.816565572056057,Not significant
+13249,Schley County,GA,15.92552026286966,High-High
+31035,Clay County,NE,8.729226120530468,Low-Low
+19077,Guthrie County,IA,10.1230798587921,Low-Low
+19001,Adair County,IA,10.076670317634173,Low-Low
+48189,Hale County,TX,18.51202487677396,High-High
+51640,Galax city,VA,22.416757855244647,Not significant
+55113,Sawyer County,WI,13.241387138884159,Not significant
+48421,Sherman County,TX,8.319327731092438,Not significant
+08083,Montezuma County,CO,12.545623980740856,Low-High
+20147,Phillips County,KS,16.426809210526315,High-Low
+21053,Clinton County,KY,20.276194651468654,High-High
+24001,Allegany County,MD,15.863039706700711,Not significant
+28107,Panola County,MS,20.424185253932993,High-High
+48271,Kinney County,TX,15.62287270251872,High-High
+35061,Valencia County,NM,17.75865754595981,High-High
+05129,Searcy County,AR,26.568361143448453,Not significant
+13043,Candler County,GA,18.285123966942148,High-High
+18065,Henry County,IN,13.715198040373554,Not significant
+19037,Chickasaw County,IA,6.309148264984227,Low-Low
+19157,Poweshiek County,IA,10.766874779125928,Not significant
+26119,Montmorency County,MI,18.528670101962504,Not significant
+29115,Linn County,MO,16.74478057094163,Not significant
+38015,Burleigh County,ND,7.941331645035349,Low-Low
+31039,Cuming County,NE,7.654097990517046,Not significant
+41023,Grant County,OR,16.48958776030599,Not significant
+46079,Lake County,SD,9.660257606869516,Low-Low
+48415,Scurry County,TX,11.822096622258108,Not significant
+48069,Castro County,TX,12.440060282230442,Not significant
+39067,Harrison County,OH,15.432229021593866,Not significant
+48079,Cochran County,TX,25.848142164781905,Not significant
+20187,Stanton County,KS,13.201970443349754,Not significant
+12087,Monroe County,FL,11.705437842643354,Not significant
+12033,Escambia County,FL,14.851121429446087,Not significant
+17091,Kankakee County,IL,14.041466811078447,Low-Low
+20119,Meade County,KS,7.053411704574495,Low-Low
+27119,Polk County,MN,11.56,Low-Low
+28113,Pike County,MS,30.67762019168669,High-High
+27161,Waseca County,MN,6.614764507757716,Low-Low
+40025,Cimarron County,OK,10.918774966711052,Not significant
+30029,Flathead County,MT,9.270873046130385,Not significant
+49005,Cache County,UT,13.545270828868,Low-Low
+05079,Lincoln County,AR,17.679360152799333,High-High
+13287,Turner County,GA,22.431646305991855,High-High
+19127,Marshall County,IA,11.16716945802559,Not significant
+29215,Texas County,MO,19.974358974358974,Not significant
+13023,Bleckley County,GA,17.060508413891874,High-High
+39055,Geauga County,OH,5.847321125805358,Not significant
+40053,Grant County,OK,13.252113376429637,Not significant
+29055,Crawford County,MO,14.660870336689882,Not significant
+48451,Tom Green County,TX,11.739635800077489,Not significant
+48393,Roberts County,TX,14.736842105263158,Not significant
+48075,Childress County,TX,15.083693812300169,Not significant
+01059,Franklin County,AL,16.623360162240953,Not significant
+18115,Ohio County,IN,10.016920473773265,Not significant
+20131,Nemaha County,KS,8.713651050080776,Low-Low
+27133,Rock County,MN,8.794130157379838,Low-Low
+31045,Dawes County,NE,12.96744686575195,Low-High
+42059,Greene County,PA,12.906391853760274,Not significant
+29161,Phelps County,MO,17.66386554621849,Not significant
+01027,Clay County,AL,17.570389572981927,Not significant
+17155,Putnam County,IL,8.754448398576512,Not significant
+18107,Montgomery County,IN,12.719646920145838,Low-Low
+20203,Wichita County,KS,14.943074003795067,Not significant
+27087,Mahnomen County,MN,20.561989747484336,Not significant
+27101,Murray County,MN,7.396817503729488,Not significant
+31113,Logan County,NE,9.232613908872901,Low-Low
+38041,Hettinger County,ND,10.207612456747405,Not significant
+19073,Greene County,IA,11.534464842396952,Low-Low
+21129,Lee County,KY,31.360144600090376,High-High
+48345,Motley County,TX,9.403107113654947,Low-High
+22049,Jackson Parish,LA,26.20377571943718,High-High
+51750,Radford city,VA,33.791291291291294,Not significant
+38071,Ramsey County,ND,15.77674251926178,Not significant
+16063,Lincoln County,ID,11.748633879781421,Not significant
+08017,Cheyenne County,CO,10.87344028520499,Not significant
+20033,Comanche County,KS,8.705612829324169,Not significant
+23003,Aroostook County,ME,14.949275140221289,Not significant
+31169,Thayer County,NE,9.67141971481711,Low-Low
+28061,Jasper County,MS,17.2094172897485,High-High
+27147,Steele County,MN,8.461204793146452,Low-Low
+46081,Lawrence County,SD,11.068853498138024,Low-Low
+46021,Campbell County,SD,5.620915032679738,Not significant
+30107,Wheatland County,MT,22.671266633809758,Not significant
+05067,Jackson County,AR,20.441034149039126,High-High
+12067,Lafayette County,FL,19.33955279135199,Not significant
+17165,Saline County,IL,17.978111346628022,Not significant
+19179,Wapello County,IA,17.443753270158712,Not significant
+26025,Calhoun County,MI,14.8347943358058,Not significant
+31037,Colfax County,NE,10.224414780421744,Low-Low
+38101,Ward County,ND,9.032743141041706,Low-Low
+31059,Fillmore County,NE,7.0041090773253645,Low-Low
+42109,Snyder County,PA,8.370222414165408,Not significant
+19003,Adams County,IA,9.466962798445309,Not significant
+51580,Covington city,VA,16.92170818505338,Not significant
+55005,Barron County,WI,11.75510381752492,Low-Low
+48009,Archer County,TX,12.285814197458912,Not significant
+49031,Piute County,UT,20.904925544100802,Not significant
+20093,Kearny County,KS,15.640298892038134,High-Low
+31097,Johnson County,NE,6.1314206385932435,Not significant
+48435,Sutton County,TX,16.56644618159952,Not significant
+17147,Piatt County,IL,7.153170496931777,Not significant
+17169,Schuyler County,IL,19.505697794879385,Not significant
+47109,McNairy County,TN,16.72420557081208,Not significant
+21061,Edmonson County,KY,16.959746645553796,High-High
+19141,O'Brien County,IA,12.135852321892125,Low-Low
+21065,Estill County,KY,23.958556627366917,High-High
+17021,Christian County,IL,11.852772169591551,Not significant
+21083,Graves County,KY,19.77623307208729,Not significant
+19175,Union County,IA,11.890011032843928,Low-Low
+17123,Marshall County,IL,12.286749756916821,Not significant
+26023,Branch County,MI,15.016049295939645,Not significant
+20061,Geary County,KS,18.618943295302586,Not significant
+31017,Brown County,NE,8.89894419306184,Low-Low
+28129,Smith County,MS,18.2139324572559,High-High
+16009,Benewah County,ID,14.513939647071108,Not significant
+18045,Fountain County,IN,12.059653860316681,Not significant
+48341,Moore County,TX,13.479891743032145,Low-Low
+40081,Lincoln County,OK,14.276689829437776,Not significant
+49037,San Juan County,UT,20.651103923498805,Not significant
+19123,Mahaska County,IA,11.96998123827392,Not significant
+18131,Pulaski County,IN,12.75971645074554,Not significant
+21047,Christian County,KY,16.737730335738565,Not significant
+38077,Richland County,ND,11.168609982968688,Not significant
+29057,Dade County,MO,17.03873050026896,Not significant
+29059,Dallas County,MO,20.60197504582816,Not significant
+18021,Clay County,IN,10.91871279038095,Not significant
+13115,Floyd County,GA,17.52466957083956,Not significant
+31013,Box Butte County,NE,12.004155647903287,Not significant
+20057,Ford County,KS,11.874981253186958,Low-Low
+18095,Madison County,IN,14.14131674942551,Not significant
+20135,Ness County,KS,10.522302706824247,Low-Low
+31091,Hooker County,NE,8.146964856230031,Low-Low
+17025,Clay County,IL,15.749000307597662,Not significant
+29103,Knox County,MO,12.67529665587918,Not significant
+29151,Osage County,MO,7.646968769136558,Not significant
+26093,Livingston County,MI,4.857169539186287,Not significant
+01111,Randolph County,AL,19.857003574910628,Not significant
+26143,Roscommon County,MI,16.17039586919105,Not significant
+39019,Carroll County,OH,12.191041143813218,Not significant
+38017,Cass County,ND,10.833199692533995,Not significant
+31119,Madison County,NE,12.159541520738662,Low-Low
+31135,Perkins County,NE,8.6848635235732,Not significant
+31139,Pierce County,NE,7.940273513815239,Low-Low
+05023,Cleburne County,AR,14.121717891308773,Not significant
+31141,Platte County,NE,8.207343412526997,Low-Low
+33007,Coos County,NH,11.610690392909294,Not significant
+27151,Swift County,MN,10.721692243882206,Low-Low
+55067,Langlade County,WI,12.240340673036975,Not significant
+26073,Isabella County,MI,23.606192451684713,Not significant
+27085,McLeod County,MN,7.121620877608325,Low-Low
+33009,Grafton County,NH,9.856880128265585,Low-Low
+26113,Missaukee County,MI,11.203957483789024,Not significant
+29149,Oregon County,MO,23.000699463744464,High-High
+38039,Griggs County,ND,6.507004066877542,Not significant
+48175,Goliad County,TX,9.982837528604119,Not significant
+31029,Chase County,NE,8.202587393338838,Not significant
+20001,Allen County,KS,15.188515799026483,Not significant
+20017,Chase County,KS,8.755573571139035,Not significant
+20073,Greenwood County,KS,15.281773565747166,Not significant
+48101,Cottle County,TX,24.10443230115361,Not significant
+35015,Eddy County,NM,11.764511818946604,Not significant
+17029,Coles County,IL,19.37824783096399,High-Low
+20049,Elk County,KS,14.817846909537455,Not significant
+20207,Woodson County,KS,13.263979193758127,Not significant
+26057,Gratiot County,MI,14.117746574183725,Not significant
+20115,Marion County,KS,8.76796528970442,Low-Low
+20133,Neosho County,KS,14.95975394280479,Not significant
+26067,Ionia County,MI,10.341978133740147,Low-Low
+27033,Cottonwood County,MN,12.857396554786005,Low-Low
+21173,Montgomery County,KY,16.393145672571823,High-High
+27067,Kandiyohi County,MN,10.900462799821458,Low-Low
+26107,Mecosta County,MI,17.967818042043316,Not significant
+46051,Grant County,SD,9.807640205906258,Not significant
+27043,Faribault County,MN,11.426262032478506,Low-Low
+21201,Robertson County,KY,21.983390327308257,Not significant
+17049,Effingham County,IL,10.80446271285966,Not significant
+27009,Benton County,MN,9.32297447280799,Not significant
+48145,Falls County,TX,15.849953770968169,Not significant
+46003,Aurora County,SD,5.13849859494179,Not significant
+46005,Beadle County,SD,9.673628545483682,Low-Low
+46115,Spink County,SD,10.633520449077787,Not significant
+46135,Yankton County,SD,7.984124053904375,Not significant
+46067,Hutchinson County,SD,9.89553924336533,Not significant
+42023,Cameron County,PA,14.974450122195067,Not significant
+47071,Hardin County,TN,19.379992392544693,Not significant
+46087,McCook County,SD,8.357348703170029,Low-Low
+46073,Jerauld County,SD,9.106145251396647,Not significant
+54001,Barbour County,WV,22.004430422232666,Not significant
+51075,Goochland County,VA,4.2260010051935,Low-Low
+27079,Le Sueur County,MN,7.445726510714411,Low-Low
+48255,Karnes County,TX,21.000535045478866,Not significant
+27091,Martin County,MN,11.703478040111703,Not significant
+29001,Adair County,MO,23.587074387334635,Not significant
+55099,Price County,WI,13.558344151161114,Not significant
+55033,Dunn County,WI,10.977187769577302,Low-Low
+56025,Natrona County,WY,9.127503012588775,Not significant
+56027,Niobrara County,WY,18.340807174887892,Not significant
+56029,Park County,WY,9.573047557092478,Low-Low
+45081,Saluda County,SC,17.8941742383752,Not significant
+41069,Wheeler County,OR,9.86321094312455,Not significant
+50009,Essex County,VT,13.231594834814691,Not significant
+53059,Skamania County,WA,8.629737609329446,Not significant
+27031,Cook County,MN,8.583768220262732,Not significant
+39033,Crawford County,OH,14.056626800097632,Not significant
+39063,Hancock County,OH,10.539989881172144,Not significant
+39073,Hocking County,OH,16.59987725188635,Not significant
+39077,Huron County,OH,10.991502396981707,Not significant
+48501,Yoakum County,TX,13.620825663949514,Not significant
+48011,Armstrong County,TX,5.895078420767983,Not significant
+48249,Jim Wells County,TX,22.6226874643727,High-High
+40043,Dewey County,OK,14.237134436635683,Not significant
+48211,Hemphill County,TX,6.1408789885611075,Not significant
+23011,Kennebec County,ME,12.424623011087176,Not significant
+19075,Grundy County,IA,5.943194877688392,Not significant
+27059,Isanti County,MN,8.786180910670158,Low-Low
+48413,Schleicher County,TX,14.476885644768856,Not significant
+40111,Okmulgee County,OK,18.01059280029456,Not significant
+30033,Garfield County,MT,9.420289855072463,Not significant
+48429,Stephens County,TX,16.659096070860777,Not significant
+31005,Arthur County,NE,7.010309278350515,Low-Low
+48437,Swisher County,TX,29.516179704681118,Not significant
+29159,Pettis County,MO,14.785313663571664,Not significant
+48279,Lamb County,TX,17.44940220364148,Not significant
+48363,Palo Pinto County,TX,15.83362831858407,Not significant
+13311,White County,GA,12.962288875946419,Not significant
+41065,Wasco County,OR,11.690054443677631,Not significant
+05123,St. Francis County,AR,28.10389352403655,High-High
+55081,Monroe County,WI,11.57503191442532,Not significant
+38093,Stutsman County,ND,13.126969045356804,Low-Low
+39125,Paulding County,OH,9.424055719260648,Low-Low
+28019,Choctaw County,MS,19.134424603174605,High-High
+46119,Sully County,SD,8.486238532110091,Not significant
+29207,Stoddard County,MO,16.458702587734845,High-High
+48191,Hall County,TX,18.56887298747764,Not significant
+29209,Stone County,MO,14.074650077760497,Not significant
+29225,Webster County,MO,15.696022727272727,Not significant
+37067,Forsyth County,NC,15.204603169500787,Not significant
+51590,Danville city,VA,25.29634608334352,Not significant
+51620,Franklin city,VA,18.745332337565348,Not significant
+20013,Brown County,KS,14.493221433182699,Not significant
+51690,Martinsville city,VA,24.583524377197005,Not significant
+20015,Butler County,KS,7.911185744938893,Not significant
+48221,Hood County,TX,8.870104163286499,Not significant
+51790,Staunton city,VA,11.442889091360888,Not significant
+12027,DeSoto County,FL,26.388292323740565,Not significant
+12055,Highlands County,FL,15.634124540669381,High-High
+29229,Wright County,MO,20.36472479352586,Not significant
+20003,Anderson County,KS,13.167213114754098,Not significant
+51007,Amelia County,VA,11.127944852662678,Not significant
+19047,Crawford County,IA,16.984732824427482,High-Low
+19051,Davis County,IA,9.407432206226984,Not significant
+19055,Delaware County,IA,6.642832429938877,Not significant
+20121,Miami County,KS,6.968113532450567,Not significant
+48283,La Salle County,TX,28.031312458361093,High-High
+20113,McPherson County,KS,10.626319493314567,Low-Low
+19069,Franklin County,IA,13.748602784269892,Low-Low
+20109,Logan County,KS,9.886071297317162,Low-Low
+19079,Hamilton County,IA,7.780725022104332,Not significant
+48309,McLennan County,TX,17.880322117684578,Not significant
+16037,Custer County,ID,11.574289706567303,Not significant
+20181,Sherman County,KS,10.490753911806543,Not significant
+19093,Ida County,IA,11.523781561949502,Not significant
+39127,Perry County,OH,15.338685255549525,Not significant
+08087,Morgan County,CO,12.828866701699072,Not significant
+48385,Real County,TX,24.527574238333976,Not significant
+13081,Crisp County,GA,23.55325833586703,High-High
+39141,Ross County,OH,16.11094059544072,Not significant
+08085,Montrose County,CO,11.57695939565628,Not significant
+39149,Shelby County,OH,10.923520619750331,Low-Low
+13109,Evans County,GA,21.245242510002928,Not significant
+17035,Cumberland County,IL,9.747538746466518,Not significant
+39159,Union County,OH,5.171530977982591,Not significant
+13161,Jeff Davis County,GA,22.588970388481393,High-High
+05137,Stone County,AR,21.186716587986325,Not significant
+29083,Henry County,MO,15.036866359447005,Not significant
+48327,Menard County,TX,22.4830464267084,Not significant
+48329,Midland County,TX,10.75262401021559,Not significant
+48353,Nolan County,TX,15.535739166782779,Not significant
+48383,Reagan County,TX,7.1863580998781975,Low-Low
+40137,Stephens County,OK,16.8896123811546,Not significant
+29187,St. Francois County,MO,17.61784566970432,Not significant
+08061,Kiowa County,CO,15.945330296127562,Not significant
+48319,Mason County,TX,4.936708860759493,Not significant
+48173,Glasscock County,TX,5.2434456928838955,Not significant
+48259,Kendall County,TX,5.09360618381663,Not significant
+40051,Grady County,OK,11.005138442201767,Not significant
+40027,Cleveland County,OK,12.836519565317461,Not significant
+42115,Susquehanna County,PA,11.165354330708661,Not significant
+48343,Morris County,TX,15.766073871409029,Not significant
+48231,Hunt County,TX,12.242623216601816,Low-Low
+36093,Schenectady County,NY,11.586977917007056,Not significant
+40019,Carter County,OK,15.329854876528866,Not significant
+40029,Coal County,OK,22.93824319140775,Not significant
+40099,Murray County,OK,14.620058510239291,Not significant
+40061,Haskell County,OK,21.43912401147128,High-High
+39009,Athens County,OH,24.445485200449607,Not significant
+01099,Monroe County,AL,22.860648195481033,High-High
+28053,Humphreys County,MS,32.06116847470919,High-High
+28119,Quitman County,MS,30.224700118263222,High-High
+29211,Sullivan County,MO,15.12388162422574,Not significant
+48281,Lampasas County,TX,9.490333919156415,Not significant
+48293,Limestone County,TX,21.49532710280374,Not significant
+48027,Bell County,TX,14.68678195167786,Not significant
+55009,Brown County,WI,9.697799466120038,Low-Low
+28067,Jones County,MS,21.261044054140662,High-High
+28069,Kemper County,MS,22.024030719682894,High-High
+32021,Mineral County,NV,18.473895582329316,Not significant
+35001,Bernalillo County,NM,16.41478506002828,Not significant
+12047,Hamilton County,FL,26.423220973782772,Not significant
+12019,Clay County,FL,9.365250283000636,Not significant
+27057,Hubbard County,MN,10.13813984293689,Not significant
+48065,Carson County,TX,7.50260507120528,Not significant
+38027,Eddy County,ND,12.32631107126849,Not significant
+20145,Pawnee County,KS,11.88448722695298,Not significant
+20185,Stafford County,KS,11.05476673427992,Not significant
+38049,McHenry County,ND,10.281797410510281,Low-Low
+17187,Warren County,IL,14.89712979425959,Not significant
+32003,Clark County,NV,13.355677609117892,Not significant
+20105,Lincoln County,KS,12.822299651567944,Not significant
+01005,Barbour County,AL,24.16365383735298,High-High
+47047,Fayette County,TN,9.692274482527043,Not significant
+20165,Rush County,KS,12.840195394277739,Not significant
+17007,Boone County,IL,9.752679619740181,Not significant
+38011,Bowman County,ND,10.715520221223644,Low-Low
+18069,Huntington County,IN,11.11551865809084,Not significant
+20053,Ellsworth County,KS,8.746518105849582,Not significant
+18033,DeKalb County,IN,9.978986691571329,Low-Low
+18053,Grant County,IN,19.0630206801921,Not significant
+18103,Miami County,IN,15.745741587037806,Not significant
+18159,Tipton County,IN,12.065195786126019,Not significant
+49043,Summit County,UT,5.235824559746943,Low-Low
+29167,Polk County,MO,17.160250082263904,Not significant
+06057,Nevada County,CA,10.371108983029094,Not significant
+55115,Shawano County,WI,10.075120417280191,Low-Low
+16049,Idaho County,ID,10.392168934310165,Not significant
+46029,Codington County,SD,10.95321616494255,Low-Low
+38079,Rolette County,ND,24.85142713651963,Not significant
+20123,Mitchell County,KS,15.016704765254088,Not significant
+20171,Scott County,KS,7.605859923740718,Not significant
+20201,Washington County,KS,9.928031002029895,Not significant
+22029,Concordia Parish,LA,33.87441511177864,High-High
+13197,Marion County,GA,12.38339867513857,Low-High
+22047,Iberville Parish,LA,16.832045695873457,Not significant
+48031,Blanco County,TX,9.771816756662602,Low-Low
+51720,Norton city,VA,29.106548279689235,Not significant
+48267,Kimble County,TX,12.42060691601976,Not significant
+48115,Dawson County,TX,24.78277295051001,Not significant
+40011,Blaine County,OK,13.665182786995818,Not significant
+20007,Barber County,KS,20.316423907584127,Not significant
+48493,Wilson County,TX,10.290269334514273,Not significant
+55107,Rusk County,WI,11.395766056691784,Not significant
+51570,Colonial Heights city,VA,10.227400022403943,Not significant
+48023,Baylor County,TX,11.63133097762073,Not significant
+20199,Wallace County,KS,15.552523874488404,Not significant
+20175,Seward County,KS,13.555700083619808,Not significant
+28075,Lauderdale County,MS,24.845523782152608,High-High
+28111,Perry County,MS,20.58613295210865,High-High
+05125,Saline County,AR,9.549643767566508,Not significant
+17011,Bureau County,IL,12.633898512578808,Not significant
+18169,Wabash County,IN,10.969913449649678,Not significant
+29035,Carter County,MO,20.597302504816955,High-High
+31117,McPherson County,NE,7.675438596491228,Low-Low
+29121,Macon County,MO,10.958168266971061,Not significant
+20031,Coffey County,KS,11.243756852235352,Not significant
+51775,Salem city,VA,9.615130855509127,Not significant
+55069,Lincoln County,WI,10.369466087393631,Not significant
+39115,Morgan County,OH,16.565449623179923,Not significant
+55103,Richland County,WI,14.512793239969273,Not significant
+16059,Lemhi County,ID,10.727872178544256,Not significant
+19059,Dickinson County,IA,6.223139075124634,Not significant
+26151,Sanilac County,MI,14.952060764537418,Not significant
+28115,Pontotoc County,MS,16.701150911677228,Not significant
+36103,Suffolk County,NY,6.493098326329121,Low-Low
+51077,Grayson County,VA,18.685121107266436,Not significant
+08039,Elbert County,CO,4.256608346587897,Low-Low
+18047,Franklin County,IN,7.35307075513261,Low-Low
+19113,Linn County,IA,9.480934567757949,Low-Low
+26165,Wexford County,MI,13.301070097390886,Not significant
+39175,Wyandot County,OH,6.897513362770161,Not significant
+31061,Franklin County,NE,14.902654867256636,High-Low
+54047,McDowell County,WV,33.26859698681733,High-High
+54105,Wirt County,WV,20.287044220325836,High-High
+54097,Upshur County,WV,17.829664220591507,Not significant
+28031,Covington County,MS,23.614042884123986,High-High
+08003,Alamosa County,CO,15.53385583965052,Not significant
+12059,Holmes County,FL,16.614084507042254,Not significant
+13083,Dade County,GA,6.535730873863712,Not significant
+13201,Miller County,GA,24.475281873373806,High-High
+13235,Pulaski County,GA,18.91860465116279,Not significant
+28005,Amite County,MS,27.054140127388536,High-High
+46049,Faulk County,SD,23.83019778099373,High-Low
+01007,Bibb County,AL,20.622960261086583,High-High
+20023,Cheyenne County,KS,15.241057542768274,Not significant
+23031,York County,ME,7.996673628469153,Low-Low
+27017,Carlton County,MN,12.727641217174789,Not significant
+51051,Dickenson County,VA,22.473394495412844,High-High
+13297,Walton County,GA,13.06756294152429,Low-Low
+18055,Greene County,IN,13.97341211225997,Not significant
+26079,Kalkaska County,MI,14.715813168261114,Not significant
+31019,Buffalo County,NE,11.788872205538873,Not significant
+38031,Foster County,ND,8.346024977155041,Not significant
+31163,Sherman County,NE,10.924081071796634,Low-Low
+31101,Keith County,NE,11.93119433939246,Low-Low
+40009,Beckham County,OK,21.935208411165075,Not significant
+48447,Throckmorton County,TX,13.968033356497568,Not significant
+06071,San Bernardino County,CA,13.776948522440227,Not significant
+13281,Towns County,GA,15.30288749892897,Not significant
+29003,Andrew County,MO,7.575842854730681,Not significant
+27001,Aitkin County,MN,12.356818327254112,Not significant
+18175,Washington County,IN,13.109656892873929,Not significant
+20067,Grant County,KS,5.337931034482758,Not significant
+21155,Marion County,KY,22.480370011831774,Not significant
+01079,Lawrence County,AL,15.834988540870894,Not significant
+17175,Stark County,IL,12.483374501235037,Not significant
+18137,Ripley County,IN,9.623225080837903,Not significant
+21207,Russell County,KY,21.63007621431009,High-High
+31075,Grant County,NE,10.793650793650794,Low-Low
+42121,Venango County,PA,13.36523705678055,Not significant
+20083,Hodgeman County,KS,8.786127167630058,Not significant
+48107,Crosby County,TX,23.575949367088608,Not significant
+55119,Taylor County,WI,8.826062724831536,Not significant
+48379,Rains County,TX,10.993344836085777,Not significant
+19011,Benton County,IA,8.297914597815293,Not significant
+17173,Shelby County,IL,10.270945426594928,Not significant
+19169,Story County,IA,19.625389254830232,High-Low
+22019,Calcasieu Parish,LA,17.136747196855854,Not significant
+18099,Marshall County,IN,10.82812362419653,Not significant
+18157,Tippecanoe County,IN,19.149609251426497,High-Low
+37001,Alamance County,NC,14.217677713492524,Not significant
+48111,Dallam County,TX,8.56286570572285,Not significant
+29135,Moniteau County,MO,10.881934566145093,Not significant
+27105,Nobles County,MN,12.24105461393597,Low-Low
+39021,Champaign County,OH,9.248189598420014,Low-Low
+35029,Luna County,NM,23.285422588781678,High-High
+31167,Stanton County,NE,7.017543859649122,Low-Low
+05051,Garland County,AR,16.862844665617224,Not significant
+38073,Ransom County,ND,9.92128866922936,Low-Low
+19053,Decatur County,IA,14.486316091130535,Not significant
+26077,Kalamazoo County,MI,13.362466407647629,Not significant
+19067,Floyd County,IA,10.868576625738973,Low-Low
+48163,Frio County,TX,20.66222463965189,High-High
+48081,Coke County,TX,16.509136735979837,Not significant
+48247,Jim Hogg County,TX,29.002764193068256,High-High
+20179,Sheridan County,KS,7.717842323651452,Low-Low
+04015,Mohave County,AZ,16.01015973466509,Not significant
+19173,Taylor County,IA,8.542886668963142,Not significant
+26047,Emmet County,MI,8.368996671421778,Not significant
+38013,Burke County,ND,6.522737712448324,Low-Low
+30097,Sweet Grass County,MT,5.970556161395856,Not significant
+16067,Minidoka County,ID,15.08667009297762,Not significant
+19171,Tama County,IA,15.158643986005549,High-Low
+27109,Olmsted County,MN,7.87237111979477,Low-Low
+37169,Stokes County,NC,12.011008005822417,Not significant
+31093,Howard County,NE,4.872715914415118,Not significant
+48357,Ochiltree County,TX,12.216227221826326,Not significant
+48233,Hutchinson County,TX,10.360713585571457,Not significant
+37103,Jones County,NC,17.71129067481983,Not significant
+01003,Baldwin County,AL,10.213950570491289,Low-High
+06037,Los Angeles County,CA,13.738451180984363,Not significant
+01013,Butler County,AL,21.107656015440703,High-High
+19063,Emmet County,IA,12.696941612604263,Low-Low
+28099,Neshoba County,MS,27.997037350544915,High-High
+42105,Potter County,PA,12.229102167182663,Not significant
+05149,Yell County,AR,12.447924509361041,Not significant
+08001,Adams County,CO,9.618385119171064,Low-Low
+20047,Edwards County,KS,13.611811307166006,Low-Low
+26123,Newaygo County,MI,15.218883773523949,Not significant
+31071,Garfield County,NE,12.157534246575343,Low-Low
+19105,Jones County,IA,11.405358152928473,Low-Low
+19009,Audubon County,IA,11.841627315655648,Not significant
+48325,Medina County,TX,10.274321324562655,Low-High
+48117,Deaf Smith County,TX,15.842395759331112,Not significant
+48095,Concho County,TX,15.928837401737692,Not significant
+38075,Renville County,ND,6.419529837251356,Low-Low
+16021,Boundary County,ID,18.493827160493826,Not significant
+18007,Benton County,IN,14.167636786961584,Not significant
+26001,Alcona County,MI,15.837282780410742,Not significant
+32013,Humboldt County,NV,14.330874604847208,Not significant
+01043,Cullman County,AL,13.03196064265318,Not significant
+17079,Jasper County,IL,9.190776593430499,Not significant
+20169,Saline County,KS,11.951608614730125,Low-Low
+27083,Lyon County,MN,12.364247366911192,Low-Low
+36023,Cortland County,NY,12.915855805764062,Not significant
+48305,Lynn County,TX,18.810986628117096,Not significant
+48013,Atascosa County,TX,14.062982084456054,Not significant
+51730,Petersburg city,VA,22.211027660743724,High-Low
+38095,Towner County,ND,13.714285714285714,Not significant
+48425,Somervell County,TX,7.281659388646288,Not significant
+46097,Miner County,SD,10.507569011576136,Low-Low
+06065,Riverside County,CA,11.3860513014266,Not significant
+13119,Franklin County,GA,18.434690171413386,Not significant
+21231,Wayne County,KY,25.365095805282238,High-High
+23009,Hancock County,ME,10.937873467061355,Not significant
+28065,Jefferson Davis County,MS,23.076234788833215,High-High
+29025,Caldwell County,MO,16.096207215541167,Not significant
+29129,Mercer County,MO,14.930555555555555,Not significant
+13277,Tift County,GA,20.960443359772217,High-High
+50023,Washington County,VT,9.88097094443578,Low-Low
+13229,Pierce County,GA,15.25907792737658,High-High
+13211,Morgan County,GA,8.601665162002206,Not significant
+20159,Rice County,KS,9.773403524834059,Not significant
+41021,Gilliam County,OR,12.85860655737705,Not significant
+26091,Lenawee County,MI,11.079659902889977,Not significant
+20051,Ellis County,KS,15.290198776204786,Not significant
+19015,Boone County,IA,7.474207107374856,Not significant
+46085,Lyman County,SD,25.08187772925764,High-High
+20027,Clay County,KS,11.353877241727709,Not significant
+27173,Yellow Medicine County,MN,10.012768674185997,Low-Low
+37073,Gates County,NC,14.311926605504587,Not significant
+29067,Douglas County,MO,19.62280325760823,Not significant
+54007,Braxton County,WV,18.190854870775347,High-High
+53033,King County,WA,8.445482399511064,Not significant
+28013,Calhoun County,MS,18.75531503672207,High-High
+13131,Grady County,GA,19.79895611830659,High-High
+28057,Itawamba County,MS,10.417787340864264,Not significant
+20189,Stevens County,KS,15.820085304381543,Not significant
+12051,Hendry County,FL,22.293449112501595,Not significant
+48285,Lavaca County,TX,10.23847856711612,Not significant
+20019,Chautauqua County,KS,17.5801138065289,Not significant
+18067,Howard County,IN,12.085513237966317,Not significant
+31047,Dawson County,NE,14.224355735219808,Not significant
+28041,Greene County,MS,18.383390445474703,High-High
+27047,Freeborn County,MN,9.545004945598418,Low-Low
+27065,Kanabec County,MN,9.770404945124259,Low-Low
+17065,Hamilton County,IL,12.904448938321536,Not significant
+46111,Sanborn County,SD,8.712613784135241,Low-Low
+47057,Grainger County,TN,17.560767590618337,Not significant
+29085,Hickory County,MO,17.57081132981277,Not significant
+56001,Albany County,WY,23.045032165832737,Not significant
+31003,Antelope County,NE,11.071659134925758,Low-Low
+56031,Platte County,WY,11.964391691394658,Not significant
+49033,Rich County,UT,8.007889546351084,Low-Low
+55131,Washington County,WI,4.73200499963238,Low-Low
+41013,Crook County,OR,7.916683453527255,Not significant
+13165,Jenkins County,GA,27.89887785373404,Not significant
+48243,Jeff Davis County,TX,24.60276781137878,High-High
+13255,Spalding County,GA,18.783861497018673,Not significant
+19035,Cherokee County,IA,13.343965975544922,Low-Low
+13005,Bacon County,GA,21.637537993920972,High-High
+13293,Upson County,GA,22.443489631982064,Not significant
+41055,Sherman County,OR,15.542676501580612,Not significant
+27125,Red Lake County,MN,9.307692307692308,Not significant
+27137,St. Louis County,MN,13.726660060493181,Not significant
+12041,Gilchrist County,FL,12.434593450526192,Not significant
+37107,Lenoir County,NC,22.419770481469808,Not significant
+29175,Randolph County,MO,17.18577910921186,Not significant
+38091,Steele County,ND,13.02142051860203,Low-Low
+51600,Fairfax city,VA,9.998288696842646,Low-Low
+51685,Manassas Park city,VA,5.061286728051141,Low-Low
+51840,Winchester city,VA,16.849177772003415,Not significant
+29169,Pulaski County,MO,14.514111573537104,Not significant
+18111,Newton County,IN,12.646301067353699,Not significant
+13031,Bulloch County,GA,22.784253353859686,Not significant
+20153,Rawlins County,KS,10.920685532084496,Not significant
+08095,Phillips County,CO,13.877551020408163,Not significant
+48399,Runnels County,TX,11.8580375782881,Not significant
+19185,Wayne County,IA,13.317610062893081,Not significant
+48445,Terry County,TX,22.353261362605462,Not significant
+39163,Vinton County,OH,19.066761251674944,High-High
+08005,Arapahoe County,CO,7.983627441001107,Low-Low
+48461,Upton County,TX,20.335299596398634,High-Low
+48059,Callahan County,TX,8.790646693459992,Not significant
+48227,Howard County,TX,14.500442086648983,Not significant
+48459,Upshur County,TX,14.558914250462678,Not significant
+48063,Camp County,TX,21.534395771602465,Not significant
+48471,Walker County,TX,19.459326211996714,Not significant
+01131,Wilcox County,AL,26.763871220275956,High-High
+51121,Montgomery County,VA,24.887330433707586,Not significant
+28103,Noxubee County,MS,23.202938840349482,High-High
+08115,Sedgwick County,CO,16.066129715981347,Not significant
+46035,Davison County,SD,15.186036789297658,High-Low
+20075,Hamilton County,KS,7.885304659498208,Not significant
+17053,Ford County,IL,12.128199216047959,Not significant
+46047,Fall River County,SD,19.29001026844653,High-High
+18121,Parke County,IN,15.552488003681063,Not significant
+48441,Taylor County,TX,14.582206301630237,Not significant
+18041,Fayette County,IN,16.372105171513148,Not significant
+37027,Caldwell County,NC,13.253027181831884,Not significant
+46125,Turner County,SD,9.228584950307619,Low-Low
+55089,Ozaukee County,WI,4.499191795329135,Low-Low
+38047,Logan County,ND,8.178228990411732,Not significant
+05011,Bradley County,AR,15.150053073434334,Not significant
+13173,Lanier County,GA,32.09647495361781,High-High
+35051,Sierra County,NM,25.200071136404055,High-High
+08073,Lincoln County,CO,11.591778202676863,Not significant
+19023,Butler County,IA,11.825138160691512,Low-Low
+48205,Hartley County,TX,6.944444444444445,Not significant
+47137,Pickett County,TN,20.990138860937815,High-High
+46043,Douglas County,SD,14.522668632510136,Not significant
+20029,Cloud County,KS,11.950052514879216,Not significant
+42093,Montour County,PA,8.690147329650092,Not significant
+31123,Morrill County,NE,9.52488178338212,Low-Low
+29137,Monroe County,MO,16.48080760652659,Not significant
+38045,LaMoure County,ND,12.166542009473947,Not significant
+21149,McLean County,KY,7.928304376511986,Not significant
+46091,Marshall County,SD,7.500587820362098,Not significant
+41001,Baker County,OR,13.717632552404439,Not significant
+46033,Custer County,SD,8.273638968481375,Low-High
+48297,Live Oak County,TX,21.041456016177957,Not significant
+26153,Schoolcraft County,MI,16.00201283180274,Not significant
+19121,Madison County,IA,6.136128206690635,Low-Low
+31183,Wheeler County,NE,10.246433203631646,Low-Low
+05037,Cross County,AR,20.209499729095178,High-High
+19013,Black Hawk County,IA,15.698955410781936,High-Low
+48303,Lubbock County,TX,17.215924864288127,High-High
+27165,Watonwan County,MN,13.265213852970431,Not significant
+46039,Deuel County,SD,5.753360056590426,Low-Low
+19181,Warren County,IA,6.1628889893648395,Low-Low
+05099,Nevada County,AR,27.825225894293848,High-High
+20081,Haskell County,KS,9.014390442573989,Low-Low
+29075,Gentry County,MO,15.203426124197001,Not significant
+05027,Columbia County,AR,22.523607631528233,High-High
+05043,Drew County,AR,21.360817219992704,High-High
+18113,Noble County,IN,7.252903531642569,Low-Low
+48177,Gonzales County,TX,13.072568193515183,Not significant
+46069,Hyde County,SD,6.651017214397496,Not significant
+35057,Torrance County,NM,21.30518234165067,High-High
+51595,Emporia city,VA,17.324723247232473,Not significant
+48195,Hansford County,TX,8.355795148247978,Not significant
+20055,Finney County,KS,12.824905640174531,Low-Low
+29109,Lawrence County,MO,14.651212477299433,Not significant
+35021,Harding County,NM,14.307004470938898,Low-High
+48087,Collingsworth County,TX,22.345767575322814,Not significant
+17041,Douglas County,IL,9.4674861835649,Not significant
+49039,Sanpete County,UT,14.814814814814815,Not significant
+45011,Barnwell County,SC,25.2941758133096,High-High
+45061,Lee County,SC,27.78177536468895,Not significant
+30069,Petroleum County,MT,6.25,Not significant
+39059,Guernsey County,OH,16.98227501382707,Not significant
+13209,Montgomery County,GA,16.634968936224166,High-High
+55085,Oneida County,WI,9.556607834696512,Not significant
+31069,Garden County,NE,9.60548885077187,Low-Low
+38083,Sheridan County,ND,6.93293142426526,Low-Low
+17087,Johnson County,IL,16.453462726069695,Not significant
+48269,King County,TX,27.77777777777778,Not significant
+16085,Valley County,ID,13.987455967007476,Not significant
+21227,Warren County,KY,17.16537143034421,Not significant
+51740,Portsmouth city,VA,17.35733948366937,Not significant
+48433,Stonewall County,TX,7.0597362296353765,Not significant
+40077,Latimer County,OK,16.65936952714536,High-High
+32029,Storey County,NV,9.08645603722753,Not significant
+40149,Washita County,OK,12.522445893582837,Low-High
+19177,Van Buren County,IA,11.097028587522884,Not significant
+55035,Eau Claire County,WI,12.08396332004634,Low-Low
+20101,Lane County,KS,8.995403808273146,Low-Low
+20195,Trego County,KS,7.2901325478645065,Low-Low
+51830,Williamsburg city,VA,13.65133126352432,Low-Low
+39039,Defiance County,OH,10.524632970078068,Low-Low
+46089,McPherson County,SD,13.216485078162009,Low-Low
+31057,Dundy County,NE,12.465219810795771,Not significant
+05071,Johnson County,AR,21.156519321656937,Not significant
+18143,Scott County,IN,15.765286583549637,Not significant
+31079,Hall County,NE,12.755598831548198,Low-Low
+28003,Alcorn County,MS,17.120473022912048,Not significant
+17139,Moultrie County,IL,9.17901538029356,Not significant
+18101,Martin County,IN,14.144329896907216,Not significant
+31085,Hayes County,NE,14.689880304678999,Not significant
+17047,Edwards County,IL,14.173998044965787,Not significant
+31063,Frontier County,NE,12.374161073825503,Not significant
+20039,Decatur County,KS,12.248696947133284,Low-Low
+13267,Tattnall County,GA,20.059180812957482,High-High
+21021,Boyle County,KY,14.995307198036242,Not significant
+48127,Dimmit County,TX,43.568755846585596,High-High
+21191,Pendleton County,KY,17.787388392857142,Not significant
+36123,Yates County,NY,14.220163997110932,Not significant
+46071,Jackson County,SD,38.402903811252266,High-High
+19165,Shelby County,IA,8.785956374380811,Not significant
+42053,Forest County,PA,19.17718763604702,Not significant
+29105,Laclede County,MO,17.058541942387293,Not significant
+29181,Ripley County,MO,20.584403498976364,High-High
+21141,Logan County,KY,15.745010513889401,Not significant
+17039,De Witt County,IL,10.190457490673474,Not significant
+21031,Butler County,KY,19.751335113484647,Not significant
+30037,Golden Valley County,MT,16.05231866825208,Not significant
+39047,Fayette County,OH,15.812596654013777,Not significant
+13289,Twiggs County,GA,15.65239486723415,High-High
+30081,Ravalli County,MT,9.8064284592782,Not significant
+27095,Mille Lacs County,MN,10.986950365466305,Low-Low
+08029,Delta County,CO,15.031225086367261,Not significant
+17109,McDonough County,IL,19.792636993236403,Not significant
+39143,Sandusky County,OH,12.957970413383105,Not significant
+48033,Borden County,TX,1.6034985422740524,Not significant
+05101,Newton County,AR,11.354442739573162,Not significant
+51540,Charlottesville city,VA,23.596281296023562,Not significant
+27117,Pipestone County,MN,13.035908596300326,Low-Low
+48483,Wheeler County,TX,18.334356455903418,Not significant
+31001,Adams County,NE,12.001482080301805,Low-Low
+30049,Lewis and Clark County,MT,9.369739507546578,Low-Low
+29079,Grundy County,MO,16.530740276035132,Not significant
+37081,Guilford County,NC,15.075517560270214,Not significant
+19029,Cass County,IA,15.344532586716442,High-Low
+01045,Dale County,AL,17.518927640561003,High-High
+48381,Randall County,TX,9.433295086344382,Not significant
+39161,Van Wert County,OH,8.3691138171324,Low-Low
+48263,Kent County,TX,7.958477508650519,Not significant
+51187,Warren County,VA,11.963690162742296,Low-Low
+28159,Winston County,MS,25.976280011570726,High-High
+48235,Irion County,TX,7.431133888532992,Not significant
+13155,Irwin County,GA,21.990891346779442,High-High
+18183,Whitley County,IN,9.144717372003552,Low-Low
+46101,Moody County,SD,9.588602529214024,Low-Low
+06083,Santa Barbara County,CA,13.530337570312446,Not significant
+48133,Eastland County,TX,16.191602602010644,Not significant
+27135,Roseau County,MN,10.387452648368445,Not significant
+29049,Clinton County,MO,11.304389960267468,Not significant
+54091,Taylor County,WV,16.852402179296682,Not significant
+28039,George County,MS,20.929353985644127,Not significant
+27111,Otter Tail County,MN,8.657495256166984,Not significant
+17055,Franklin County,IL,17.81518027585836,Not significant
+12049,Hardee County,FL,28.474131731460723,Not significant
+19187,Webster County,IA,12.15199508182324,Low-Low
+51630,Fredericksburg city,VA,18.03323029366306,High-Low
+36097,Schuyler County,NY,15.754588715159755,Not significant
+17113,McLean County,IL,14.158677055723308,Low-Low
+31185,York County,NE,9.312439079253206,Low-Low
+48405,San Augustine County,TX,27.284578281840698,High-High
+47051,Franklin County,TN,14.465052039658659,Not significant
+56005,Campbell County,WY,9.52597599549374,Not significant
+39131,Pike County,OH,19.843410504233162,Not significant
+19039,Clarke County,IA,16.915161696766063,Not significant
+45021,Cherokee County,SC,17.986185391323264,Not significant
+27149,Stevens County,MN,11.712482618461868,Low-Low
+28037,Franklin County,MS,23.771895166600817,High-High
+08113,San Miguel County,CO,8.478368970661363,Not significant
+21135,Lewis County,KY,26.594259115593484,High-High
+26033,Chippewa County,MI,16.467419266971337,Not significant
+26131,Ontonagon County,MI,13.682577976908496,Not significant
+27089,Marshall County,MN,7.412017653049677,Not significant
+29081,Harrison County,MO,16.492771841609052,Not significant
+28101,Newton County,MS,23.457875457875456,High-High
+28155,Webster County,MS,15.771265771265771,High-High
+34041,Warren County,NJ,7.744388024085019,Low-Low
+36055,Monroe County,NY,13.448219819421169,Not significant
+39061,Hamilton County,OH,14.880456776916064,High-Low
+40121,Pittsburg County,OK,18.954594724798266,High-High
+13017,Ben Hill County,GA,26.490935114503817,High-High
+47173,Union County,TN,15.890858923918042,Not significant
+20167,Russell County,KS,17.498469075321495,Not significant
+55025,Dane County,WI,10.85337590205289,Low-Low
+48171,Gillespie County,TX,9.070405593354133,Low-Low
+04012,La Paz County,AZ,20.99120019555121,Not significant
+21215,Spencer County,KY,8.331173207527607,Not significant
+16001,Ada County,ID,8.76908556570515,Not significant
+05061,Howard County,AR,18.314231136580705,Not significant
+51049,Cumberland County,VA,7.945516458569807,Low-Low
+20079,Harvey County,KS,9.689079491499465,Not significant
+48129,Donley County,TX,11.310531662715881,Not significant
+17177,Stephenson County,IL,13.339588530105042,Low-Low
+51680,Lynchburg city,VA,17.53289329894654,Not significant
+21169,Metcalfe County,KY,24.004316264469296,High-High
+39065,Hardin County,OH,18.155456538651954,High-Low
+17081,Jefferson County,IL,14.133673903788846,Not significant
+19135,Monroe County,IA,10.827168796234028,Not significant
+54095,Tyler County,WV,12.024390243902438,Not significant
+08011,Bent County,CO,27.06660368445914,High-High
+55137,Waushara County,WI,11.470188551044675,Not significant
+55135,Waupaca County,WI,8.838755923698777,Low-Low
+48463,Uvalde County,TX,24.12414080399917,High-High
+28147,Walthall County,MS,20.273912726742914,High-High
+29061,Daviess County,MO,13.777561213302473,Not significant
+48495,Winkler County,TX,12.633404482390608,Not significant
+39041,Delaware County,OH,4.5265986834096505,Not significant
+46057,Hamlin County,SD,7.425329551143,Low-Low
+20127,Morris County,KS,10.976989815164089,Not significant
+01081,Lee County,AL,18.498982654406806,Not significant
+06073,San Diego County,CA,10.571216813986691,Not significant
+12075,Levy County,FL,15.659308640824223,Not significant
+01015,Calhoun County,AL,18.039163328882957,Not significant
+19163,Scott County,IA,11.89692499955996,Not significant
+19191,Winneshiek County,IA,8.934151785714286,Low-Low
+20129,Morton County,KS,13.193116634799235,Not significant
+21037,Campbell County,KY,11.702635758794193,Not significant
+21235,Whitley County,KY,23.489759623658998,High-High
+39117,Morrow County,OH,10.575755824036072,Not significant
+39037,Darke County,OH,11.048219671745859,Not significant
+31175,Valley County,NE,8.849335673101027,Not significant
+31027,Cedar County,NE,5.430528375733855,Not significant
+31133,Pawnee County,NE,13.32798073063027,Not significant
+45031,Darlington County,SC,20.22762964042288,High-High
+46065,Hughes County,SD,10.023923444976077,Not significant
+29117,Livingston County,MO,10.442102070220672,Not significant
+48183,Gregg County,TX,16.544634026744678,Not significant
+51111,Lunenburg County,VA,13.037986104845258,Not significant
+54049,Marion County,WV,14.91213663984234,Not significant
+54023,Grant County,WV,11.723758930206998,Not significant
+38023,Divide County,ND,6.616257088846881,Low-Low
+47127,Moore County,TN,9.925558312655086,Not significant
+49047,Uintah County,UT,11.572181659290164,Not significant
+31065,Furnas County,NE,11.150286469810489,Low-Low
+01017,Chambers County,AL,17.87814631851329,Not significant
+42055,Franklin County,PA,8.998051948051948,Low-Low
+31109,Lancaster County,NE,11.801716413323716,Low-Low
+51069,Frederick County,VA,6.76993943151997,Not significant
+53039,Klickitat County,WA,13.772481421221583,Not significant
+50011,Franklin County,VT,10.374622356495468,Low-Low
+55007,Bayfield County,WI,10.443018256589196,Not significant
+06021,Glenn County,CA,15.252269368798817,Not significant
+08013,Boulder County,CO,11.282385386094525,Low-Low
+13089,DeKalb County,GA,13.399239259346318,Not significant
+17089,Kane County,IL,8.327691266079892,Low-Low
+17137,Morgan County,IL,12.909359121455498,Not significant
+18013,Brown County,IN,8.1651376146789,Not significant
+18139,Rush County,IN,11.709188333434817,Not significant
+18181,White County,IN,8.69403907989117,Not significant
+19103,Johnson County,IA,16.88497636500651,High-Low
+20111,Lyon County,KS,16.21673861220282,High-Low
+21001,Adair County,KY,19.784580498866212,High-High
+22003,Allen Parish,LA,19.577947771036666,Not significant
+23017,Oxford County,ME,14.42746091361691,High-Low
+29029,Camden County,MO,13.455528140054048,Not significant
+13315,Wilcox County,GA,23.047154937652287,High-High
+35011,De Baca County,NM,16.259678379988088,High-High
+37181,Vance County,NC,18.729304142744837,Not significant
+37069,Franklin County,NC,9.700365193669976,Not significant
+30099,Teton County,MT,14.446437306375346,Not significant
+29009,Barry County,MO,18.48714953271028,Not significant
+53011,Clark County,WA,8.867451460633237,Not significant
+54069,Ohio County,WV,14.729848313902469,Not significant
+05019,Clark County,AR,19.989512323020453,High-High
+05075,Lawrence County,AR,17.783866445775455,Not significant
+06115,Yuba County,CA,15.411150823796062,Not significant
+08117,Summit County,CO,7.392604146357314,Low-Low
+13067,Cobb County,GA,8.286030771840004,Low-Low
+13097,Douglas County,GA,11.597193561700372,Not significant
+13317,Wilkes County,GA,17.833456153279293,Not significant
+17143,Peoria County,IL,15.470189663481984,Not significant
+18071,Jackson County,IN,12.44782878962792,Not significant
+20163,Rooks County,KS,4.631400042489909,Not significant
+20155,Reno County,KS,12.327041884371225,Low-Low
+21009,Barren County,KY,21.097230514857852,High-High
+21125,Laurel County,KY,20.54892757024578,High-High
+04005,Coconino County,AZ,16.881199988012106,Not significant
+06041,Marin County,CA,6.962270273228744,Not significant
+12091,Okaloosa County,FL,10.178331661019579,Not significant
+13213,Murray County,GA,13.063382062825637,Not significant
+17157,Randolph County,IL,12.52786609655374,Not significant
+18155,Switzerland County,IN,16.607015032211883,Not significant
+21117,Kenton County,KY,11.92163151973574,Not significant
+21171,Monroe County,KY,20.910231141372513,High-High
+22017,Caddo Parish,LA,21.941658716008238,High-High
+22027,Claiborne Parish,LA,32.61400651465798,High-High
+25003,Berkshire County,MA,10.968485281230729,Low-Low
+26055,Grand Traverse County,MI,10.403935012669548,Not significant
+31129,Nuckolls County,NE,6.273245722787007,Low-Low
+29005,Atchison County,MO,11.598685482312005,Not significant
+27123,Ramsey County,MN,12.893376468074418,Low-Low
+37011,Avery County,NC,11.220472440944881,Not significant
+42127,Wayne County,PA,10.992722950853855,Not significant
+47019,Carter County,TN,18.139824760787477,Not significant
+47081,Hickman County,TN,14.254517427421426,Not significant
+46107,Potter County,SD,6.971153846153846,Not significant
+48417,Shackelford County,TX,11.301259283177268,Not significant
+56009,Converse County,WY,11.022869328627104,Not significant
+01053,Escambia County,AL,21.810036891725712,Not significant
+04003,Cochise County,AZ,14.702482661574027,Not significant
+04001,Apache County,AZ,32.539093887137646,High-High
+06079,San Luis Obispo County,CA,12.583759905681497,Not significant
+16071,Oneida County,ID,13.490836829322147,Not significant
+18123,Perry County,IN,12.108028702186564,Not significant
+19085,Harrison County,IA,7.610816838583775,Not significant
+21077,Gallatin County,KY,16.82188591385332,Not significant
+24029,Kent County,MD,9.532120939136309,Not significant
+23021,Piscataquis County,ME,14.97794695184581,Not significant
+26095,Luce County,MI,18.26857532379005,Not significant
+26035,Clare County,MI,22.128091063718436,Not significant
+29185,St. Clair County,MO,15.73960539516219,Not significant
+31121,Merrick County,NE,10.24416135881104,Low-Low
+36039,Greene County,NY,10.413168360583297,Not significant
+37083,Halifax County,NC,23.861294528325693,Not significant
+40087,McClain County,OK,7.090464547677262,Not significant
+40007,Beaver County,OK,7.069486404833837,Not significant
+41017,Deschutes County,OR,9.130267656638816,Not significant
+42027,Centre County,PA,17.039666060767168,Not significant
+45055,Kershaw County,SC,14.436582048264585,High-High
+21175,Morgan County,KY,20.434248258910284,High-High
+47091,Johnson County,TN,21.59147557328016,Not significant
+48043,Brewster County,TX,15.650384490414817,High-High
+48505,Zapata County,TX,37.18611252638475,High-High
+48455,Trinity County,TX,14.238165680473372,Not significant
+49007,Carbon County,UT,16.60575719649562,Not significant
+51137,Orange County,VA,12.988457794465305,Low-Low
+55001,Adams County,WI,14.55259580039277,Not significant
+38055,McLean County,ND,6.855424185853558,Low-Low
+27069,Kittson County,MN,10.995284189625217,Low-Low
+26031,Cheboygan County,MI,11.919096525400386,Not significant
+28151,Washington County,MS,29.29130972559439,High-High
+29087,Holt County,MO,9.442163728567978,Not significant
+28133,Sunflower County,MS,28.68441270845573,High-High
+30075,Powder River County,MT,12.694748990190421,Not significant
+28093,Marshall County,MS,19.51319611062003,Not significant
+28055,Issaquena County,MS,20.63305978898007,High-High
+28009,Benton County,MS,17.62208067940552,Not significant
+39035,Cuyahoga County,OH,16.49730270200518,High-Low
+30047,Lake County,MT,18.99382000772499,Not significant
+44005,Newport County,RI,7.774321439463251,Not significant
+29047,Clay County,MO,8.25615189307443,Not significant
+29227,Worth County,MO,16.572601334017445,Not significant
+29157,Perry County,MO,11.335053208642373,Not significant
+29141,Morgan County,MO,19.71735879998071,Not significant
+51105,Lee County,VA,25.980297469576975,High-High
+53009,Clallam County,WA,10.875811848061405,Not significant
+56041,Uinta County,WY,6.513125309559188,Low-Low
+05001,Arkansas County,AR,16.84311262635325,High-High
+05039,Dallas County,AR,11.909075934771867,Not significant
+09140,Naugatuck Valley Planning Region,CT,10.231123907658239,Low-Low
+13035,Butts County,GA,15.76810581918191,Not significant
+13007,Baker County,GA,23.141070187630298,High-High
+17099,LaSalle County,IL,13.650189756001092,Low-Low
+18085,Kosciusko County,IN,8.908592739173454,Not significant
+18153,Sullivan County,IN,12.165358563595312,Not significant
+20161,Riley County,KS,22.729870511585375,High-Low
+21029,Bullitt County,KY,10.581771564617545,Not significant
+21151,Madison County,KY,16.12448094702792,Not significant
+22063,Livingston Parish,LA,11.606765922715375,Not significant
+22043,Grant Parish,LA,15.008937020292294,Not significant
+22013,Bienville Parish,LA,31.08086722582687,High-High
+29027,Callaway County,MO,9.47464168940679,Not significant
+13309,Wheeler County,GA,26.685837526959023,High-High
+37037,Chatham County,NC,10.380454120158666,Not significant
+45005,Allendale County,SC,27.20946416144746,High-High
+25025,Suffolk County,MA,17.023464460097546,High-Low
+47079,Henry County,TN,18.07145334720777,Not significant
+48005,Angelina County,TX,16.099910793933986,High-High
+53025,Grant County,WA,14.2608642578125,Not significant
+51109,Louisa County,VA,10.859823923243185,Low-Low
+27049,Goodhue County,MN,9.087024336046834,Low-Low
+53071,Walla Walla County,WA,11.094920899250624,Not significant
+29043,Christian County,MO,8.66778746883004,Not significant
+18025,Crawford County,IN,21.94559261751418,Not significant
+40133,Seminole County,OK,22.624632788179067,Not significant
+35027,Lincoln County,NM,15.721223651930107,High-High
+47013,Campbell County,TN,19.438664030798044,High-High
+35053,Socorro County,NM,30.53493241956977,High-High
+35055,Taos County,NM,14.851253904767466,High-High
+09170,South Central Connecticut Planning Region,CT,11.77059347943797,Not significant
+35005,Chaves County,NM,21.78473038939279,Not significant
+39075,Holmes County,OH,8.948216340621403,Not significant
+39079,Jackson County,OH,17.40233701951693,High-High
+37023,Burke County,NC,16.95147840161387,Not significant
+46103,Pennington County,SD,12.266467485178095,Low-High
+48007,Aransas County,TX,17.871139016476338,Not significant
+53075,Whitman County,WA,23.85776911836337,Not significant
+26021,Berrien County,MI,15.713926629536044,Not significant
+13181,Lincoln County,GA,18.108284409654274,Not significant
+48465,Val Verde County,TX,16.198982377219227,Not significant
+36067,Onondaga County,NY,13.90524781662518,Not significant
+16047,Gooding County,ID,13.304245897369107,Not significant
+21051,Clay County,KY,31.217211594510093,High-High
+41025,Harney County,OR,12.130298487120076,Not significant
+29053,Cooper County,MO,13.043478260869565,Not significant
+27153,Todd County,MN,12.004338917681089,Low-Low
+55037,Florence County,WI,9.79564637938694,Not significant
+36059,Nassau County,NY,5.384797883018524,Not significant
+35047,San Miguel County,NM,23.540322269021214,High-High
+31179,Wayne County,NE,16.61653230658164,High-Low
+39087,Lawrence County,OH,17.927288655278144,Not significant
+46127,Union County,SD,8.249924173491053,Low-Low
+45013,Beaufort County,SC,10.35743873724601,Not significant
+39011,Auglaize County,OH,6.601783909662112,Not significant
+13183,Long County,GA,15.768996960486323,Not significant
+48469,Victoria County,TX,16.64223120054616,Not significant
+39025,Clermont County,OH,8.375876469250386,Not significant
+13195,Madison County,GA,20.579258177957666,Not significant
+13215,Muscogee County,GA,18.6946319010698,Not significant
+13219,Oconee County,GA,4.468871501944031,Not significant
+01057,Fayette County,AL,22.181180742502974,Not significant
+13049,Charlton County,GA,20.48524477329433,Not significant
+50027,Windsor County,VT,8.716456628047604,Low-Low
+51159,Richmond County,VA,7.547169811320755,Not significant
+48167,Galveston County,TX,11.018453523921128,Not significant
+29186,Ste. Genevieve County,MO,9.215566535280075,Not significant
+26109,Menominee County,MI,10.754189944134078,Not significant
+45019,Charleston County,SC,12.271193578630195,Not significant
+48015,Austin County,TX,11.939653740072442,Low-Low
+47039,Decatur County,TN,19.24203425934144,Not significant
+46019,Butte County,SD,8.234602957015568,Low-Low
+45023,Chester County,SC,18.949971823930873,Not significant
+55093,Pierce County,WI,9.818043972706596,Low-Low
+47095,Lake County,TN,27.932839075447013,High-High
+48119,Delta County,TX,14.11313518696069,Not significant
+30053,Lincoln County,MT,16.86069851465275,Not significant
+48157,Fort Bend County,TX,6.925968627982909,Not significant
+23015,Lincoln County,ME,9.141314027981268,Not significant
+51181,Surry County,VA,13.349700782568666,Low-Low
+29195,Saline County,MO,12.991020032235781,Not significant
+37033,Caswell County,NC,15.438794196365686,Not significant
+51183,Sussex County,VA,12.741969793660923,Not significant
+33015,Rockingham County,NH,4.8449358283468245,Low-Low
+47063,Hamblen County,TN,17.13898433313369,Not significant
+47067,Hancock County,TN,32.33578882750153,Not significant
+47073,Hawkins County,TN,16.879936107906648,High-High
+46061,Hanson County,SD,6.012198663955853,Not significant
+46077,Kingsbury County,SD,9.275705545687783,Low-Low
+42029,Chester County,PA,5.958593794804152,Low-Low
+48057,Calhoun County,TX,9.205020920502092,Not significant
+51133,Northumberland County,VA,14.815125345853945,Not significant
+55041,Forest County,WI,13.94497448413579,Low-Low
+56011,Crook County,WY,6.325594327818712,Not significant
+31149,Rock County,NE,9.098228663446054,Low-Low
+47001,Anderson County,TN,15.397617727068642,Not significant
+21079,Garrard County,KY,15.678291142975159,Not significant
+50025,Windham County,VT,12.556711735096947,Low-Low
+24045,Wicomico County,MD,13.83832628622265,Not significant
+23023,Sagadahoc County,ME,10.893311796753087,Not significant
+20011,Bourbon County,KS,12.791114295951273,Not significant
+20037,Crawford County,KS,20.902856525730332,Not significant
+48085,Collin County,TX,6.32207891628973,Low-Low
+48089,Colorado County,TX,7.4518629657414355,Not significant
+42045,Delaware County,PA,9.664362921125287,Low-Low
+45033,Dillon County,SC,31.60931899641577,High-High
+42031,Clarion County,PA,13.703416149068323,Not significant
+48241,Jasper County,TX,22.838616714697405,High-High
+42035,Clinton County,PA,13.1457856887003,Not significant
+24025,Harford County,MD,7.136225474522011,Low-Low
+17159,Richland County,IL,13.74219562955255,Not significant
+24027,Howard County,MD,5.369117320880036,Low-Low
+47105,Loudon County,TN,11.822633297062024,Not significant
+17163,St. Clair County,IL,13.798629816370005,Low-Low
+25005,Bristol County,MA,11.143108593896939,Low-Low
+18063,Hendricks County,IN,5.22117814184744,Low-Low
+24003,Anne Arundel County,MD,5.83277205145209,Low-Low
+48091,Comal County,TX,6.100544887635993,Low-Low
+48097,Cooke County,TX,13.32863016031333,Not significant
+48105,Crockett County,TX,9.314404432132964,Not significant
+48109,Culberson County,TX,22.1606648199446,High-High
+21105,Hickman County,KY,16.712707182320443,High-High
+21109,Jackson County,KY,22.64224473889322,High-High
+45043,Georgetown County,SC,16.00317586343787,Not significant
+53001,Adams County,WA,20.92748486191109,Not significant
+31105,Kimball County,NE,10.03012048192771,Low-Low
+30009,Carbon County,MT,10.25420489296636,Not significant
+21089,Greenup County,KY,15.06736865942029,High-High
+22119,Webster Parish,LA,27.598526292285364,High-High
+47111,Macon County,TN,16.50586492653829,Not significant
+37129,New Hanover County,NC,12.701408564903446,Not significant
+48071,Chambers County,TX,13.702380697739086,Not significant
+12001,Alachua County,FL,20.18254420992584,Not significant
+13321,Worth County,GA,19.582964492967445,High-High
+41047,Marion County,OR,12.994824450972164,Not significant
+42065,Jefferson County,PA,14.105660203776536,Not significant
+26043,Dickinson County,MI,9.702691057229034,Not significant
+26045,Eaton County,MI,7.6087057923558445,Not significant
+21121,Knox County,KY,34.03692140627121,High-High
+26059,Hillsdale County,MI,15.152958251128195,Not significant
+48121,Denton County,TX,7.416557225653712,Not significant
+19183,Washington County,IA,7.486655206731204,Not significant
+47159,Smith County,TN,14.852482126674051,Not significant
+20205,Wilson County,KS,16.28698919680601,Not significant
+51087,Henrico County,VA,8.41811060857756,Low-Low
+44003,Kent County,RI,7.504506855163907,Not significant
+42037,Columbia County,PA,15.311390240694463,Not significant
+47101,Lewis County,TN,18.899482870071104,Not significant
+27081,Lincoln County,MN,9.117647058823529,Not significant
+47113,Madison County,TN,18.15378115758344,Not significant
+29173,Ralls County,MO,12.33835683033544,Not significant
+37007,Anson County,NC,19.34734239802225,Not significant
+21059,Daviess County,KY,13.977559971625254,Not significant
+49053,Washington County,UT,8.816140378000233,Not significant
+19007,Appanoose County,IA,17.346854645890016,Not significant
+51143,Pittsylvania County,VA,16.409615352129332,Not significant
+42069,Lackawanna County,PA,12.993197933403247,Not significant
+42071,Lancaster County,PA,8.183319692924146,Low-Low
+29099,Jefferson County,MO,8.273268987172397,Not significant
+29221,Washington County,MO,18.597411837950816,Not significant
+42077,Lehigh County,PA,11.946651610126985,Low-Low
+21133,Letcher County,KY,29.01025518721679,High-High
+26075,Jackson County,MI,12.114141782388227,Not significant
+21143,Lyon County,KY,9.962845741021054,Not significant
+27023,Chippewa County,MN,11.217712177121772,Low-Low
+21145,McCracken County,KY,15.171653400595085,Not significant
+49011,Davis County,UT,6.04573848420854,Low-Low
+51003,Albemarle County,VA,7.094230769230769,Not significant
+30031,Gallatin County,MT,10.599889069920616,Low-Low
+55075,Marinette County,WI,9.652046067140407,Not significant
+30003,Big Horn County,MT,25.734834271419636,Not significant
+06005,Amador County,CA,7.838492454286551,Not significant
+48073,Cherokee County,TX,16.576884889198723,Not significant
+29119,McDonald County,MO,16.911637558360713,Not significant
+42087,Mifflin County,PA,16.677680852938586,Not significant
+22117,Washington Parish,LA,23.547981242136565,High-High
+38105,Williams County,ND,7.414404389120365,Not significant
+37051,Cumberland County,NC,17.554906211707042,High-High
+21157,Marshall County,KY,12.112193070428003,Not significant
+26081,Kent County,MI,10.731856700295873,Not significant
+26083,Keweenaw County,MI,7.821497120921305,Not significant
+27055,Houston County,MN,7.192812567247687,Not significant
+45051,Horry County,SC,13.10173102073684,Low-High
+30043,Jefferson County,MT,5.05520046484602,Not significant
+47155,Sevier County,TN,13.293513418553463,Not significant
+22015,Bossier Parish,LA,16.66218630908142,High-High
+35003,Catron County,NM,21.035058430717864,High-High
+21075,Fulton County,KY,27.37636211232188,High-High
+35045,San Juan County,NM,24.503002778193675,High-High
+24011,Caroline County,MD,12.91899654719345,Not significant
+29127,Marion County,MO,14.15870925255186,Not significant
+47107,McMinn County,TN,13.63889261938108,Not significant
+51149,Prince George County,VA,8.280671170189583,Not significant
+22055,Lafayette Parish,LA,16.810797636756337,High-High
+42095,Northampton County,PA,9.193423431178445,Low-Low
+49035,Salt Lake County,UT,8.096582738290966,Low-Low
+26105,Mason County,MI,13.680194242108914,Not significant
+54087,Roane County,WV,21.075717264686848,High-High
+54089,Summers County,WV,21.18590610074795,Not significant
+37193,Wilkes County,NC,17.14918622896348,Not significant
+55027,Dodge County,WI,7.623492347118708,Low-Low
+48439,Tarrant County,TX,11.020606979690559,Low-Low
+30059,Meagher County,MT,12.00861604738826,Not significant
+05091,Miller County,AR,20.52917723812976,High-High
+47179,Washington County,TN,15.736024820571837,Not significant
+16075,Payette County,ID,10.553640074505608,Not significant
+17115,Macon County,IL,15.470858727419628,High-Low
+22081,Red River Parish,LA,24.762690879075524,High-High
+37065,Edgecombe County,NC,22.039684674432557,High-High
+24015,Cecil County,MD,10.092226613965744,Low-Low
+17119,Madison County,IL,12.00682481064609,Not significant
+22111,Union Parish,LA,26.825466413366456,High-High
+37199,Yancey County,NC,15.281326447404187,Not significant
+36005,Bronx County,NY,26.91498993322348,Not significant
+23029,Washington County,ME,17.53581280951906,Not significant
+48045,Briscoe County,TX,24.353954581049333,Not significant
+55047,Green Lake County,WI,12.779023817152622,Low-Low
+27039,Dodge County,MN,4.937193850332218,Low-Low
+26121,Muskegon County,MI,12.92081191946815,Not significant
+21189,Owsley County,KY,28.815312984997412,High-High
+26127,Oceana County,MI,13.927714514224778,Not significant
+37125,Moore County,NC,9.47273810605831,Not significant
+47165,Sumner County,TN,9.403688566675566,Not significant
+21219,Todd County,KY,21.131199203848066,Not significant
+21221,Trigg County,KY,18.17276928546036,Not significant
+47181,Wayne County,TN,19.64137358072556,Not significant
+47183,Weakley County,TN,18.90842658141128,Not significant
+48047,Brooks County,TX,33.21630285452603,High-High
+47187,Williamson County,TN,4.171357779580242,Not significant
+56019,Johnson County,WY,16.664684191744975,High-Low
+55095,Polk County,WI,8.327346205657836,Low-Low
+47121,Meigs County,TN,15.43418467583497,Not significant
+17127,Massac County,IL,13.752441582869132,Not significant
+24019,Dorchester County,MD,15.396336722953011,Not significant
+06085,Santa Clara County,CA,6.882042572679827,Not significant
+36019,Clinton County,NY,13.037564943013356,Not significant
+42043,Dauphin County,PA,12.172813008592323,Low-Low
+30039,Granite County,MT,13.120243531202435,Not significant
+26159,Van Buren County,MI,14.153792697920565,Not significant
+17045,Edgar County,IL,11.798229659270037,Not significant
+17067,Hancock County,IL,13.108700669282252,Not significant
+27011,Big Stone County,MN,10.472567080496596,Not significant
+06009,Calaveras County,CA,13.079627623112133,Not significant
+45075,Orangeburg County,SC,25.00432729161,Not significant
+56039,Teton County,WY,6.913473956091261,Low-Low
+45077,Pickens County,SC,16.920583468395463,Not significant
+37147,Pitt County,NC,20.033046203938817,High-High
+47133,Overton County,TN,17.27473120698187,High-High
+24041,Talbot County,MD,9.307330195023537,Not significant
+47139,Polk County,TN,12.870713623725672,Not significant
+37159,Rowan County,NC,16.417816373695636,Not significant
+21005,Anderson County,KY,13.370567826013371,Low-Low
+35013,Doña Ana County,NM,22.759625623493807,High-High
+34021,Mercer County,NJ,11.223985158186085,Low-Low
+38051,McIntosh County,ND,13.628831814415907,Low-Low
+35017,Grant County,NM,20.45958327176001,High-High
+21013,Bell County,KY,26.293748130421775,High-High
+37057,Davidson County,NC,13.93154486586494,Not significant
+23005,Cumberland County,ME,7.2131692491384225,Not significant
+27015,Brown County,MN,7.7307537283353485,Not significant
+45079,Richland County,SC,16.826898267124914,Not significant
+51065,Fluvanna County,VA,6.0555512452478855,Low-Low
+45087,Union County,SC,21.04632886759973,Not significant
+56033,Sheridan County,WY,8.680315168298552,Not significant
+51089,Henry County,VA,16.129356030191104,Not significant
+21015,Boone County,KY,5.736244152372466,Not significant
+28081,Lee County,MS,13.453007702057132,Not significant
+18177,Wayne County,IN,16.045728603868138,Not significant
+17101,Lawrence County,IL,13.709857685716415,Not significant
+22115,Vernon Parish,LA,18.046115460724426,High-High
+31111,Lincoln County,NE,10.97333056453766,Not significant
+26029,Charlevoix County,MI,8.63404057611894,Low-Low
+55065,Lafayette County,WI,10.524410114054675,Low-Low
+36047,Kings County,NY,18.973719542225723,Not significant
+51169,Scott County,VA,16.995513531767088,High-High
+39069,Henry County,OH,9.510298831939275,Not significant
+21019,Boyd County,KY,17.41503937857374,High-High
+40047,Garfield County,OK,14.000926446745856,Not significant
+40073,Kingfisher County,OK,12.224808779514467,Not significant
+40103,Noble County,OK,10.78834298524192,Not significant
+21027,Breckinridge County,KY,23.518306920363653,Not significant
+41049,Morrow County,OR,16.70111616370401,Not significant
+42013,Blair County,PA,13.200093932938591,Not significant
+53003,Asotin County,WA,16.08738828202582,Not significant
+41067,Washington County,OR,8.163770333671701,Low-Low
+55133,Waukesha County,WI,4.949786929701702,Low-Low
+45089,Williamsburg County,SC,23.53041462084015,Not significant
+29023,Butler County,MO,21.111003487020536,High-High
+16017,Bonner County,ID,11.853148327780355,Not significant
+17003,Alexander County,IL,21.425796425796428,High-High
+18051,Gibson County,IN,9.969563326914715,Not significant
+40139,Texas County,OK,20.464981391077384,High-Low
+29143,New Madrid County,MO,17.26437649427457,High-High
+37021,Buncombe County,NC,11.244880559065788,Not significant
+48147,Fannin County,TX,12.831617201695941,Not significant
+46083,Lincoln County,SD,6.451167076167076,Low-Low
+47131,Obion County,TN,16.145297727649695,High-High
+21007,Ballard County,KY,14.297008828567664,Low-High
+48053,Burnet County,TX,7.8346610675394714,Not significant
+41039,Lane County,OR,16.12845415809619,Not significant
+25013,Hampden County,MA,15.767554050764566,High-Low
+29033,Carroll County,MO,9.427009034712317,Not significant
+51117,Mecklenburg County,VA,18.766609880749574,Not significant
+55061,Kewaunee County,WI,6.724830898931478,Not significant
+47031,Coffee County,TN,16.896011147883645,Not significant
+19099,Jasper County,IA,8.8183958997091,Not significant
+16025,Camas County,ID,6.707855251544572,Not significant
+55139,Winnebago County,WI,10.81834938538348,Low-Low
+18171,Warren County,IN,12.54501800720288,Not significant
+22011,Beauregard Parish,LA,13.314890882163914,Low-High
+24037,St. Mary's County,MD,7.5927771642018875,Low-Low
+28117,Prentiss County,MS,16.319810882688166,Not significant
+28135,Tallahatchie County,MS,25.665478066174643,High-High
+34005,Burlington County,NJ,6.583532528871353,Not significant
+30071,Phillips County,MT,6.947771921418304,Not significant
+50001,Addison County,VT,7.496945365683366,Low-Low
+50003,Bennington County,VT,11.204350346426699,Not significant
+51710,Norfolk city,VA,16.862237441015576,Not significant
+37131,Northampton County,NC,18.677321247540103,Not significant
+41057,Tillamook County,OR,12.497175992168085,Not significant
+30017,Custer County,MT,11.107257435185987,Not significant
+30093,Silver Bow County,MT,15.91081982561882,Not significant
+17017,Cass County,IL,12.277150642273257,Not significant
+19025,Calhoun County,IA,9.03954802259887,Low-Low
+20009,Barton County,KS,14.468702167082897,Not significant
+20197,Wabaunsee County,KS,5.926581158779301,Not significant
+22001,Acadia Parish,LA,23.72256984224905,High-High
+26065,Ingham County,MI,16.536363018919182,High-Low
+13207,Monroe County,GA,13.719106112179961,Not significant
+36073,Orleans County,NY,12.580247884076199,Not significant
+37167,Stanly County,NC,13.774317785312222,Not significant
+36003,Allegany County,NY,17.052363670641466,Not significant
+17183,Vermilion County,IL,17.454243630685255,Not significant
+17077,Jackson County,IL,22.957229652503457,Not significant
+21163,Meade County,KY,13.283021422044738,Not significant
+21185,Oldham County,KY,3.989842338131738,Not significant
+53049,Pacific County,WA,13.165461357497604,Not significant
+55043,Grant County,WI,13.805576799851176,Not significant
+05029,Conway County,AR,20.889233302658983,Not significant
+17083,Jersey County,IL,8.077505002684367,Not significant
+49025,Kane County,UT,12.917712323339057,Not significant
+51195,Wise County,VA,19.913863205132067,High-High
+35007,Colfax County,NM,18.081494057724957,Not significant
+37035,Catawba County,NC,13.044524211979057,Not significant
+39023,Clark County,OH,15.591349130835335,Not significant
+31041,Custer County,NE,11.318395999615348,Low-Low
+42079,Luzerne County,PA,14.917591872633873,Not significant
+42067,Juniata County,PA,8.951373661808333,Not significant
+42107,Schuylkill County,PA,12.344700555518864,Not significant
+47145,Roane County,TN,12.151851155797782,Not significant
+21203,Rockcastle County,KY,23.55379807385675,High-High
+24009,Calvert County,MD,4.2689238731938755,Low-Low
+24013,Carroll County,MD,5.097606848693171,Low-Low
+25027,Worcester County,MA,9.987842513794071,Low-Low
+21195,Pike County,KY,23.893727611154034,High-High
+22031,De Soto Parish,LA,20.218681896746073,High-High
+24047,Worcester County,MD,8.194835815745586,Not significant
+26009,Antrim County,MI,9.380198780019622,Not significant
+54003,Berkeley County,WV,10.938733228097869,Low-Low
+05059,Hot Spring County,AR,19.74144634525661,Not significant
+13223,Paulding County,GA,6.694013330018587,Not significant
+17019,Champaign County,IL,18.7173339851368,Not significant
+17203,Woodford County,IL,7.464125080316984,Not significant
+17117,Macoupin County,IL,14.669576485030348,Not significant
+17145,Perry County,IL,17.469427161553316,Not significant
+19081,Hancock County,IA,9.913752250971472,Low-Low
+47153,Sequatchie County,TN,22.260165686460507,Not significant
+48291,Liberty County,TX,17.7203836158322,Not significant
+48131,Duval County,TX,21.579116293998073,High-High
+48169,Garza County,TX,15.389972144846796,Not significant
+48025,Bee County,TX,19.961799660441425,Not significant
+49057,Weber County,UT,7.6395939086294415,Low-Low
+51147,Prince Edward County,VA,18.110188496272503,Not significant
+55087,Outagamie County,WI,6.9129541147265305,Low-Low
+55097,Portage County,WI,10.412273145810438,Low-Low
+27167,Wilkin County,MN,13.5378775897517,Not significant
+28127,Simpson County,MS,17.05680337899183,High-High
+28007,Attala County,MS,23.56150223957735,High-High
+28079,Leake County,MS,20.967351874244255,High-High
+28095,Monroe County,MS,16.73744766723894,Not significant
+28029,Copiah County,MS,23.431564194297938,High-High
+27021,Cass County,MN,12.230890280242408,Not significant
+31025,Cass County,NE,5.635623835418489,Low-Low
+27019,Carver County,MN,3.783156842591632,Low-Low
+37179,Union County,NC,6.8036539313516595,Not significant
+21085,Grayson County,KY,21.06196737747272,Not significant
+21067,Fayette County,KY,14.93238567649893,Not significant
+26087,Lapeer County,MI,10.163406214039126,Not significant
+29007,Audrain County,MO,18.098681412165035,Not significant
+13133,Greene County,GA,12.916578221184462,Not significant
+36099,Seneca County,NY,13.144705956987883,Not significant
+37183,Wake County,NC,8.189808166655556,Not significant
+39031,Coshocton County,OH,18.86070686070686,Not significant
+06069,San Benito County,CA,7.510219307107664,Not significant
+12083,Marion County,FL,14.363685710408468,Not significant
+13123,Gilmer County,GA,14.83829650976625,Not significant
+16061,Lewis County,ID,17.694444444444443,Not significant
+17103,Lee County,IL,12.495629231698402,Not significant
+17023,Clark County,IL,9.042342698852394,Not significant
+34007,Camden County,NJ,12.40810158951559,Not significant
+37087,Haywood County,NC,12.116277176125722,Not significant
+42101,Philadelphia County,PA,22.72093774218548,High-Low
+32015,Lander County,NV,10.758936432470506,Not significant
+40023,Choctaw County,OK,22.77263007840342,Not significant
+42117,Tioga County,PA,12.158159739362228,Not significant
+35006,Cibola County,NM,27.268164620492627,High-High
+51735,Poquoson city,VA,4.49726951493736,Not significant
+40119,Payne County,OK,24.2681814412472,Not significant
+42041,Cumberland County,PA,7.740471064450841,Low-Low
+42021,Cambria County,PA,14.355874574990555,Not significant
+47017,Carroll County,TN,16.44806547075372,Not significant
+48021,Bastrop County,TX,11.940703056586464,Not significant
+48335,Mitchell County,TX,14.450145610872278,High-Low
+48001,Anderson County,TX,15.633511993673666,Not significant
+51683,Manassas city,VA,4.740608228980322,Low-Low
+18125,Pike County,IN,10.981793997838556,Low-Low
+08047,Gilpin County,CO,9.30795847750865,Low-Low
+21217,Taylor County,KY,14.271360823084962,Low-High
+21099,Hart County,KY,22.636194525644434,High-High
+22039,Evangeline Parish,LA,27.763928906730552,High-High
+22053,Jefferson Davis Parish,LA,16.019448127801983,High-High
+13237,Putnam County,GA,16.031262780024537,Not significant
+13011,Banks County,GA,13.17702355577417,Not significant
+30111,Yellowstone County,MT,10.712059398974219,Not significant
+29069,Dunklin County,MO,21.988017827135238,High-High
+48037,Bowie County,TX,17.37765975790599,Not significant
+51520,Bristol city,VA,16.954211688854397,Not significant
+54009,Brooke County,WV,11.039692221075349,Not significant
+06029,Kern County,CA,19.29297777959345,Not significant
+08019,Clear Creek County,CO,6.623725174449812,Low-Low
+13157,Jackson County,GA,8.136741365050609,Not significant
+13129,Gordon County,GA,14.01931285424393,Not significant
+17107,Logan County,IL,11.540648095508812,Not significant
+18079,Jennings County,IN,13.918311220128592,Not significant
+51171,Shenandoah County,VA,12.556176571233033,Not significant
+55039,Fond du Lac County,WI,8.589933640424622,Low-Low
+13283,Treutlen County,GA,28.14569536423841,High-High
+37195,Wilson County,NC,20.354922279792746,Not significant
+39017,Butler County,OH,11.849085430547893,Low-Low
+39101,Marion County,OH,16.07503126302626,High-Low
+31125,Nance County,NE,13.605857230018303,Low-Low
+42129,Westmoreland County,PA,9.726025425070905,Not significant
+01055,Etowah County,AL,15.865653895663623,Not significant
+56021,Laramie County,WY,8.980434428896844,Not significant
+01009,Blount County,AL,14.173187897053031,Not significant
+05097,Montgomery County,AR,18.152639087018546,Not significant
+08065,Lake County,CO,7.256954007160562,Low-Low
+17131,Mercer County,IL,8.023218316672041,Not significant
+19147,Palo Alto County,IA,10.69462340400609,Low-Low
+19065,Fayette County,IA,11.829552681789274,Low-Low
+18081,Johnson County,IN,7.49125516024328,Not significant
+21043,Carter County,KY,23.881114837515902,High-High
+21045,Casey County,KY,26.10289389067524,High-High
+22033,East Baton Rouge Parish,LA,17.860897383612915,Not significant
+29123,Madison County,MO,12.059937162652059,Not significant
+13093,Dooly County,GA,20.960604425256342,High-High
+29073,Gasconade County,MO,11.898016997167138,Not significant
+29223,Wayne County,MO,25.128440366972477,Not significant
+46075,Jones County,SD,14.81113320079523,High-High
+48229,Hudspeth County,TX,25.441116126384898,High-High
+48137,Edwards County,TX,23.40267459138187,Not significant
+48153,Floyd County,TX,19.026217228464418,High-High
+47119,Maury County,TN,8.876662263757437,Not significant
+47083,Houston County,TN,13.381872960080342,Not significant
+48367,Parker County,TX,7.912413853267033,Not significant
+21165,Menifee County,KY,26.885943380788742,High-High
+48253,Jones County,TX,14.196118940455987,Not significant
+49055,Wayne County,UT,8.463073852295409,Not significant
+19107,Keokuk County,IA,12.21289082262471,Not significant
+21097,Harrison County,KY,15.839064276818108,Not significant
+21239,Woodford County,KY,8.436517853761975,Not significant
+21167,Mercer County,KY,11.206666072542554,Not significant
+27131,Rice County,MN,9.245942403978628,Low-Low
+35037,Quay County,NM,24.890051111375254,Not significant
+35023,Hidalgo County,NM,23.213844252163163,Not significant
+36057,Montgomery County,NY,15.110829120530505,Not significant
+36037,Genesee County,NY,10.446978175713486,Not significant
+16077,Power County,ID,11.14791693209326,Not significant
+39089,Licking County,OH,9.81409746579771,Not significant
+40151,Woods County,OK,18.54724053250614,Not significant
+40123,Pontotoc County,OK,13.315025286856272,Not significant
+42119,Union County,PA,10.81543322607763,Not significant
+45063,Lexington County,SC,11.598295442904849,Not significant
+47177,Warren County,TN,16.80262217512384,High-High
+51157,Rappahannock County,VA,7.642364398755579,Low-Low
+31171,Thomas County,NE,6.587837837837838,Low-Low
+48431,Sterling County,TX,1.7699115044247788,Not significant
+01019,Cherokee County,AL,14.259063995457863,Not significant
+01129,Washington County,AL,15.80290537887711,Not significant
+06097,Sonoma County,CA,8.910852037299986,Not significant
+54025,Greenbrier County,WV,20.018668326073428,High-High
+40075,Kiowa County,OK,23.164388532720455,Not significant
+47175,Van Buren County,TN,17.002688172043012,Not significant
+37115,Madison County,NC,12.500608954060505,Not significant
+39091,Logan County,OH,10.91606399298707,Low-Low
+39139,Richland County,OH,13.874303358300745,Not significant
+40017,Canadian County,OK,7.967013313041838,Not significant
+47089,Jefferson County,TN,11.142061281337048,Not significant
+47185,White County,TN,17.05050355450237,Not significant
+47117,Marshall County,TN,15.58678269049859,High-Low
+48257,Kaufman County,TX,9.785920326422525,Not significant
+54043,Lincoln County,WV,19.18242106305058,High-High
+55123,Vernon County,WI,14.586075282969203,Not significant
+06053,Monterey County,CA,12.323736361823551,Not significant
+09180,Southeastern Connecticut Planning Region,CT,9.94651886788927,Low-Low
+12031,Duval County,FL,14.33713109213089,Not significant
+51091,Highland County,VA,10.254123941150246,Not significant
+31103,Keya Paha County,NE,8.611955420466058,Not significant
+01049,DeKalb County,AL,20.221928965703178,Not significant
+01071,Jackson County,AL,18.612521150592215,Not significant
+04017,Navajo County,AZ,25.47909240734353,High-High
+41033,Josephine County,OR,16.111597676776988,Not significant
+45067,Marion County,SC,27.393708952644314,High-High
+47161,Stewart County,TN,11.470304737895752,Not significant
+48499,Wood County,TX,12.625752216454591,Not significant
+48489,Willacy County,TX,26.617297011372653,Not significant
+46109,Roberts County,SD,20.8374975014991,High-Low
+47027,Clay County,TN,22.266720064076893,High-High
+48403,Sabine County,TX,17.309644670050762,High-High
+51083,Halifax County,VA,14.698598695337038,Not significant
+13191,McIntosh County,GA,20.324834407041102,Not significant
+16007,Bear Lake County,ID,10.573589662779703,Low-Low
+19045,Clinton County,IA,12.408566721581549,Not significant
+19145,Page County,IA,13.429491667833636,Not significant
+20107,Linn County,KS,11.499635758143407,Not significant
+21055,Crittenden County,KY,17.91044776119403,Not significant
+09110,Capitol Planning Region,CT,10.7592961719959,Low-Low
+12065,Jefferson County,FL,18.33232077764277,Not significant
+13027,Brooks County,GA,26.532258064516128,High-High
+13135,Gwinnett County,GA,10.123288578538515,Low-Low
+48481,Wharton County,TX,14.645342449029423,Not significant
+51025,Brunswick County,VA,17.166691058100394,Not significant
+54045,Logan County,WV,23.752976662962375,High-High
+55121,Trempealeau County,WI,7.383728633894263,Not significant
+38001,Adams County,ND,13.434247871333964,Not significant
+47077,Henderson County,TN,18.026363969242038,Not significant
+51127,New Kent County,VA,3.918889133788847,Low-Low
+31049,Deuel County,NE,7.146724417975094,Not significant
+01023,Choctaw County,AL,19.142284569138276,High-High
+05009,Boone County,AR,13.162661187856505,Not significant
+06013,Contra Costa County,CA,8.259944364282147,Not significant
+22067,Morehouse Parish,LA,28.801401964380325,High-High
+23027,Waldo County,ME,12.9129052113254,Not significant
+26099,Macomb County,MI,9.815915669864019,Not significant
+30061,Mineral County,MT,14.143426294820717,Not significant
+40037,Creek County,OK,13.551131144992864,Low-High
+40039,Custer County,OK,16.043380703066568,Not significant
+20151,Pratt County,KS,11.607761607761608,Not significant
+45059,Laurens County,SC,18.839067940910276,Not significant
+47021,Cheatham County,TN,9.342211956655282,Low-Low
+48077,Clay County,TX,9.092696353091517,Not significant
+51097,King and Queen County,VA,19.937040923399792,High-Low
+31083,Harlan County,NE,7.349081364829396,Not significant
+31009,Blaine County,NE,11.458333333333334,Low-Low
+04011,Greenlee County,AZ,12.812897751378872,Low-High
+06025,Imperial County,CA,21.05103528725576,Not significant
+12109,St. Johns County,FL,6.795140313113677,Not significant
+13045,Carroll County,GA,16.87835143682112,Not significant
+28001,Adams County,MS,27.193206254328096,High-High
+27139,Scott County,MN,5.0307520361930385,Low-Low
+31055,Douglas County,NE,11.006301972890485,Low-Low
+48331,Milam County,TX,14.27233488069061,Not significant
+22059,LaSalle Parish,LA,15.190889845974159,High-High
+48503,Young County,TX,15.71623310235147,Not significant
+51019,Bedford County,VA,9.066278407292524,Not significant
+54033,Harrison County,WV,13.711393034053323,Not significant
+55127,Walworth County,WI,9.560842166967905,Low-Low
+56043,Washakie County,WY,6.664899960249105,Not significant
+05093,Mississippi County,AR,21.868165403590865,High-High
+05021,Clay County,AR,19.424710962529602,High-High
+06059,Orange County,CA,9.683239717952256,Not significant
+18129,Posey County,IN,10.010855144132192,Not significant
+18075,Jay County,IN,13.510163609320774,Not significant
+19131,Mitchell County,IA,6.704999512718059,Low-Low
+20183,Smith County,KS,7.322654462242563,Not significant
+33005,Cheshire County,NH,9.003649383736143,Not significant
+39043,Erie County,OH,11.472334682860998,Not significant
+41009,Columbia County,OR,9.120521172638437,Not significant
+42125,Washington County,PA,9.496525482245435,Not significant
+36017,Chenango County,NY,12.42487136247676,Not significant
+42099,Perry County,PA,8.176571655138993,Low-Low
+46123,Tripp County,SD,21.911160880925717,High-High
+51037,Charlotte County,VA,20.31387762299418,Not significant
+31073,Gosper County,NE,6.539509536784741,Not significant
+12086,Miami-Dade County,FL,15.258113297620019,Not significant
+12045,Gulf County,FL,12.324884606040975,Not significant
+12029,Dixie County,FL,16.14500792393027,Not significant
+25009,Essex County,MA,9.721732024283456,Low-Low
+26003,Alger County,MI,10.250831840286665,Not significant
+42009,Bedford County,PA,10.786607674636263,Not significant
+46027,Clay County,SD,21.170313986679353,High-Low
+48141,El Paso County,TX,19.506231526629893,High-High
+51650,Hampton city,VA,13.45983116902659,Low-Low
+05007,Benton County,AR,7.881736818096629,Not significant
+05003,Ashley County,AR,23.27184054283291,High-High
+06051,Mono County,CA,11.286750668193967,Not significant
+06039,Madera County,CA,20.060672991205077,Not significant
+13251,Screven County,GA,18.419894366197184,High-High
+13033,Burke County,GA,17.332108252589375,High-High
+17111,McHenry County,IL,6.036202318502688,Low-Low
+19109,Kossuth County,IA,10.474609104746092,Low-Low
+27075,Lake County,MN,8.603456328818309,Not significant
+28021,Claiborne County,MS,30.423846057099738,High-High
+28073,Lamar County,MS,16.8454179648969,High-High
+31131,Otoe County,NE,11.447426867187005,Low-Low
+51193,Westmoreland County,VA,16.042634599617383,Not significant
+51153,Prince William County,VA,6.049187497897251,Low-Low
+01085,Lowndes County,AL,25.527658297489246,High-High
+01095,Marshall County,AL,16.60040483728655,Not significant
+12015,Charlotte County,FL,10.487798315710172,Not significant
+16055,Kootenai County,ID,9.273858678488297,Not significant
+17149,Pike County,IL,13.450251537171605,Not significant
+17181,Union County,IL,20.095351609058405,Not significant
+17059,Gallatin County,IL,19.17255297679112,Not significant
+37049,Craven County,NC,14.045650704518275,Not significant
+39155,Trumbull County,OH,17.136793167921574,Not significant
+42085,Mercer County,PA,13.50937066173068,Not significant
+30023,Deer Lodge County,MT,22.94645826405055,Not significant
+31127,Nemaha County,NE,15.32690246516613,High-Low
+28017,Chickasaw County,MS,26.621408655594617,Not significant
+36063,Niagara County,NY,12.968903593948548,Not significant
+36025,Delaware County,NY,14.799924766069497,Not significant
+37119,Mecklenburg County,NC,10.543548727810435,Low-Low
+04021,Pinal County,AZ,11.295184753544344,Not significant
+05077,Lee County,AR,27.619181549711715,High-High
+08035,Douglas County,CO,3.010342039974354,Low-Low
+08107,Routt County,CO,7.975161329599415,Not significant
+17141,Ogle County,IL,8.298055816870493,Not significant
+18061,Harrison County,IN,7.599203309330473,Not significant
+21111,Jefferson County,KY,14.126009075460384,Low-Low
+22085,Sabine Parish,LA,23.924166285975332,High-High
+19027,Carroll County,IA,7.79890903729913,Low-Low
+22123,West Carroll Parish,LA,19.21135646687697,High-High
+26139,Ottawa County,MI,7.555569522133535,Not significant
+26007,Alpena County,MI,16.50926774261752,Not significant
+28125,Sharkey County,MS,26.909950118141243,High-High
+36029,Erie County,NY,13.752107971229224,Not significant
+51053,Dinwiddie County,VA,11.048792111147769,Not significant
+51043,Clarke County,VA,5.398563120082107,Low-Low
+35033,Mora County,NM,21.72668733603625,Not significant
+27143,Sibley County,MN,8.633968382650993,Low-Low
+47061,Grundy County,TN,18.24482109227872,Not significant
+48123,DeWitt County,TX,16.53442109968708,Not significant
+51131,Northampton County,VA,16.741241029970453,Not significant
+36049,Lewis County,NY,13.087895871958834,Not significant
+06095,Solano County,CA,8.995690768456969,Not significant
+37029,Camden County,NC,5.874537344595236,Not significant
+37041,Chowan County,NC,20.874107865499226,Not significant
+27155,Traverse County,MN,8.412942989214176,Not significant
+29189,St. Louis County,MO,9.616784589587338,Low-Low
+28145,Union County,MS,12.317312586344798,Not significant
+36051,Livingston County,NY,11.707377034786731,Not significant
+40147,Washington County,OK,13.944968430898745,Not significant
+37053,Currituck County,NC,8.47254950233883,Low-Low
+40079,Le Flore County,OK,20.3995906008785,High-High
+31107,Knox County,NE,11.958637469586375,Low-Low
+48507,Zavala County,TX,31.004774756072244,High-High
+51045,Craig County,VA,10.928270042194093,Not significant
+08079,Mineral County,CO,11.209068010075567,Not significant
+48103,Crane County,TX,3.8103677447939743,Not significant
+47075,Haywood County,TN,21.92287976305747,Not significant
+54077,Preston County,WV,13.791407018694654,Not significant
+46055,Haakon County,SD,10.670553935860058,Low-High
+13261,Sumter County,GA,24.209188305792626,High-High
+06015,Del Norte County,CA,14.285145043034747,Not significant
+36075,Oswego County,NY,17.125382262996943,Not significant
+06113,Yolo County,CA,17.421730771982883,Not significant
+45057,Lancaster County,SC,12.0995546240503,Not significant
+46063,Harding County,SD,6.426735218508997,Not significant
+29071,Franklin County,MO,8.08780157617367,Not significant
+34039,Union County,NJ,8.861916387209,Low-Low
+35059,Union County,NM,17.814329523278506,Not significant
+50005,Caledonia County,VT,11.80996085841544,Low-Low
+53053,Pierce County,WA,8.659495977599004,Not significant
+55105,Rock County,WI,9.865931384753274,Low-Low
+26005,Allegan County,MI,9.511431888154242,Not significant
+21091,Hancock County,KY,15.141281098727907,Not significant
+16045,Gem County,ID,11.75592063153403,Not significant
+35031,McKinley County,NM,33.58104318564217,High-High
+24005,Baltimore County,MD,10.211079031580619,Low-Low
+22051,Jefferson Parish,LA,15.476743621573265,Not significant
+36079,Putnam County,NY,6.338224800670121,Not significant
+48299,Llano County,TX,11.312111438320946,Low-Low
+51700,Newport News city,VA,14.665225809356567,High-Low
+35025,Lea County,NM,17.773531493276717,Not significant
+31151,Saline County,NE,11.322436849925706,Low-Low
+53015,Cowlitz County,WA,12.14267389870263,Not significant
+56023,Lincoln County,WY,7.0588834037355594,Low-Low
+05057,Hempstead County,AR,22.99386627464896,High-High
+13063,Clayton County,GA,16.91088973097169,Not significant
+17061,Greene County,IL,13.714773697694278,Not significant
+18109,Morgan County,IN,8.501404135818229,Not significant
+05047,Franklin County,AR,20.220457508593103,Not significant
+16027,Canyon County,ID,10.172628798115987,Not significant
+17199,Williamson County,IL,13.198683376860194,Low-High
+19197,Wright County,IA,14.276699794920335,Low-Low
+19087,Henry County,IA,11.310410900574835,Not significant
+08109,Saguache County,CO,17.494936906060133,Not significant
+21103,Henry County,KY,16.237344611047032,Not significant
+39015,Brown County,OH,15.899513398989546,Not significant
+13299,Ware County,GA,23.672883787661405,High-High
+45041,Florence County,SC,17.81964383131684,High-High
+37019,Brunswick County,NC,9.076083819199908,Not significant
+46093,Meade County,SD,7.443209279845336,Not significant
+32017,Lincoln County,NV,7.1838363681716135,Not significant
+37063,Durham County,NC,12.270541642175049,Not significant
+39157,Tuscarawas County,OH,12.472542484017266,Not significant
+41003,Benton County,OR,19.056374597443696,Not significant
+42111,Somerset County,PA,10.835015863859244,Not significant
+20149,Pottawatomie County,KS,7.248915250189085,Not significant
+21119,Knott County,KY,27.728699715266117,High-High
+13319,Wilkinson County,GA,21.820692830014963,High-High
+32027,Pershing County,NV,9.819013938007073,Not significant
+36065,Oneida County,NY,14.43362499037124,Not significant
+40031,Comanche County,OK,16.575873401443168,Not significant
+30091,Sheridan County,MT,9.8369715390992,Not significant
+23007,Franklin County,ME,12.11836051861146,Not significant
+37025,Cabarrus County,NC,8.411060778998431,Not significant
+38089,Stark County,ND,10.145243735195113,Low-Low
+39165,Warren County,OH,5.1351797948470255,Not significant
+39133,Portage County,OH,11.29766425635957,Not significant
+42063,Indiana County,PA,12.973000744984201,Not significant
+12003,Baker County,FL,13.682854151566401,Not significant
+13075,Cook County,GA,21.784513770124434,High-High
+27035,Crow Wing County,MN,10.432488486290298,Not significant
+30087,Rosebud County,MT,20.373307307551542,Not significant
+28015,Carroll County,MS,21.844863731656183,High-High
+38005,Benson County,ND,27.203775493005224,Not significant
+18035,Delaware County,IN,20.626235425559344,Not significant
+27061,Itasca County,MN,11.760818540209193,Not significant
+47093,Knox County,TN,12.390219380180165,Not significant
+48375,Potter County,TX,20.708042586864256,Not significant
+51760,Richmond city,VA,19.473904581364426,High-Low
+51036,Charles City County,VA,12.466447957053385,Low-Low
+38069,Pierce County,ND,11.203969704883782,Not significant
+38033,Golden Valley County,ND,12.565751022793687,Not significant
+47033,Crockett County,TN,15.629322268326417,Not significant
+30105,Valley County,MT,12.325612894487335,Not significant
+51015,Augusta County,VA,8.10829130741283,Not significant
+31099,Kearney County,NE,9.461938245184959,Not significant
+54107,Wood County,WV,14.782965276856464,Not significant
+45071,Newberry County,SC,15.54300987290678,Not significant
+22021,Caldwell Parish,LA,24.86111111111111,High-High
+48041,Brazos County,TX,24.307028382789593,Not significant
+53077,Yakima County,WA,15.53177088074985,Not significant
+55055,Jefferson County,WI,7.63042036065376,Low-Low
+48359,Oldham County,TX,17.170626349892007,Not significant
+20209,Wyandotte County,KS,16.836009063735418,High-Low
+22109,Terrebonne Parish,LA,16.35401994347173,Not significant
+40135,Sequoyah County,OK,19.531669865642993,High-High
+41035,Klamath County,OR,17.833547708138447,Not significant
+48261,Kenedy County,TX,2.586206896551724,Low-High
+06003,Alpine County,CA,13.729372937293729,Low-Low
+09150,Northeastern Connecticut Planning Region,CT,8.849726226157317,Low-Low
+13295,Walker County,GA,13.728384647827921,Not significant
+16035,Clearwater County,ID,11.255627813906953,Not significant
+54031,Hardy County,WV,17.27279146952899,Not significant
+12007,Bradford County,FL,18.181058612190334,Not significant
+54103,Wetzel County,WV,16.99758899446887,Not significant
+39051,Fulton County,OH,8.494822836515626,Not significant
+47011,Bradley County,TN,13.409136207894761,Not significant
+48351,Newton County,TX,24.218492925304375,Not significant
+47007,Bledsoe County,TN,26.007621280961455,Not significant
+54093,Tucker County,WV,9.755725190839694,Not significant
+26051,Gladwin County,MI,14.197751559210264,Not significant
+37145,Person County,NC,17.210659505241956,Not significant
+32033,White Pine County,NV,9.24449249898635,Low-Low
+18001,Adams County,IN,11.458717417817738,Low-Low
+47035,Cumberland County,TN,12.636677064521425,Not significant
+32023,Nye County,NV,15.293792449849946,Not significant
+20103,Leavenworth County,KS,10.093328272052567,Not significant
+18173,Warrick County,IN,6.060172830092769,Not significant
+26071,Iron County,MI,14.694827277608734,Not significant
+28087,Lowndes County,MS,18.08687354209373,High-High
+29510,St. Louis city,MO,20.1784405635984,Not significant
+27093,Meeker County,MN,7.558342041100662,Low-Low
+47123,Monroe County,TN,16.0101792431954,Not significant
+28051,Holmes County,MS,34.98312710911136,High-High
+28105,Oktibbeha County,MS,28.479420566422345,High-High
+51071,Giles County,VA,9.656925031766201,Not significant
+12057,Hillsborough County,FL,13.67533507754731,Not significant
+13143,Haralson County,GA,12.512556083841158,Not significant
+20035,Cowley County,KS,13.958301158301158,Not significant
+21101,Henderson County,KY,17.003409376930644,Not significant
+48181,Grayson County,TX,11.427189882834295,Not significant
+01029,Cleburne County,AL,12.892241954867139,Not significant
+34029,Ocean County,NJ,10.487046697730957,Low-Low
+01001,Autauga County,AL,11.373968537166972,Low-High
+13021,Bibb County,GA,25.062087608445246,Not significant
+34025,Monmouth County,NJ,6.376274823020873,Low-Low
+35039,Rio Arriba County,NM,21.826280623608017,Not significant
+36117,Wayne County,NY,11.014877495713733,Not significant
+41041,Lincoln County,OR,14.716533215305999,Not significant
+51017,Bath County,VA,23.663366336633665,Not significant
+54019,Fayette County,WV,21.51265676694622,Not significant
+54039,Kanawha County,WV,16.43524148345899,High-High
+21041,Carroll County,KY,20.29397818871503,Not significant
+24031,Montgomery County,MD,7.177323456262275,Low-Low
+25011,Franklin County,MA,11.963365769891242,Not significant
+28033,DeSoto County,MS,9.801562135822344,Low-High
+48307,McCulloch County,TX,13.464630225080386,Not significant
+32009,Esmeralda County,NV,16.135662898252825,Not significant
+18015,Carroll County,IN,7.278496702860826,Not significant
+26129,Ogemaw County,MI,17.069109075770193,Not significant
+26147,St. Clair County,MI,11.850050530570995,Not significant
+44007,Providence County,RI,13.622005143672189,Low-Low
+47125,Montgomery County,TN,11.923030976907455,Not significant
+48369,Parmer County,TX,9.513023782559456,Not significant
+51001,Accomack County,VA,15.898058252427184,Not significant
+28161,Yalobusha County,MS,20.535056860018,High-High
+39095,Lucas County,OH,17.84240056463744,High-Low
+05035,Crittenden County,AR,19.6977074027816,High-High
+27053,Hennepin County,MN,9.842650846328306,Low-Low
+31147,Richardson County,NE,10.860256909303232,Not significant
+41037,Lake County,OR,19.570871261378414,Not significant
+29091,Howell County,MO,22.961603181887718,High-High
+38009,Bottineau County,ND,8.195105928723928,Not significant
+37185,Warren County,NC,21.233181363282554,Not significant
+26115,Monroe County,MI,10.905004279675136,Not significant
+30005,Blaine County,MT,20.19105514546244,Not significant
+54099,Wayne County,WV,16.73931546774651,High-High
+55109,St. Croix County,WI,5.9406687427937195,Low-Low
+08015,Chaffee County,CO,11.777349131992285,Not significant
+53007,Chelan County,WA,9.22097349545472,Not significant
+12035,Flagler County,FL,9.774823517287576,Not significant
+12039,Gadsden County,FL,25.54771267371712,High-High
+12073,Leon County,FL,19.44491508621156,Not significant
+12107,Putnam County,FL,22.849786120686076,Not significant
+50021,Rutland County,VT,11.357566891765467,Low-Low
+01101,Montgomery County,AL,19.557909237288523,High-High
+05105,Perry County,AR,15.34439416792358,Not significant
+26157,Tuscola County,MI,12.29932232509306,Not significant
+38037,Grant County,ND,15.360915492957746,Not significant
+55017,Chippewa County,WI,9.932556713672593,Not significant
+18009,Blackford County,IN,17.01786918408631,Not significant
+18179,Wells County,IN,6.367245838341893,Not significant
+20045,Douglas County,KS,16.28758429911949,High-Low
+20085,Jackson County,KS,7.918067869153164,Not significant
+13013,Barrow County,GA,9.551580202742993,Not significant
+13271,Telfair County,GA,31.342389133040353,High-High
+17135,Montgomery County,IL,13.976347719244355,Not significant
+18093,Lawrence County,IN,10.706705802664258,Not significant
+19137,Montgomery County,IA,14.488298294327647,High-Low
+21209,Scott County,KY,9.282753422936818,Not significant
+21177,Muhlenberg County,KY,16.314973370188095,Not significant
+22007,Assumption Parish,LA,16.02867383512545,Not significant
+12113,Santa Rosa County,FL,8.947629617106676,Not significant
+12095,Orange County,FL,13.508562566838753,Not significant
+12117,Seminole County,FL,9.603519318089244,Not significant
+12131,Walton County,FL,10.547542735042734,Not significant
+13087,Decatur County,GA,24.34269361473797,High-High
+13095,Dougherty County,GA,26.37404439645123,High-High
+06019,Fresno County,CA,19.54692118959933,Not significant
+13303,Washington County,GA,16.804635761589402,High-High
+18059,Hancock County,IN,4.905274841704296,Not significant
+20087,Jefferson County,KS,6.036904434040209,Not significant
+32007,Elko County,NV,10.397036474164134,Low-Low
+22105,Tangipahoa Parish,LA,19.218032343973135,High-High
+22121,West Baton Rouge Parish,LA,14.749351284269114,Not significant
+01063,Greene County,AL,32.89542827115081,High-High
+36053,Madison County,NY,9.52616859768278,Not significant
+37163,Sampson County,NC,22.268236102757967,Not significant
+40131,Rogers County,OK,9.540707372268201,Not significant
+40063,Hughes County,OK,20.840674553234333,High-High
+47085,Humphreys County,TN,12.046827794561933,Not significant
+48401,Rusk County,TX,13.423717465896727,Not significant
+48419,Shelby County,TX,23.264062760807878,High-High
+13205,Mitchell County,GA,28.735398679532757,High-High
+13275,Thomas County,GA,18.685366827925968,High-High
+28157,Wilkinson County,MS,21.513034130610052,High-High
+28011,Bolivar County,MS,31.771765448994632,High-High
+28025,Clay County,MS,23.009719340395325,High-High
+28085,Lincoln County,MS,22.331820297951584,High-High
+08049,Grand County,CO,8.57835321130174,Low-Low
+21179,Nelson County,KY,8.766690471553162,Not significant
+26155,Shiawassee County,MI,11.00947451400354,Not significant
+26039,Crawford County,MI,13.831833217939842,Not significant
+29113,Lincoln County,MO,11.506928210861538,Not significant
+51013,Arlington County,VA,6.6691578829815565,Low-Low
+18057,Hamilton County,IN,4.231191107502829,Low-Low
+29019,Boone County,MO,17.802858861611618,Not significant
+18133,Putnam County,IN,8.914644377466365,Not significant
+19057,Des Moines County,IA,14.642951251646904,Not significant
+51161,Roanoke County,VA,7.0754466607925774,Not significant
+19115,Louisa County,IA,10.06100422336931,Not significant
+55077,Marquette County,WI,10.412371134020619,Not significant
+53021,Franklin County,WA,13.421326923485992,Not significant
+56007,Carbon County,WY,13.900385328956757,Not significant
+39111,Monroe County,OH,13.897486223295841,Not significant
+48149,Fayette County,TX,10.16042780748663,Not significant
+47015,Cannon County,TN,15.129099790648988,Not significant
+54063,Monroe County,WV,13.173652694610778,Not significant
+28047,Harrison County,MS,18.38235294117647,Not significant
+54067,Nicholas County,WV,16.675519960773098,High-High
+53035,Kitsap County,WA,8.27068231912911,Not significant
+55045,Green County,WI,6.619865079800362,Not significant
+04009,Graham County,AZ,17.6677443139924,High-High
+05115,Pope County,AR,17.85470583340268,Not significant
+41005,Clackamas County,OR,7.576337521410869,Low-Low
+20065,Graham County,KS,9.93322203672788,Low-Low
+20089,Jewell County,KS,18.74352778736624,High-Low
+27077,Lake of the Woods County,MN,10.685591858596679,Not significant
+31021,Burt County,NE,14.199486947336654,Not significant
+05131,Sebastian County,AR,16.50493134176894,Not significant
+08033,Dolores County,CO,16.70244740231859,Not significant
+13073,Columbia County,GA,7.192936400714555,Not significant
+16031,Cassia County,ID,10.362440240264782,Not significant
+18019,Clark County,IN,9.696387554813114,Not significant
+54075,Pocahontas County,WV,20.327349524815205,Not significant
+18135,Randolph County,IN,13.035521171283587,Not significant
+54081,Raleigh County,WV,22.025505741613294,High-High
+54109,Wyoming County,WV,24.435142463016696,High-High
+06043,Mariposa County,CA,15.99056603773585,Not significant
+08123,Weld County,CO,9.67704196299375,Low-Low
+19091,Humboldt County,IA,13.3424599831508,Not significant
+20177,Shawnee County,KS,12.867140099282956,Low-Low
+21229,Washington County,KY,14.130990960259252,Not significant
+26135,Oscoda County,MI,13.898718730933496,Not significant
+31081,Hamilton County,NE,5.509344280004321,Low-Low
+55019,Clark County,WI,12.249456298124963,Low-Low
+30011,Carter County,MT,16.998468606431853,High-Low
+20143,Ottawa County,KS,10.400847607275296,Not significant
+20157,Republic County,KS,10.117493472584856,Not significant
+31051,Dixon County,NE,9.442216551221291,Not significant
+27127,Redwood County,MN,10.073612308508523,Low-Low
+55031,Douglas County,WI,11.230095912096099,Not significant
+20117,Marshall County,KS,10.548823948681397,Not significant
+22035,East Carroll Parish,LA,40.28358480276314,High-High
+24039,Somerset County,MD,19.837135198017297,Not significant
+35049,Santa Fe County,NM,12.330992213804715,Not significant
+05031,Craighead County,AR,19.115741992003652,High-High
+12101,Pasco County,FL,11.815807839840355,Not significant
+13101,Echols County,GA,14.971675209063934,High-High
+18029,Dearborn County,IN,8.460338413536542,Low-Low
+19005,Allamakee County,IA,11.621463983668708,Not significant
+37187,Washington County,NC,21.612192434814542,High-High
+39151,Stark County,OH,13.170452742008745,Not significant
+40115,Ottawa County,OK,20.41464580913997,Not significant
+42033,Clearfield County,PA,13.748527994861364,Not significant
+47053,Gibson County,TN,13.915864166244297,Not significant
+47147,Robertson County,TN,10.311982330204307,Not significant
+21033,Caldwell County,KY,16.176470588235293,Not significant
+05049,Fulton County,AR,15.328892589508742,High-High
+22025,Catahoula Parish,LA,24.651224006317452,High-High
+22041,Franklin Parish,LA,26.021631413500987,High-High
+13193,Macon County,GA,26.2215628090999,High-High
+27169,Winona County,MN,14.021727438958804,Low-Low
+37117,Martin County,NC,20.511750799610624,High-High
+39001,Adams County,OH,19.641404805914974,High-High
+34009,Cape May County,NJ,8.962179031282176,Not significant
+31155,Saunders County,NE,6.665458335221351,Low-Low
+13189,McDuffie County,GA,16.138898037924058,Not significant
+13175,Laurens County,GA,24.389388563412822,High-High
+41059,Umatilla County,OR,11.700134575296197,Not significant
+13085,Dawson County,GA,9.643382352941176,Not significant
+13163,Jefferson County,GA,19.40942269409423,High-High
+40071,Kay County,OK,16.369207737830695,Not significant
+36113,Warren County,NY,8.6342567640401,Low-Low
+36091,Saratoga County,NY,6.550531629255719,Not significant
+22095,St. John the Baptist Parish,LA,14.054627419782552,Not significant
+48223,Hopkins County,TX,13.398576023311433,Not significant
+32001,Churchill County,NV,9.935483870967742,Not significant
+48491,Williamson County,TX,6.340779341205434,Not significant
+56045,Weston County,WY,12.94649820620808,Not significant
+06023,Humboldt County,CA,19.824394054334192,Not significant
+34035,Somerset County,NJ,5.292062053134092,Low-Low
+48193,Hamilton County,TX,17.143924302788843,Not significant
+48197,Hardeman County,TX,11.174785100286533,Low-High
+17179,Tazewell County,IL,8.70860592294109,Not significant
+08125,Yuma County,CO,14.038541234977206,Not significant
+19161,Sac County,IA,8.679757677041989,Low-Low
+19167,Sioux County,IA,6.078039765105673,Low-Low
+48083,Coleman County,TX,17.113615753335925,Not significant
+13015,Bartow County,GA,10.82090932632903,Not significant
+40113,Osage County,OK,12.529924567505308,Not significant
+36001,Albany County,NY,12.546455379482902,Low-Low
+28063,Jefferson County,MS,31.783060921248143,High-High
+47103,Lincoln County,TN,11.9417168197656,Not significant
+51113,Madison County,VA,7.956215104319718,Low-Low
+40005,Atoka County,OK,18.202583490863265,High-High
+19049,Dallas County,IA,5.6673712894597115,Low-Low
+38067,Pembina County,ND,9.186906019007392,Low-Low
+05065,Izard County,AR,19.7397476340694,Not significant
+51510,Alexandria city,VA,8.824642300563726,Low-Low
+51530,Buena Vista city,VA,21.937181384640684,Not significant
+19153,Polk County,IA,10.334607478101496,Low-Low
+12105,Polk County,FL,14.822715720178326,Not significant
+13099,Early County,GA,22.245302615428194,High-High
+48443,Terrell County,TX,6.380510440835267,Not significant
+17191,Wayne County,IL,13.937694704049845,Not significant
+12119,Sumter County,FL,9.26221214941924,Not significant
+48051,Burleson County,TX,12.45903491919991,Not significant
+51061,Fauquier County,VA,5.82259016708541,Low-Low
+36115,Washington County,NY,11.378784503880883,Low-Low
+48473,Waller County,TX,13.027529874451671,Not significant
+26027,Cass County,MI,12.856723716381419,Not significant
+16029,Caribou County,ID,6.7164179104477615,Low-Low
+12115,Sarasota County,FL,8.14262696048315,Not significant
+13107,Emanuel County,GA,21.360998126228235,High-High
+13263,Talbot County,GA,18.408220132358064,Not significant
+42133,York County,PA,8.600490053870221,Low-Low
+31053,Dodge County,NE,9.05625730343331,Low-Low
+37077,Granville County,NC,14.362109810479376,Not significant
+42003,Allegheny County,PA,11.104327228113657,Low-Low
+06105,Trinity County,CA,21.99529172233887,Not significant
+17069,Hardin County,IL,11.532033426183844,Not significant
+13187,Lumpkin County,GA,14.5317683082419,Not significant
+40069,Johnston County,OK,22.843659001907824,Not significant
+48339,Montgomery County,TX,8.815014363800985,Not significant
+40091,McIntosh County,OK,22.139316740393326,High-High
+40095,Marshall County,OK,18.78063124877475,Not significant
+48395,Robertson County,TX,14.248937316649704,Not significant
+55111,Sauk County,WI,8.608146306050262,Not significant
+05117,Prairie County,AR,9.978715412545386,Not significant
+55079,Milwaukee County,WI,17.82222986162583,High-Low
+55053,Jackson County,WI,12.706037010820102,Not significant
+55083,Oconto County,WI,8.270285729142293,Not significant
+55125,Vilas County,WI,9.788892782060266,Not significant
+06027,Inyo County,CA,11.929044157534989,Not significant
+37097,Iredell County,NC,9.422333702942158,Not significant
+05119,Pulaski County,AR,16.557972589151728,Not significant
+29217,Vernon County,MO,18.144568186593823,Not significant
+17015,Carroll County,IL,11.242806248287202,Not significant
+13147,Hart County,GA,10.849093930521484,Not significant
+17001,Adams County,IL,12.058396892985822,Not significant
+48457,Tyler County,TX,17.951175508823365,Not significant
+13171,Lamar County,GA,11.231656483754925,Not significant
+48373,Polk County,TX,16.369391334103256,Not significant
+06067,Sacramento County,CA,13.100342077449103,Low-Low
+40127,Pushmataha County,OK,21.709353597898488,High-High
+51079,Greene County,VA,11.117088917147608,Low-Low
+39013,Belmont County,OH,14.01385460625846,Not significant
+55129,Washburn County,WI,12.353548230437687,Not significant
+05103,Ouachita County,AR,19.071235347159604,High-High
+45029,Colleton County,SC,16.62637800504715,Not significant
+42019,Butler County,PA,7.879376405146663,Not significant
+05133,Sevier County,AR,20.0920245398773,Not significant
+39093,Lorain County,OH,13.49987515933611,Not significant
+22101,St. Mary Parish,LA,21.92071975402901,Not significant
+29163,Pike County,MO,15.813982757535712,Not significant
+40035,Craig County,OK,19.262295081967213,Not significant
+20173,Sedgwick County,KS,13.664023245018578,Low-Low
+18073,Jasper County,IN,7.499536493418207,Not significant
+06055,Napa County,CA,7.887173317291625,Not significant
+48301,Loving County,TX,5.208333333333333,Not significant
+29101,Johnson County,MO,12.318942766776123,Not significant
+08014,Broomfield County,CO,5.007963192355335,Low-Low
+51139,Page County,VA,10.035278616058147,Low-Low
+54053,Mason County,WV,16.320486815415823,Not significant
+01133,Winston County,AL,18.196332254584682,Not significant
+01105,Perry County,AL,32.83423877037233,High-High
+39105,Meigs County,OH,19.58607456140351,Not significant
+46017,Buffalo County,SD,36.51654910472057,Not significant
+46095,Mellette County,SD,49.13294797687861,High-High
+36013,Chautauqua County,NY,17.54315863294979,Not significant
+46102,Oglala Lakota County,SD,55.77648015374381,Not significant
+11001,District of Columbia,DC,15.101881746931532,High-Low
+10003,New Castle County,DE,10.523250152380196,Low-Low
+08031,Denver County,CO,11.695867087148905,Low-Low
+34027,Morris County,NJ,4.950840944253132,Low-Low
+01065,Hale County,AL,25.00692137320044,High-High
+39167,Washington County,OH,14.145213610325074,Not significant
+54013,Calhoun County,WV,33.67493995196157,High-High
+42039,Crawford County,PA,12.74114400589359,Not significant
+46121,Todd County,SD,52.19947735191638,High-High
+30021,Dawson County,MT,7.486125870823002,Not significant
+48337,Montague County,TX,12.955037510699361,Not significant
+30083,Richland County,MT,8.328912466843502,Not significant
+48179,Gray County,TX,16.996412096360842,Not significant
+05055,Greene County,AR,17.560411196653465,High-High
+13001,Appling County,GA,25.305468015701884,High-High
+01051,Elmore County,AL,9.600288513554126,Not significant
+13077,Coweta County,GA,8.327706044049739,Not significant
+18039,Elkhart County,IN,12.013534714674247,Low-Low
+37197,Yadkin County,NC,13.816822834858907,Not significant
+01021,Chilton County,AL,14.450619923044036,Not significant
+39173,Wood County,OH,12.922501591343094,Not significant
+36119,Westchester County,NY,8.536952316620098,Not significant
+22071,Orleans Parish,LA,22.924960421588423,Not significant
+54057,Mineral County,WV,13.878908340340953,Not significant
+01127,Walker County,AL,16.411667583929553,Not significant
+54061,Monongalia County,WV,20.64871910562992,Not significant
+54073,Pleasants County,WV,7.718598689831957,Not significant
+36083,Rensselaer County,NY,11.46523498930109,Low-Low
+37045,Cleveland County,NC,18.38168189415613,Not significant
+37071,Gaston County,NC,12.426127527216174,Not significant
+34011,Cumberland County,NJ,15.517409402887413,Not significant
+08037,Eagle County,CO,8.047305227047035,Low-Low
+48237,Jack County,TX,14.499272390527848,Not significant
+01037,Coosa County,AL,11.054268231517705,Not significant
+12111,St. Lucie County,FL,12.48011158645384,Not significant
+01067,Henry County,AL,15.517343963824597,High-High
+06087,Santa Cruz County,CA,11.383175028650234,Low-Low
+20099,Labette County,KS,15.179070358140716,Not significant
+13009,Baldwin County,GA,22.657328357445937,High-High
+22087,St. Bernard Parish,LA,22.52231631952392,Not significant
+51800,Suffolk city,VA,9.434745140595576,Low-Low
+08059,Jefferson County,CO,6.6744605856623345,Low-Low
+54071,Pendleton County,WV,16.352513227513228,Not significant
+51185,Tazewell County,VA,18.14828191105149,High-High
+29045,Clark County,MO,10.90578612541654,Not significant
+34033,Salem County,NJ,13.032996123664555,Not significant
+42123,Warren County,PA,11.594241183463215,Not significant
+38035,Grand Forks County,ND,14.16833287117442,Low-Low
+40041,Delaware County,OK,19.045128511655708,Not significant
+08053,Hinsdale County,CO,7.3545554335894625,Not significant
+01087,Macon County,AL,25.013637190132734,High-High
+51035,Carroll County,VA,15.236614853195164,Not significant
+06061,Placer County,CA,6.809019482339865,Not significant
+39103,Medina County,OH,5.951669654119366,Not significant
+40033,Cotton County,OK,21.776874769117104,Not significant
+40065,Jackson County,OK,14.538564051307679,Not significant
+22073,Ouachita Parish,LA,23.442275428853833,High-High
+08041,El Paso County,CO,9.208382200369886,Low-Low
+54085,Ritchie County,WV,20.31570068682974,Not significant
+51063,Floyd County,VA,9.426495393797847,Not significant
+30025,Fallon County,MT,12.748864827104436,Not significant
+30079,Prairie County,MT,22.257806244995997,High-Low
+48049,Brown County,TX,13.284478483663012,Not significant
+48135,Ector County,TX,15.783595592547762,Not significant
+49015,Emery County,UT,11.806761311408437,Not significant
+36085,Richmond County,NY,10.36304266279115,Not significant
+37055,Dare County,NC,6.483534310279565,Not significant
+31023,Butler County,NE,7.888319921970251,Low-Low
+48277,Lamar County,TX,15.960523388678787,Not significant
+20041,Dickinson County,KS,8.84090783588271,Not significant
+16053,Jerome County,ID,14.742187177475953,Not significant
+39107,Mercer County,OH,6.3591202855213655,Low-Low
+17105,Livingston County,IL,10.2085490312084,Not significant
+19061,Dubuque County,IA,9.951810517695725,Low-Low
+16065,Madison County,ID,30.108245644298776,Not significant
+22075,Plaquemines Parish,LA,14.698333985819305,Not significant
+22077,Pointe Coupee Parish,LA,19.132640616615443,High-High
+30063,Missoula County,MT,11.869364510979766,Not significant
+49019,Grand County,UT,15.678716532972185,Not significant
+48029,Bexar County,TX,15.172077534529814,High-Low
+13221,Oglethorpe County,GA,11.143456773407353,Not significant
+13225,Peach County,GA,20.727728031567764,High-High
+39027,Clinton County,OH,14.464530668234373,Not significant
+13243,Randolph County,GA,28.107321803782124,High-High
+13159,Jasper County,GA,13.34829321365429,Not significant
+48239,Jackson County,TX,11.96026758564768,Not significant
+13285,Troup County,GA,19.176224312291772,Not significant
+13025,Brantley County,GA,16.31075519964409,Not significant
+13029,Bryan County,GA,7.158836689038031,Not significant
+48289,Leon County,TX,14.369556985990155,Not significant
+06047,Merced County,CA,18.522920633085626,Not significant
+12085,Martin County,FL,10.517568850902185,Not significant
+48475,Ward County,TX,13.616945532217871,Not significant
+48485,Wichita County,TX,15.754212800777355,Not significant
+36011,Cayuga County,NY,13.4580058837341,Not significant
+37091,Hertford County,NC,20.289038077179317,Not significant
+08093,Park County,CO,6.801744920215819,Low-Low
+08119,Teller County,CO,7.014337354291053,Low-Low
+49041,Sevier County,UT,11.740130498051917,Not significant
+49045,Tooele County,UT,4.536949782166318,Low-Low
+48323,Maverick County,TX,23.435380066098453,High-High
+12121,Suwannee County,FL,14.412012012012012,High-High
+49051,Wasatch County,UT,5.359864278114846,Low-Low
+41045,Malheur County,OR,18.896848137535816,Not significant
+13113,Fayette County,GA,5.266452376924378,Not significant
+21071,Floyd County,KY,29.28459231757818,High-High
+08075,Logan County,CO,11.68922305764411,Not significant
+39113,Montgomery County,OH,15.118919242173167,High-Low
+08077,Mesa County,CO,11.458408590850874,Not significant
+19089,Howard County,IA,8.678309616213886,Low-Low
+17129,Menard County,IL,7.944618427558925,Not significant
+48333,Mills County,TX,6.876591803658254,Not significant
+17133,Monroe County,IL,4.28865143485941,Not significant
+41019,Douglas County,OR,14.87235899487254,Not significant
+55023,Crawford County,WI,12.37059704407839,Not significant
+48207,Haskell County,TX,15.038910505836576,Not significant
+40083,Logan County,OK,13.574388727724823,Not significant
+53027,Grays Harbor County,WA,14.898251806099378,Not significant
+53043,Lincoln County,WA,11.636863823933975,Not significant
+53047,Okanogan County,WA,18.852026118686382,Not significant
+19133,Monona County,IA,12.269938650306749,Not significant
+13265,Taliaferro County,GA,18.872549019607842,Not significant
+40055,Greer County,OK,16.57092355280601,Not significant
+13273,Terrell County,GA,29.782583688024847,High-High
+24035,Queen Anne's County,MD,6.858438145674109,Not significant
+39121,Noble County,OH,16.625124626121636,Not significant
+08099,Prowers County,CO,17.580046603952706,Not significant
+16057,Latah County,ID,13.953829887218046,Not significant
+51073,Gloucester County,VA,7.455726710677983,Low-Low
+08103,Rio Blanco County,CO,12.93927125506073,Not significant
+48371,Pecos County,TX,22.96523035868456,Not significant
+19125,Marion County,IA,7.685760221934996,Not significant
+39135,Preble County,OH,10.332330752921454,Not significant
+13241,Rabun County,GA,14.484258867605293,Not significant
+29213,Taney County,MO,16.406912051877235,Not significant
+48315,Marion County,TX,15.703084161003659,Not significant
+05143,Washington County,AR,15.193660717653025,Not significant
+53057,Skagit County,WA,11.977617780560339,Not significant
+53065,Stevens County,WA,13.296070095172324,Not significant
+48321,Matagorda County,TX,21.763885012559307,Not significant
+25015,Hampshire County,MA,10.609723139751367,Not significant
+40097,Mayes County,OK,17.054323667752108,Not significant
+12069,Lake County,FL,9.681287521960083,Not significant
+10001,Kent County,DE,12.328890794804375,Not significant
+39071,Highland County,OH,14.84863384139917,Not significant
+13059,Clarke County,GA,26.597602436370078,Not significant
+19143,Osceola County,IA,12.639281556627308,Low-Low
+08111,San Juan County,CO,19.130434782608695,High-Low
+19149,Plymouth County,IA,5.671429136818776,Not significant
+51085,Hanover County,VA,5.18311521825342,Low-Low
+19129,Mills County,IA,6.905636830063093,Low-Low
+45073,Oconee County,SC,15.689617598420655,Not significant
+05033,Crawford County,AR,17.84843952202484,Not significant
+48203,Harrison County,TX,16.338776606860314,Not significant
+36043,Herkimer County,NY,12.050022783656523,Not significant
+53073,Whatcom County,WA,12.86874056394818,Not significant
+13313,Whitfield County,GA,13.454038176263127,Not significant
+53017,Douglas County,WA,7.912363940831705,Not significant
+13065,Clinch County,GA,32.45733272919499,High-High
+16003,Adams County,ID,14.582862310648881,Not significant
+48219,Hockley County,TX,15.0708024275118,Not significant
+17153,Pulaski County,IL,24.995083579154375,Not significant
+13053,Chattahoochee County,GA,16.858522094318605,Not significant
+05121,Randolph County,AR,19.22320550639135,High-High
+05145,White County,AR,16.086703086662418,Not significant
+29089,Howard County,MO,12.843450479233226,Not significant
+48275,Knox County,TX,11.426787386824852,Not significant
+34031,Passaic County,NJ,13.46280678886838,Low-Low
+30007,Broadwater County,MT,9.148720913426796,Low-Low
+13169,Jones County,GA,14.291814946619217,Low-High
+36077,Otsego County,NY,12.976791858847646,Not significant
+48159,Franklin County,TX,8.623693379790941,Not significant
+40049,Garvin County,OK,14.697178930755573,Not significant
+36041,Hamilton County,NY,10.721363456202933,Not significant
+42103,Pike County,PA,10.010944661057527,Not significant
+50019,Orleans County,VT,9.8175662967839,Not significant
+13071,Colquitt County,GA,24.36458471467091,High-High
+50007,Chittenden County,VT,11.16393133371062,Low-Low
+30073,Pondera County,MT,21.599592460519613,Not significant
+55021,Columbia County,WI,7.519963334449752,Not significant
+31173,Thurston County,NE,18.97909724325962,Not significant
+05147,Woodruff County,AR,19.00497512437811,High-High
+40107,Okfuskee County,OK,26.678325075293888,Not significant
+48409,San Patricio County,TX,15.759941089837998,High-High
+28121,Rankin County,MS,9.488051912154736,Not significant
+35009,Curry County,NM,19.337520689216145,Not significant
+28083,Leflore County,MS,32.203710000377804,High-High
+48199,Hardin County,TX,13.459814223720546,Not significant
+51125,Nelson County,VA,13.241885101181584,Low-Low
+47087,Jackson County,TN,19.709489432025745,Not significant
+48391,Refugio County,TX,16.297878834121775,Not significant
+12023,Columbia County,FL,15.68518860377823,High-High
+20005,Atchison County,KS,14.482107958757329,High-Low
+01073,Jefferson County,AL,15.873651272868392,Not significant
+48225,Houston County,TX,17.609603340292274,Not significant
+54051,Marshall County,WV,14.667834523649104,Not significant
+51155,Pulaski County,VA,13.143526944076005,Not significant
+29063,DeKalb County,MO,10.342968075927523,Not significant
+13145,Harris County,GA,7.5221624763842465,Low-High
+13153,Houston County,GA,9.746989364788377,Low-High
+08027,Custer County,CO,7.71123872026251,Not significant
+29179,Reynolds County,MO,18.109704641350213,Not significant
+48411,San Saba County,TX,14.280170741171906,Low-Low
+08043,Fremont County,CO,15.001480165778567,High-Low
+48479,Webb County,TX,21.387289804575065,High-High
+21199,Pulaski County,KY,21.368686631250686,High-High
+20193,Thomas County,KS,6.557596888829288,Low-Low
+49003,Box Elder County,UT,8.149133107688057,Low-Low
+47115,Marion County,TN,16.28714781937476,Not significant
+27025,Chisago County,MN,6.256872465074358,Low-Low
+37175,Transylvania County,NC,13.384945434194572,Not significant
+30103,Treasure County,MT,9.852941176470589,Not significant
+53067,Thurston County,WA,9.34654747310569,Not significant
+26015,Barry County,MI,8.339794533824385,Not significant
+49023,Juab County,UT,8.56245756958588,Low-Low
+51101,King William County,VA,8.023958863084138,Not significant
+13047,Catoosa County,GA,8.932338870234451,Not significant
+34003,Bergen County,NJ,6.769800273655851,Not significant
+48487,Wilbarger County,TX,18.39344262295082,Not significant
+41011,Coos County,OR,16.09290815687257,Not significant
+04027,Yuma County,AZ,17.53336773827955,Not significant
+17161,Rock Island County,IL,15.165181365038949,High-Low
+21069,Fleming County,KY,20.987408880053014,High-High
+55078,Menominee County,WI,19.981194170192758,Not significant
+40045,Ellis County,OK,14.693101575230854,Not significant
+51005,Alleghany County,VA,13.691717688219068,Not significant
+46023,Charles Mix County,SD,22.865751590224306,Not significant
+47069,Hardeman County,TN,16.083276138183482,Not significant
+30035,Glacier County,MT,29.37578303485887,Not significant
+30067,Park County,MT,11.477226336968567,Low-Low
+13105,Elbert County,GA,18.98944741903623,Not significant
+30089,Sanders County,MT,16.333601933924253,Not significant
+48467,Van Zandt County,TX,13.14518997848661,Not significant
+31067,Gage County,NE,13.351857956953799,Low-Low
+22097,St. Landry Parish,LA,27.493088467614534,High-High
+23013,Knox County,ME,9.974116501371057,Not significant
+32019,Lyon County,NV,10.350431691213814,Not significant
+01033,Colbert County,AL,15.878730125116912,Not significant
+22061,Lincoln Parish,LA,29.70074420486993,High-High
+06017,El Dorado County,CA,8.597879427928921,Low-Low
+16079,Shoshone County,ID,15.995730405611466,Not significant
+47189,Wilson County,TN,8.290593051213415,Not significant
+38057,Mercer County,ND,9.609499326722977,Low-Low
+47171,Unicoi County,TN,16.67052558462607,Not significant
+56015,Goshen County,WY,9.272089641604653,Not significant
+27103,Nicollet County,MN,10.342994715942845,Low-Low
+53023,Garfield County,WA,11.140350877192983,Not significant
+29031,Cape Girardeau County,MO,14.52096191768894,Not significant
+40117,Pawnee County,OK,15.037935283055573,Not significant
+37173,Swain County,NC,19.80390743277341,Not significant
+51047,Culpeper County,VA,7.3322780481131895,Low-Low
+36107,Tioga County,NY,10.157346686500869,Not significant
+37099,Jackson County,NC,19.34632404316435,Not significant
+48035,Bosque County,TX,11.544427210281409,Not significant
+17151,Pope County,IL,18.70344827586207,Not significant
+19019,Buchanan County,IA,8.629292632814794,Low-Low
+47049,Fentress County,TN,20.166959578207383,High-High
+17167,Sangamon County,IL,12.907484407484407,Not significant
+20059,Franklin County,KS,8.335317932841154,Low-Low
+41029,Jackson County,OR,13.263275796912065,Not significant
+16043,Fremont County,ID,11.432093059086357,Not significant
+31089,Holt County,NE,9.866906834784348,Low-Low
+29095,Jackson County,MO,13.879949291543811,Low-Low
+51099,King George County,VA,6.928389130761147,Not significant
+48055,Caldwell County,TX,14.013319952559073,Not significant
+51103,Lancaster County,VA,14.004890895410083,Not significant
+29041,Chariton County,MO,13.287785833798104,Not significant
+30013,Cascade County,MT,13.604315583102983,Not significant
+51115,Mathews County,VA,6.8370002365744025,Not significant
+40013,Bryan County,OK,16.310649648391863,Not significant
+48477,Washington County,TX,11.889925762499628,Not significant
+39053,Gallia County,OH,17.164804469273744,Not significant
+47065,Hamilton County,TN,12.27686132020278,Not significant
+31161,Sheridan County,NE,10.825466961237197,Not significant
+17085,Jo Daviess County,IL,7.772306842759192,Not significant
+46031,Corson County,SD,43.445789338140614,High-High
+29107,Lafayette County,MO,9.194301078591959,Not significant
+42091,Montgomery County,PA,6.268397294168769,Not significant
+24033,Prince George's County,MD,9.582183003224666,Low-Low
+51119,Middlesex County,VA,9.650063359001852,Not significant
+16073,Owyhee County,ID,13.099336636157528,Not significant
+20043,Doniphan County,KS,11.43367574810183,Not significant
+37075,Graham County,NC,11.30072051573758,Not significant
+01075,Lamar County,AL,15.339254513686663,Not significant
+13069,Coffee County,GA,20.040762558099072,High-High
+08091,Ouray County,CO,4.84688704116812,Not significant
+37089,Henderson County,NC,11.376339786329616,Not significant
+16039,Elmore County,ID,12.016680689175843,Low-Low
+16051,Jefferson County,ID,8.922349029762476,Not significant
+18089,Lake County,IN,14.718613838437031,High-Low
+42081,Lycoming County,PA,12.478260465202794,Not significant
+34019,Hunterdon County,NJ,3.694532722440836,Low-Low
+51173,Smyth County,VA,18.796474800330486,Not significant
+09130,Lower Connecticut River Valley Planning Region,CT,6.489225069100422,Not significant
+51177,Spotsylvania County,VA,7.351776964717462,Low-Low
+31153,Sarpy County,NE,5.488142803608092,Low-Low
+40057,Harmon County,OK,17.591059602649008,Not significant
+13279,Toombs County,GA,21.737489621858252,High-High
+20077,Harper County,KS,15.530873493975903,Not significant
+01117,Shelby County,AL,6.853642019915557,Not significant
+05013,Calhoun County,AR,12.489120974760661,Not significant
+36021,Columbia County,NY,10.271938605271938,Not significant
+13301,Warren County,GA,22.94921875,High-High
+41043,Linn County,OR,11.950687755182939,Not significant
+46053,Gregory County,SD,12.828360112216272,Not significant
+48407,San Jacinto County,TX,17.377394844948558,Not significant
+17013,Calhoun County,IL,8.356290174471992,Not significant
+12009,Brevard County,FL,10.104466052264536,Not significant
+31157,Scotts Bluff County,NE,12.471164525959047,Not significant
+38063,Nelson County,ND,10.8479231033299,Not significant
+23001,Androscoggin County,ME,12.366678414423772,Not significant
+48497,Wise County,TX,9.081235514481873,Not significant
+47149,Rutherford County,TN,9.834271465882638,Not significant
+26061,Houghton County,MI,17.27321143262915,Not significant
+21131,Leslie County,KY,33.62840660433658,High-High
+37085,Harnett County,NC,14.379985386348414,Not significant
+21193,Perry County,KY,23.82883870496236,High-High
+17043,DuPage County,IL,6.282885634792158,Low-Low
+27003,Anoka County,MN,6.337549676771655,Low-Low
+06007,Butte County,CA,18.2135704634962,Not significant
+27145,Stearns County,MN,12.671691572340258,Low-Low
+27141,Sherburne County,MN,5.815410315305909,Low-Low
+29097,Jasper County,MO,18.482853656309405,Not significant
+13305,Wayne County,GA,18.15105910548761,Not significant
+24021,Frederick County,MD,6.162476425251341,Low-Low
+01047,Dallas County,AL,27.082119976703552,High-High
+26049,Genesee County,MI,16.249781441238916,High-Low
+37093,Hoke County,NC,17.282164571562628,High-High
+51031,Campbell County,VA,9.977705493220277,Not significant
+27063,Jackson County,MN,9.736761866043297,Not significant
+26149,St. Joseph County,MI,12.869750913428652,Not significant
+21011,Bath County,KY,23.128172588832488,High-High
+46011,Brookings County,SD,12.48090631364562,Low-Low
+47029,Cocke County,TN,20.10843610416608,Not significant
+46099,Minnehaha County,SD,8.703931427029664,Low-Low
+45001,Abbeville County,SC,15.90571876722201,Not significant
+45003,Aiken County,SC,14.162709794082954,Low-High
+47043,Dickson County,TN,10.857015573663988,Not significant
+45037,Edgefield County,SC,16.96581018614917,Not significant
+27073,Lac qui Parle County,MN,8.674478770354588,Low-Low
+30077,Powell County,MT,5.233680957898803,Not significant
+41061,Union County,OR,15.241534638086362,Not significant
+18077,Jefferson County,IN,12.859543662335984,Not significant
+28027,Coahoma County,MS,36.97075512876473,High-High
+36071,Orange County,NY,13.014066988328912,Low-Low
+55051,Iron County,WI,10.482390252044734,Not significant
+21073,Franklin County,KY,13.259357536284325,Not significant
+18023,Clinton County,IN,8.9539696865955,Low-Low
+22089,St. Charles Parish,LA,10.181557202156961,Not significant
+37079,Greene County,NC,22.574480044969082,High-High
+47097,Lauderdale County,TN,17.966841186736474,Not significant
+47041,DeKalb County,TN,20.212282031842303,Not significant
+12017,Citrus County,FL,15.002069658801963,Not significant
+45047,Greenwood County,SC,17.34473759635546,Not significant
+47135,Perry County,TN,14.24231376838012,Not significant
+55117,Sheboygan County,WI,7.694455837820384,Low-Low
+45083,Spartanburg County,SC,14.415893579314261,Not significant
+27129,Renville County,MN,10.392964333077407,Low-Low
+29051,Cole County,MO,9.395871071226095,Not significant
+56013,Fremont County,WY,13.862624052512308,Low-Low
+47025,Claiborne County,TN,18.335127377108,High-High
+42007,Beaver County,PA,10.433954481486873,Not significant
+42049,Erie County,PA,15.40068495810262,Not significant
+37191,Wayne County,NC,17.937700460186864,High-High
+48209,Hays County,TX,12.925218677886738,Low-Low
+49027,Millard County,UT,11.187995646089256,Low-Low
+01123,Tallapoosa County,AL,16.844754830590034,Not significant
+27163,Washington County,MN,4.66765975901797,Low-Low
+19119,Lyon County,IA,3.877344145970603,Low-Low
+36015,Chemung County,NY,15.177855711422845,Not significant
+31145,Red Willow County,NE,12.163855421686748,Not significant
+54029,Hancock County,WV,13.421543442305662,Not significant
+12093,Okeechobee County,FL,19.211862575626622,Not significant
+31087,Hitchcock County,NE,12.364341085271318,Not significant
+22023,Cameron Parish,LA,12.365988909426987,Not significant
+40085,Love County,OK,14.214711729622266,Not significant
+19017,Bremer County,IA,6.564709891795178,Not significant
+16023,Butte County,ID,22.135619641465315,High-Low
+05073,Lafayette County,AR,21.61106590724166,High-High
+46117,Stanley County,SD,3.2225579053373616,Low-High
+39049,Franklin County,OH,14.53104727891631,High-Low
+30027,Fergus County,MT,14.764800572348417,Not significant
+37059,Davie County,NC,11.610969298142901,Not significant
+05063,Independence County,AR,19.336101837526805,Not significant
+37141,Pender County,NC,11.70085640310695,Not significant
+29147,Nodaway County,MO,19.441713099530208,Not significant
+31159,Seward County,NE,6.76926850205408,Low-Low
+40145,Wagoner County,OK,9.178980330756435,Not significant
+40059,Harper County,OK,14.094813872096722,Not significant
+01039,Covington County,AL,18.783075962764947,Not significant
+20071,Greeley County,KS,8.06709265175719,Not significant
+26011,Arenac County,MI,13.558525283728427,Not significant
+48245,Jefferson County,TX,18.193225117006637,Not significant
+55013,Burnett County,WI,11.645338208409507,Low-Low
+18043,Floyd County,IN,9.370105810000382,Not significant
+26053,Gogebic County,MI,14.10374354256599,Not significant
+13291,Union County,GA,11.710228442066269,Not significant
+34023,Middlesex County,NJ,8.354632089485975,Low-Low
+05095,Monroe County,AR,23.81451009723261,High-High
+27113,Pennington County,MN,9.625862695241555,Not significant
+44009,Washington County,RI,7.8658934922696,Low-Low
+05085,Lonoke County,AR,11.84174624829468,Not significant
+31043,Dakota County,NE,11.19406533834229,Not significant
+05081,Little River County,AR,11.845683208701564,Low-High
+05083,Logan County,AR,14.53187823090178,Not significant
+51660,Harrisonburg city,VA,27.23229328121841,Not significant
+37121,Mitchell County,NC,13.39853635182272,Not significant
+51199,York County,VA,4.744865305172514,Low-Low
+22079,Rapides Parish,LA,18.323141472545426,High-High
+20063,Gove County,KS,6.390838566678981,Low-Low
+51145,Powhatan County,VA,4.543239103188971,Low-Low
+05135,Sharp County,AR,15.916126394486303,High-High
+28137,Tate County,MS,16.673690663192982,High-High
+47151,Scott County,TN,25.704669751787968,High-High
+23019,Penobscot County,ME,13.416444861066445,Not significant
+37123,Montgomery County,NC,16.18402053585753,Not significant
+31165,Sioux County,NE,17.38382099827883,Not significant
+53013,Columbia County,WA,9.312357269728496,Not significant
+06075,San Francisco County,CA,10.484575504124656,Low-Low
+29165,Platte County,MO,6.964906823516104,Not significant
+38097,Traill County,ND,6.561505832449629,Not significant
+34001,Atlantic County,NJ,13.028810170135282,Low-Low
+51041,Chesterfield County,VA,6.691664981957457,Not significant
+18087,LaGrange County,IN,5.663685779414343,Not significant
+08045,Garfield County,CO,8.088900587296626,Low-Low
+12061,Indian River County,FL,11.428410145763818,Not significant
+37161,Rutherford County,NC,18.376614162054775,Not significant
+39099,Mahoning County,OH,17.585364534506382,Not significant
+20025,Clark County,KS,11.739594450373533,Low-Low
+29021,Buchanan County,MO,16.5747086621966,High-Low
+39085,Lake County,OH,7.625314158056409,Not significant
+18027,Daviess County,IN,9.636858689999082,Not significant
+19139,Muscatine County,IA,11.716265603493284,Not significant
+34017,Hudson County,NJ,14.157814417799598,Not significant
+06063,Plumas County,CA,10.868553101236357,Not significant
+22127,Winn Parish,LA,19.643897162825525,High-High
+05109,Pike County,AR,17.477964743589745,High-High
+29183,St. Charles County,MO,4.517805809037116,Low-Low
+17095,Knox County,IL,16.293985470887236,Not significant
+06081,San Mateo County,CA,6.4319022995416955,Not significant
+01041,Crenshaw County,AL,14.858472276075998,High-High
+37177,Tyrrell County,NC,15.985130111524164,High-High
+20091,Johnson County,KS,5.269957536628174,Not significant
+18151,Steuben County,IN,9.306070365194142,Not significant
+08063,Kit Carson County,CO,9.383995394358088,Not significant
+12099,Palm Beach County,FL,11.356805525130993,Not significant
+17121,Marion County,IL,16.960498044184895,Not significant
+08081,Moffat County,CO,14.84107020352161,Not significant
+27107,Norman County,MN,8.940502704422526,Not significant
+29017,Bollinger County,MO,14.918282022044849,Not significant
+51011,Appomattox County,VA,13.771973260708096,Not significant
+53069,Wahkiakum County,WA,13.72858431018936,Not significant
+13245,Richmond County,GA,20.719038288839904,Not significant
+37135,Orange County,NC,12.276460261255096,Not significant
+42005,Armstrong County,PA,10.369125447144443,Not significant
+48213,Henderson County,TX,14.759629593143533,Not significant
+13259,Stewart County,GA,21.941176470588236,High-High
+21093,Hardin County,KY,11.512788376734902,Not significant
+27097,Morrison County,MN,10.307305990673203,Not significant
+17125,Mason County,IL,13.730670603776517,Not significant
+48387,Red River County,TX,20.211742059672762,Not significant
+12021,Collier County,FL,10.392007414705656,Not significant
+48453,Travis County,TX,11.281487165963014,Low-Low
+06101,Sutter County,CA,13.316278169049973,Not significant
+06035,Lassen County,CA,15.231289958631065,Not significant
+12097,Osceola County,FL,13.428333653415274,Not significant
+16081,Teton County,ID,9.975442459141332,Not significant
+08105,Rio Grande County,CO,10.2575528027805,Not significant
+26041,Delta County,MI,13.248723961925783,Not significant
+36081,Queens County,NY,11.693377354626477,Not significant
+41015,Curry County,OR,12.425194816377491,Not significant
+51057,Essex County,VA,17.11265593752976,Not significant
+40141,Tillman County,OK,16.93262411347518,Not significant
+08025,Crowley County,CO,24.185210159586426,Not significant
+08101,Pueblo County,CO,16.631603339248365,Not significant
+08071,Las Animas County,CO,19.048654919875283,High-High
+40001,Adair County,OK,22.321107052831938,Not significant
+36095,Schoharie County,NY,10.140727031462793,Not significant
+36007,Broome County,NY,19.081221503552115,Not significant
+39145,Scioto County,OH,23.788896621266563,High-High
+39147,Seneca County,OH,11.628308400460298,Not significant
+48427,Starr County,TX,33.4602394841879,High-High
+13127,Glynn County,GA,16.410564947957404,Not significant
+13139,Hall County,GA,13.51283354134704,Low-Low
+48039,Brazoria County,TX,7.532447444668786,Not significant
+42097,Northumberland County,PA,12.399493618914018,Low-Low
+26161,Washtenaw County,MI,13.786949183468662,Not significant
+37009,Ashe County,NC,14.117202268431003,Low-High
+51167,Russell County,VA,19.322060496684845,High-High
+37017,Bladen County,NC,24.419078679168365,High-High
+21115,Johnson County,KY,21.40334993209597,High-High
+37155,Robeson County,NC,27.11544869434068,High-High
+47157,Shelby County,TN,18.12149218360128,Not significant
+26069,Iosco County,MI,15.078856776879354,Not significant
+40101,Muskogee County,OK,18.10459293861684,Not significant
+13079,Crawford County,GA,16.61371237458194,High-High
+51810,Virginia Beach city,VA,8.034368438747542,Not significant
+26125,Oakland County,MI,7.6997916210738655,Not significant
+26145,Saginaw County,MI,18.213727912406057,Not significant
+47059,Greene County,TN,15.604031761844766,Not significant
+42025,Carbon County,PA,11.801572292640232,Not significant
+45025,Chesterfield County,SC,20.317150297619047,Not significant
+47163,Sullivan County,TN,15.193038096090643,Not significant
+09190,Western Connecticut Planning Region,CT,7.447004608294931,Low-Low
+35041,Roosevelt County,NM,20.567454798331017,High-High
+22005,Ascension Parish,LA,9.897393916754755,Not significant
+13019,Berrien County,GA,23.20672755624861,High-High
+37101,Johnston County,NC,10.705150107582488,Not significant
+21127,Lawrence County,KY,26.331820724808853,High-High
+42051,Fayette County,PA,16.202004887215015,Not significant
+47099,Lawrence County,TN,16.070406738538306,Not significant
+49021,Iron County,UT,14.122994931814619,Low-Low
+51021,Bland County,VA,10.748999428244712,Not significant
+19111,Lee County,IA,12.765559195133365,Not significant
+26017,Bay County,MI,15.284734717696834,Not significant
+31177,Washington County,NE,7.968590955358441,Not significant
+31033,Cheyenne County,NE,11.657363675397166,Low-Low
+45049,Hampton County,SC,19.983407079646017,Not significant
+37157,Rockingham County,NC,18.82097341366721,Not significant
+39109,Miami County,OH,8.457142857142857,Not significant
+40125,Pottawatomie County,OK,15.81218786986519,Not significant
+41053,Polk County,OR,11.85659830219125,Not significant
+42083,McKean County,PA,14.139035168964513,Not significant
+45035,Dorchester County,SC,12.334644261708974,Not significant
+51820,Waynesboro city,VA,16.137362388438362,Not significant
+54055,Mercer County,WV,18.772669176828217,High-High
+05069,Jefferson County,AR,19.503259344830433,Not significant
+06107,Tulare County,CA,18.47070570150026,Not significant
+16011,Bingham County,ID,10.38870893105044,Low-Low
+19083,Hardin County,IA,8.409880834160873,Not significant
+51550,Chesapeake city,VA,7.637113368323304,Not significant
+19031,Cedar County,IA,7.832523199292974,Not significant
+05017,Chicot County,AR,27.436596101446238,High-High
+06103,Tehama County,CA,16.17846780665473,Not significant
+28089,Madison County,MS,9.793239373768175,Low-High
+49017,Garfield County,UT,15.908631493834648,Not significant
+48251,Johnson County,TX,10.603706982467276,Low-Low
+30045,Judith Basin County,MT,17.508582638548308,Not significant
+53005,Benton County,WA,10.531360071613443,Not significant
+55141,Wood County,WI,10.496386199372699,Not significant
+37095,Hyde County,NC,29.910935180603662,Not significant
+38029,Emmons County,ND,6.714108910891089,Not significant
+48165,Gaines County,TX,12.660713450839216,Not significant
+48287,Lee County,TX,13.16464552238806,Not significant
+21187,Owen County,KY,14.137868970482362,Not significant
+21113,Jessamine County,KY,12.106312549604135,Not significant
+21205,Rowan County,KY,24.585356913772564,High-High
+29131,Miller County,MO,15.967623252391464,Not significant
+33003,Carroll County,NH,7.999679852732257,Low-Low
+51770,Roanoke city,VA,19.11360466070403,High-Low
+37189,Watauga County,NC,24.92434775496851,Not significant
+06031,Kings County,CA,16.213118629255817,Not significant
+22037,East Feliciana Parish,LA,14.669471153846153,High-High
+29015,Benton County,MO,17.53498218619301,Not significant
+20191,Sumner County,KS,11.579806776432168,Not significant
+21139,Livingston County,KY,16.838449473448353,Not significant
+06077,San Joaquin County,CA,12.877444831712829,Not significant
+40003,Alfalfa County,OK,11.788079470198676,Not significant
+42011,Berks County,PA,11.820697954271962,Low-Low
+42075,Lebanon County,PA,10.907891623708569,Not significant
+13037,Calhoun County,GA,25.82051282051282,High-High
+05127,Scott County,AR,17.126225490196077,Not significant
+08009,Baca County,CO,23.03155411383073,Not significant
+12005,Bay County,FL,12.198062215443963,Not significant
+13185,Lowndes County,GA,20.642991376433603,High-High
+18165,Vermillion County,IN,14.865663798200092,Not significant
+36105,Sullivan County,NY,14.841733190357044,Not significant
+39129,Pickaway County,OH,12.494269104513196,Not significant
+40153,Woodward County,OK,14.965034965034965,Not significant
+31015,Boyd County,NE,11.615871190339275,Not significant
+21057,Cumberland County,KY,28.25012779008349,High-High
+27157,Wabasha County,MN,7.571543067276413,Low-Low
+51175,Southampton County,VA,8.364559410129337,Not significant
+36027,Dutchess County,NY,8.574196158022097,Low-Low
+51095,James City County,VA,7.280121100164203,Low-Low
+13269,Taylor County,GA,28.962536023054756,High-High
+48423,Smith County,TX,12.612829620156703,Not significant
+48265,Kerr County,TX,12.538478128737525,Not significant
+54041,Lewis County,WV,16.83126833063985,Not significant
+38065,Oliver County,ND,11.523757509557619,Low-Low
+47129,Morgan County,TN,20.903288097409217,Not significant
+56003,Big Horn County,WY,11.134472185720544,Not significant
+21161,Mason County,KY,18.73919007574402,High-High
+22091,St. Helena Parish,LA,27.45683621091927,Not significant
+24023,Garrett County,MD,11.060348491287717,Not significant
+26097,Mackinac County,MI,15.811203903537582,Not significant
+47037,Davidson County,TN,14.335472363516995,Low-Low
+48185,Grimes County,TX,14.374613481756338,Not significant
+48155,Foard County,TX,22.0703125,Not significant
+51067,Franklin County,VA,13.25233222991273,Not significant
+51023,Botetourt County,VA,7.193445771562331,Low-Low
+37139,Pasquotank County,NC,11.594587423719819,Not significant
+05005,Baxter County,AR,13.526862455511706,Low-High
+36109,Tompkins County,NY,16.03587565210533,Not significant
+54101,Webster County,WV,17.836010143702453,Not significant
+54015,Clay County,WV,24.55542943624669,High-High
+54035,Jackson County,WV,19.605358435916003,Not significant
+01119,Sumter County,AL,30.374479889042995,High-High
+04019,Pima County,AZ,14.94909349575073,Not significant
+08057,Jackson County,CO,20.850767085076708,Not significant
+17097,Lake County,IL,7.849825420251251,Not significant
+28059,Jackson County,MS,15.664083669404503,Not significant
+30019,Daniels County,MT,12.191872085276483,Not significant
+33019,Sullivan County,NH,11.699334146112726,Low-Low
+34015,Gloucester County,NJ,7.472479454126821,Not significant
+37015,Bertie County,NC,21.41458639255996,High-High
+46137,Ziebach County,SD,41.34419551934827,Not significant
+19159,Ringgold County,IA,8.247653106839516,Not significant
+01077,Lauderdale County,AL,13.263107493416328,Not significant
+04023,Santa Cruz County,AZ,20.20834208426093,Not significant
+28091,Marion County,MS,22.817992254989573,High-High
+01083,Limestone County,AL,11.193978042467098,Not significant
+12013,Calhoun County,FL,19.9027498323273,Not significant
+12053,Hernando County,FL,12.46906500095582,Not significant
+12133,Washington County,FL,22.7266585596541,Not significant
+46045,Edmunds County,SD,7.324675324675325,Not significant
+46129,Walworth County,SD,13.23840677313835,Not significant
+17071,Henderson County,IL,9.100981323203545,Not significant
+21223,Trimble County,KY,13.703703703703704,Not significant
+22103,St. Tammany Parish,LA,11.655877704838318,Not significant
+24510,Baltimore city,MD,19.571793409536088,High-Low
+37013,Beaufort County,NC,17.051171644835243,High-High
+39029,Columbiana County,OH,13.183725003054617,Not significant
+30065,Musselshell County,MT,11.849413700884591,Not significant
+48061,Cameron County,TX,25.34448807151126,High-High
+06093,Siskiyou County,CA,16.68039727218637,Not significant
+08023,Costilla County,CO,22.532005689900426,Not significant
+10005,Sussex County,DE,11.62379116364326,Not significant
+53041,Lewis County,WA,12.27906748706886,Not significant
+34037,Sussex County,NJ,5.541224535326352,Low-Low
+25007,Dukes County,MA,6.712268097042468,Not significant
+27115,Pine County,MN,10.637989191541838,Low-Low
+28123,Scott County,MS,21.86366932559826,Not significant
+30041,Hill County,MT,16.921424962102073,Not significant
+36033,Franklin County,NY,17.87550368208976,Not significant
+34013,Essex County,NJ,15.033860641341317,High-Low
+53045,Mason County,WA,12.949695828057932,Not significant
+05025,Cleveland County,AR,13.557280513918629,Not significant
+18145,Shelby County,IN,12.94240504892279,Low-Low
+18031,Decatur County,IN,9.555221232110481,Not significant
+21025,Breathitt County,KY,28.503937007874015,High-High
+22093,St. James Parish,LA,11.463304365298638,Not significant
+29205,Shelby County,MO,14.854202401372213,Not significant
+18167,Vigo County,IN,19.954423456727604,Not significant
+19097,Jackson County,IA,10.239991670571087,Not significant
+20125,Montgomery County,KS,16.90372170942417,Not significant
+21159,Martin County,KY,23.529999001697114,High-High
+26019,Benzie County,MI,10.445416806911254,Not significant
+28071,Lafayette County,MS,19.63902189119426,Not significant
+36101,Steuben County,NY,13.434551567075154,Not significant
+08069,Larimer County,CO,11.449404191950517,Not significant
+26101,Manistee County,MI,11.254589188504873,Not significant
+37171,Surry County,NC,17.944012972603907,Not significant
+53051,Pend Oreille County,WA,12.92877961288394,Not significant
+21049,Clark County,KY,15.05842702837095,Not significant
+36035,Fulton County,NY,13.922888616891065,Not significant
+39169,Wayne County,OH,8.786268173036689,Not significant
+45091,York County,SC,8.436419571170834,Not significant
+29197,Schuyler County,MO,10.209617755856966,Not significant
+30095,Stillwater County,MT,8.01754188687732,Not significant
+51165,Rockingham County,VA,8.751390127952876,Not significant
+13199,Meriwether County,GA,22.137702360054615,Not significant
+38053,McKenzie County,ND,13.386224305805987,Not significant
+38059,Morton County,ND,8.135103571209047,Not significant
+41071,Yamhill County,OR,11.346777027290829,Not significant
+45069,Marlboro County,SC,27.82461360443012,High-High
+37043,Clay County,NC,13.483247539058972,Not significant
+30015,Chouteau County,MT,15.054869684499314,High-High
+45045,Greenville County,SC,10.917996738407481,Not significant
+01107,Pickens County,AL,22.333969134732097,High-High
+29093,Iron County,MO,19.52707856598017,Not significant
+49009,Daggett County,UT,7.809847198641766,Not significant
+12011,Broward County,FL,12.422889986073134,Not significant
+28049,Hinds County,MS,21.044676696910532,High-High
+37133,Onslow County,NC,12.750132620192176,Not significant
+01025,Clarke County,AL,22.360823379027636,High-High
+05087,Madison County,AR,16.450816215890608,Not significant
+12077,Liberty County,FL,21.777003484320556,Not significant
+18105,Monroe County,IN,20.690950356423617,Not significant
+18037,Dubois County,IN,9.653860604922036,Not significant
+19021,Buena Vista County,IA,7.075999593041001,Low-Low
+20069,Gray County,KS,4.112554112554113,Low-Low
+21081,Grant County,KY,12.82342905885698,Not significant
+47141,Putnam County,TN,16.32143976595967,Not significant
+47005,Benton County,TN,17.962364569473483,Not significant
+49013,Duchesne County,UT,13.501002931646351,Low-Low
+51093,Isle of Wight County,VA,9.762348555452004,Not significant
+56017,Hot Springs County,WY,16.082197900379718,Not significant
+46105,Perkins County,SD,11.943874058863791,Low-High
+49001,Beaver County,UT,7.031023485068136,Not significant
+51027,Buchanan County,VA,25.277230801119288,High-High
+54059,Mingo County,WV,28.618562001885337,High-High
+01121,Talladega County,AL,18.693186232615957,Not significant
+21017,Bourbon County,KY,15.119602828343613,Not significant
+42089,Monroe County,PA,11.308178533012654,Low-Low
+53019,Ferry County,WA,15.528296626707554,Not significant
+16083,Twin Falls County,ID,12.482470016716592,Not significant
+24017,Charles County,MD,5.872588550595166,Low-Low
+51107,Loudoun County,VA,3.7547843258194615,Low-Low
+17201,Winnebago County,IL,16.07651302691015,High-Low
+08021,Conejos County,CO,15.682878081279148,Not significant
+01061,Geneva County,AL,20.83174941078081,Not significant
+06001,Alameda County,CA,9.152310478464955,Not significant
+12037,Franklin County,FL,21.66821994408201,Not significant
+54065,Morgan County,WV,10.59664752080647,Not significant
+54083,Randolph County,WV,15.47791952894995,Not significant
+28163,Yazoo County,MS,29.133404293063688,High-High
+30055,McCone County,MT,2.4376088218224026,Not significant
+13003,Atkinson County,GA,27.51335599805731,High-High
+13051,Chatham County,GA,13.979376816624768,Not significant
+21039,Carlisle County,KY,20.084656084656086,Not significant
+29037,Cass County,MO,6.958538706871557,Not significant
+13137,Habersham County,GA,13.563423040927663,Not significant
+21153,Magoffin County,KY,30.44498522509995,High-High
+21095,Harlan County,KY,30.020401093190653,High-High
+37151,Randolph County,NC,14.734731365991488,Not significant
+17197,Will County,IL,6.651425845698322,Low-Low
+18083,Knox County,IN,13.207106124357177,Not significant
+21003,Allen County,KY,16.52088932323479,Not significant
+22065,Madison Parish,LA,38.096926713947994,High-High
+27045,Fillmore County,MN,8.714333993144402,Low-Low
+53063,Spokane County,WA,12.310903147722833,Not significant
+49029,Morgan County,UT,1.7239983812221773,Low-Low
+55071,Manitowoc County,WI,9.972713340559936,Low-Low
+01093,Marion County,AL,16.44596624855875,Not significant
+26117,Montcalm County,MI,12.295452772794635,Not significant
+21181,Nicholas County,KY,16.18489409884108,High-High
+21197,Powell County,KY,21.10568593479288,High-High
+37153,Richmond County,NC,23.010393023533627,Not significant
+21225,Union County,KY,18.848048503220916,Not significant
+17051,Fayette County,IL,14.6856265173661,Not significant
+21233,Webster County,KY,16.061641115259352,Not significant
+16013,Blaine County,ID,6.930816047695938,Not significant
+17073,Henry County,IL,9.235451214210297,Not significant
+47169,Trousdale County,TN,11.452391399736726,Not significant
+55015,Calumet County,WI,5.8527979135504165,Low-Low
+35035,Otero County,NM,19.363613753652924,High-High
+18091,LaPorte County,IN,14.72280061230117,Not significant
+25017,Middlesex County,MA,7.43872189983877,Low-Low
+28143,Tunica County,MS,31.36230672795654,High-High
+30101,Toole County,MT,10.59542676024451,Low-High
+53029,Island County,WA,6.836392295475442,Not significant
+54037,Jefferson County,WV,9.121807013506576,Low-Low
+21237,Wolfe County,KY,36.768368617683684,High-High
+25001,Barnstable County,MA,7.016514894273808,Low-Low
+47009,Blount County,TN,8.596331235330174,Not significant
+38085,Sioux County,ND,39.743924745231254,Not significant
+19193,Woodbury County,IA,13.505805861340653,Not significant
+17027,Clinton County,IL,7.214731621105441,Not significant
+32031,Washoe County,NV,10.879381002533968,Not significant
+33013,Merrimack County,NH,7.2474837942152615,Low-Low
+40089,McCurtain County,OK,21.103524876678318,High-High
+50017,Orange County,VT,9.219686212032002,Low-Low
+32510,Carson City,NV,11.177274853380348,Low-Low
+36009,Cattaraugus County,NY,17.42366437760197,Not significant
+25023,Plymouth County,MA,6.651187595179925,Low-Low
+45053,Jasper County,SC,17.914883079208973,Not significant
+25021,Norfolk County,MA,6.458762317206844,Not significant
+21123,Larue County,KY,18.839590443686006,Not significant
+31031,Cherry County,NE,9.800295857988166,Low-High
+13247,Rockdale County,GA,11.371876213906512,Not significant
+51141,Patrick County,VA,11.425911920414219,Not significant
+37111,McDowell County,NC,14.937826468820782,Not significant
+38003,Barnes County,ND,12.972181551976574,Not significant
+26103,Marquette County,MI,13.565059838840414,Not significant
+05045,Faulkner County,AR,15.506100733430676,Not significant
+51179,Stafford County,VA,5.375847697319228,Low-Low
+05053,Grant County,AR,13.547807534669586,Not significant
+21107,Hopkins County,KY,19.186006787072678,Not significant
+37061,Duplin County,NC,18.521407167193466,Not significant
+37127,Nash County,NC,14.543362298890132,Not significant
+39171,Williams County,OH,11.187949715821597,Low-Low
+27071,Koochiching County,MN,11.69516033001616,Not significant
+38081,Sargent County,ND,6.208543380206952,Not significant
+42017,Bucks County,PA,5.630398810749143,Low-Low
+45017,Calhoun County,SC,18.659185728672135,Not significant
+46009,Bon Homme County,SD,11.71003717472119,Not significant
+18119,Owen County,IN,12.297672636720621,Not significant
+18149,Starke County,IN,13.576301925900337,Not significant
+18161,Union County,IN,6.0369728480647025,Not significant
+42073,Lawrence County,PA,12.345708544636876,Not significant
+32011,Eureka County,NV,17.636138613861387,Not significant
+33001,Belknap County,NH,8.56997971602434,Low-Low
+01113,Russell County,AL,22.027809766074835,High-High
+12081,Manatee County,FL,10.171008998104346,Not significant
+37047,Columbus County,NC,21.091460753548493,Not significant
+48349,Navarro County,TX,16.45697030699547,Not significant
+51009,Amherst County,VA,11.290639105121999,Not significant
+48389,Reeves County,TX,20.96611615104288,Not significant
+16033,Clark County,ID,9.163346613545817,Not significant
+28149,Warren County,MS,18.117582492968374,High-High
+29133,Mississippi County,MO,23.6533308694447,High-High
+26133,Osceola County,MI,15.677704194260485,Not significant
+28043,Grenada County,MS,22.210065645514224,High-High
+48187,Guadalupe County,TX,8.705674171692007,Not significant
+12125,Union County,FL,15.900144023043687,Not significant
+30109,Wibaux County,MT,17.80821917808219,Not significant
+26013,Baraga County,MI,12.173792337590228,Not significant
+41027,Hood River County,OR,6.566635758239905,Not significant
+18003,Allen County,IN,12.025443412162161,Low-Low
+46059,Hand County,SD,7.687210072895957,Not significant
+18141,St. Joseph County,IN,14.416593712082815,Not significant
+51670,Hopewell city,VA,21.32404486505433,High-Low
+38025,Dunn County,ND,6.789036962534574,Low-Low
+38087,Slope County,ND,4.659498207885305,Not significant
+37165,Scotland County,NC,26.13643469017695,High-High
+47045,Dyer County,TN,16.333968359148514,High-High
+21035,Calloway County,KY,18.73738407980575,Not significant
+48019,Bandera County,TX,14.267858859725026,Not significant
+44001,Bristol County,RI,7.23636518698563,Not significant
+56035,Sublette County,WY,8.065806009368217,Not significant
+37113,Macon County,NC,15.425488432927327,Not significant
+55003,Ashland County,WI,16.636375438140984,Not significant
+48215,Hidalgo County,TX,27.69962399748097,High-High
+55063,La Crosse County,WI,11.779613371967304,Not significant
+01097,Mobile County,AL,17.566020595816337,Not significant
+01089,Madison County,AL,10.687160080127274,Not significant
+37149,Polk County,NC,11.005357049981797,Not significant
+22045,Iberia Parish,LA,23.10388274993121,Not significant
+45065,McCormick County,SC,16.684106499244272,Not significant
+27099,Mower County,MN,11.870229007633588,Low-Low
+30057,Madison County,MT,6.841557841211141,Not significant
+13117,Forsyth County,GA,4.595372514193282,Not significant
+39003,Allen County,OH,12.32541293857188,Low-Low
+36089,St. Lawrence County,NY,17.039497215267488,Not significant
+54017,Doddridge County,WV,14.42962962962963,Not significant
+29039,Cedar County,MO,18.344328580549053,Not significant
+45009,Bamberg County,SC,22.267530183097467,High-High
+38021,Dickey County,ND,9.183457051961824,Not significant
+04025,Yavapai County,AZ,12.321749075815275,Not significant
+36087,Rockland County,NY,15.070998666522508,High-Low
+29177,Ray County,MO,12.182208025204568,Not significant
+28035,Forrest County,MS,22.837492045869944,High-High
+01091,Marengo County,AL,21.453086224193463,High-High
+48397,Rockwall County,TX,4.173165859398517,Not significant
+05107,Phillips County,AR,30.45191478881911,High-High
+37003,Alexander County,NC,12.249379687990189,Not significant
+55073,Marathon County,WI,8.32947130698328,Low-Low
+39057,Greene County,OH,10.595060770299533,Not significant
+51191,Washington County,VA,12.01280756256075,Low-High
+51197,Wythe County,VA,17.209185863499787,Not significant
+37109,Lincoln County,NC,9.266666666666667,Not significant
+39097,Madison County,OH,10.220262071075307,Not significant
+22009,Avoyelles Parish,LA,27.945099980746487,High-High
+12063,Jackson County,FL,19.225261702547897,High-High
+53037,Kittitas County,WA,14.488602741023032,Not significant
+17195,Whiteside County,IL,11.645714075355704,Not significant
+37143,Perquimans County,NC,13.31582606009114,Not significant
+13307,Webster County,GA,27.872340425531913,High-High
+12089,Nassau County,FL,9.207186527468162,Not significant
+48113,Dallas County,TX,13.982521556656133,Low-Low
+06111,Ventura County,CA,8.951058553160122,Not significant
+21147,McCreary County,KY,33.65372041323395,High-High
+27005,Becker County,MN,10.876430537447487,Not significant
+05139,Union County,AR,18.619519832985386,High-High
+20139,Osage County,KS,11.146990441746318,Not significant
+48361,Orange County,TX,11.92052190298997,Not significant
+13061,Clay County,GA,25.732666190135813,High-High
+39153,Summit County,OH,12.412733425713828,Low-Low
+13179,Liberty County,GA,15.355805243445692,Not significant
+13253,Seminole County,GA,21.023359288097886,High-High
+13057,Cherokee County,GA,6.631273841348031,Low-Low
+29139,Montgomery County,MO,14.81081081081081,Not significant
+47055,Giles County,TN,13.52225893252495,Not significant
+18147,Spencer County,IN,7.212028542303772,Not significant
+54005,Boone County,WV,16.529041287613715,High-High
+41007,Clatsop County,OR,10.24483587655169,Not significant
+06033,Lake County,CA,16.591444122895144,Not significant
+13055,Chattooga County,GA,19.929705805779744,Not significant
+29201,Scott County,MO,15.565470624382163,Not significant
+41031,Jefferson County,OR,12.683839156677719,Low-Low
+49049,Utah County,UT,8.867067159581023,Low-Low
+29153,Ozark County,MO,22.47177935528919,Not significant
+22083,Richland Parish,LA,24.02910080602952,High-High
+36031,Essex County,NY,10.426136363636363,Not significant
+48313,Madison County,TX,12.473328591749645,Not significant
+17063,Grundy County,IL,5.975820379965458,Low-Low
+36111,Ulster County,NY,14.710504809203496,Not significant
+37105,Lee County,NC,15.986996684798353,Not significant
+47003,Bedford County,TN,12.391635896612618,Not significant
+38061,Mountrail County,ND,12.382149591451917,Low-Low
+48161,Freestone County,TX,12.658227848101266,Not significant
+37005,Alleghany County,NC,19.549632352941178,Not significant
+36121,Wyoming County,NY,10.699141312413866,Not significant
+27121,Pope County,MN,9.618678445866763,Not significant
+17033,Crawford County,IL,9.597177300793884,Not significant
+29011,Barton County,MO,22.208716791109566,Not significant
+04013,Maricopa County,AZ,11.528376061801518,Not significant
+36069,Ontario County,NY,9.004399783225711,Not significant
+48365,Panola County,TX,13.971856559237404,Low-High
+17193,White County,IL,15.31733572549899,Not significant
+28045,Hancock County,MS,13.741278687085876,Not significant
+42015,Bradford County,PA,13.140712819304682,Not significant
+39083,Knox County,OH,12.891639405079086,Not significant
+46015,Brule County,SD,13.92828999211978,Low-High
+08007,Archuleta County,CO,8.15473078933612,Not significant
+01031,Coffee County,AL,16.299584542712424,High-High
+51033,Caroline County,VA,11.566824931811293,Low-Low
+51059,Fairfax County,VA,5.982567109052927,Low-Low
+45085,Sumter County,SC,16.414560359129503,High-High
+42047,Elk County,PA,8.962418836492425,Not significant
+19189,Winnebago County,IA,7.7527866242038215,Low-Low
+12129,Wakulla County,FL,6.148435210212655,Low-High
+28109,Pearl River County,MS,15.764380470583953,High-High
+05141,Van Buren County,AR,18.915133380021647,High-High
+48093,Comanche County,TX,13.528009535160907,Not significant
+46041,Dewey County,SD,30.918524212144504,Not significant
+47143,Rhea County,TN,15.706562266964951,Not significant
+42061,Huntingdon County,PA,11.292259729639946,Not significant
+55049,Iowa County,WI,7.983980913428766,Not significant
+42113,Sullivan County,PA,12.224982256919802,Not significant
+47167,Tipton County,TN,10.80098899822445,Not significant
+33017,Strafford County,NH,9.120307293291091,Low-Low
+18097,Marion County,IN,15.355294399078387,High-Low
+46007,Bennett County,SD,29.599761051373953,High-High
+51029,Buckingham County,VA,14.008069939475455,Not significant
+16005,Bannock County,ID,12.533739194539898,Not significant
+13257,Stephens County,GA,12.793682900264509,Not significant
+16015,Boise County,ID,9.399846114388305,Not significant
+40105,Nowata County,OK,15.972372113101661,Not significant
+13125,Glascock County,GA,15.526409074796172,High-High
+55091,Pepin County,WI,7.823222618720835,Low-Low
+19071,Fremont County,IA,7.536991368680641,Low-Low
+29125,Maries County,MO,17.441583214115404,Not significant
+48347,Nacogdoches County,TX,22.441872202967797,High-High
+37137,Pamlico County,NC,13.823119777158775,Not significant
+12123,Taylor County,FL,15.121977782618165,Not significant
+27171,Wright County,MN,4.792949670843067,Low-Low
+23025,Somerset County,ME,16.782160267515412,Not significant
+05089,Marion County,AR,17.76740847092606,Not significant
+48377,Presidio County,TX,39.99675482719455,High-High
+06099,Stanislaus County,CA,13.726400184175858,Not significant
+21063,Elliott County,KY,24.677472709229242,High-High
+17185,Wabash County,IL,13.338729987407808,Not significant
+55057,Juneau County,WI,14.69062033178709,Not significant
+38099,Walsh County,ND,9.68429207824908,Not significant
+01011,Bullock County,AL,27.943011647254576,High-High
+06011,Colusa County,CA,10.944444444444445,Not significant
+08051,Gunnison County,CO,10.80913762149446,Low-Low
+48067,Cass County,TX,18.498174988482937,Not significant
+13039,Camden County,GA,16.374113811274974,Not significant
+28097,Montgomery County,MS,24.19254658385093,High-High
+13121,Fulton County,GA,12.483738190193861,Low-Low
+38043,Kidder County,ND,12.774193548387096,Low-Low
+13111,Fannin County,GA,11.770062156063185,Not significant
+39123,Ottawa County,OH,8.7656124093473,Not significant
+37031,Carteret County,NC,9.66747117189595,Not significant
+18127,Porter County,IN,9.308265886406003,Not significant
+51135,Nottoway County,VA,19.09699719161806,Not significant
+29077,Greene County,MO,14.586365862894345,Not significant
+48201,Harris County,TX,15.772336273074345,Not significant
+48217,Hill County,TX,13.319106558543178,Not significant
+29219,Warren County,MO,10.201300360580335,Low-Low
+13141,Hancock County,GA,27.497865072587533,Not significant
+01069,Houston County,AL,17.8361882446311,High-High
+29155,Pemiscot County,MO,29.25192232503584,High-High
+26163,Wayne County,MI,20.190559730200192,Not significant
+18011,Boone County,IN,5.764304013663535,Low-Low
+36061,New York County,NY,15.794948281994557,Not significant
+45039,Fairfield County,SC,18.718830194160656,Not significant
+16087,Washington County,ID,18.127871362940276,Not significant
+39007,Ashtabula County,OH,18.011955774215732,Not significant
+51163,Rockbridge County,VA,8.892775460782994,Not significant
+55059,Kenosha County,WI,11.09917260051113,Low-Low
+09120,Greater Bridgeport Planning Region,CT,13.307322247054813,Not significant
+31011,Boone County,NE,7.3465533522190745,Not significant
+48099,Coryell County,TX,10.612318189980249,Not significant
+17037,DeKalb County,IL,15.391236712470832,High-Low
+26085,Lake County,MI,20.296864576384255,Not significant
+12071,Lee County,FL,11.70128141514858,Not significant
+16041,Franklin County,ID,9.610517435320585,Not significant
+51081,Greensville County,VA,12.934614928206955,Not significant
+13091,Dodge County,GA,22.337520480611687,High-High
+06045,Mendocino County,CA,16.155227609900834,Not significant
+55011,Buffalo County,WI,8.232445520581114,Low-Low
+55101,Racine County,WI,11.328373294986818,Not significant
+50013,Grand Isle County,VT,7.4367737525632265,Not significant
+27037,Dakota County,MN,5.642111250507446,Low-Low
+41051,Multnomah County,OR,12.200083895259414,Low-Low
+22069,Natchitoches Parish,LA,25.924462259357533,High-High
+17171,Scott County,IL,10.975609756097562,Not significant
+13103,Effingham County,GA,6.618225575045124,Not significant
+40015,Caddo County,OK,18.62308268601396,Not significant
+40067,Jefferson County,OK,23.142532221379835,Not significant
+08055,Huerfano County,CO,20.595643799081344,Not significant
+45007,Anderson County,SC,14.27302809459788,Not significant
+45027,Clarendon County,SC,19.522900123965556,Not significant
+13177,Lee County,GA,8.838001514004542,Low-High
+39081,Jefferson County,OH,18.164102726595797,Not significant
+40129,Roger Mills County,OK,13.562812591938805,Not significant
+51678,Lexington city,VA,16.630824372759857,Not significant
+06089,Shasta County,CA,13.28318979979868,Not significant
+05041,Desha County,AR,27.227191413237925,High-High
+22057,Lafourche Parish,LA,16.552065976250237,Not significant
+06109,Tuolumne County,CA,11.369474111126133,Not significant
+40021,Cherokee County,OK,20.768623321926825,Not significant
+05015,Carroll County,AR,15.435356200527705,Not significant
+48449,Titus County,TX,18.335164480062044,Not significant
+22099,St. Martin Parish,LA,17.564462101737167,High-High
+01103,Morgan County,AL,13.723088129392192,Not significant
+01125,Tuscaloosa County,AL,16.693333577843692,High-High
+22125,West Feliciana Parish,LA,14.210615567237578,Low-High
+13151,Henry County,GA,8.429406850459483,Not significant
+12043,Glades County,FL,21.865246924912796,Not significant
+08089,Otero County,CO,23.99338113623828,High-High
+22107,Tensas Parish,LA,35.06623344163959,High-High
+54011,Cabell County,WV,20.113355455092087,Not significant
+21183,Ohio County,KY,14.039843380233208,Not significant
+27013,Blue Earth County,MN,16.40409339779469,High-Low
+33011,Hillsborough County,NH,6.8590526724160785,Low-Low
+56037,Sweetwater County,WY,11.654769943088647,Low-Low
+19155,Pottawattamie County,IA,11.329021489672439,Low-Low
+36045,Jefferson County,NY,12.794721171642392,Not significant
+29013,Bates County,MO,19.100191448627953,Not significant
+26141,Presque Isle County,MI,12.703683682137617,Not significant
+30085,Roosevelt County,MT,31.548996913580247,High-Low
+53031,Jefferson County,WA,13.825611226161406,Not significant
+48355,Nueces County,TX,17.30461965960403,High-High
+55029,Door County,WI,8.660675216264432,Not significant
+16069,Nez Perce County,ID,14.140246452025481,Not significant
+26063,Huron County,MI,11.261217794075074,Not significant
+13167,Johnson County,GA,21.86375480828887,High-High
+39137,Putnam County,OH,6.560846560846561,Low-Low
+48143,Erath County,TX,16.54137203820866,Not significant
+29203,Shannon County,MO,14.675866034210149,High-High
+51610,Falls Church city,VA,2.326221610461115,Low-Low
+48273,Kleberg County,TX,30.566258428512455,Not significant
+08097,Pitkin County,CO,6.662804171494786,Low-Low
+08067,La Plata County,CO,11.420921429230912,Not significant
+40143,Tulsa County,OK,14.411835754296888,Not significant
+01115,St. Clair County,AL,10.917732110583037,Not significant
+12103,Pinellas County,FL,11.468997078125067,Not significant
+17057,Fulton County,IL,13.3808618504436,Not significant
+20021,Cherokee County,KS,13.69755382117228,Not significant
+27007,Beltrami County,MN,16.14248675459362,High-Low
+18017,Cass County,IN,13.878115592199832,Not significant
+05113,Polk County,AR,17.78301886792453,High-High
+32005,Douglas County,NV,7.477889600487954,Low-Low
+20095,Kingman County,KS,7.884908009406557,Not significant
+19043,Clayton County,IA,13.023090164420966,Low-Low
+18049,Fulton County,IN,14.789607034626657,Not significant
+29199,Scotland County,MO,7.441961379908874,Not significant
+45015,Berkeley County,SC,10.9254351596686,Not significant
+09160,Northwest Hills Planning Region,CT,9.43636183243287,Low-Low
+26089,Leelanau County,MI,6.676270652320713,Not significant
+42057,Fulton County,PA,10.704419889502763,Not significant
+26037,Clinton County,MI,9.554310795809782,Not significant
+13239,Quitman County,GA,15.275229357798166,High-High
+53061,Snohomish County,WA,7.6006176242981125,Low-Low
+29111,Lewis County,MO,16.46354733405876,Not significant
+12079,Madison County,FL,22.44669609001057,High-High
+35028,Los Alamos County,NM,3.7085400887960303,Not significant
+35019,Guadalupe County,NM,20.660304359040495,High-High
+54021,Gilmer County,WV,11.141353656323716,Low-High
+18163,Vanderburgh County,IN,14.258979880920847,Not significant
+54027,Hampshire County,WV,17.46664893852768,Not significant
+41063,Wallowa County,OR,9.19602775132635,Not significant
+37039,Cherokee County,NC,16.735667672444038,Not significant
+40109,Oklahoma County,OK,15.803626384899466,Not significant
+12127,Volusia County,FL,12.188860445927643,Not significant
+06091,Sierra County,CA,12.578836720392431,Not significant
+16019,Bonneville County,ID,9.459843812217102,Not significant
+01035,Conecuh County,AL,18.429737710613168,High-High
+20097,Kiowa County,KS,5.18319928507596,Not significant
+27041,Douglas County,MN,8.511024643320363,Not significant
+47023,Chester County,TN,15.823970037453183,Not significant
+22113,Vermilion Parish,LA,19.297376660593304,Not significant
+35043,Sandoval County,NM,10.089534930758754,Low-High
+27027,Clay County,MN,14.74871662831303,Not significant
