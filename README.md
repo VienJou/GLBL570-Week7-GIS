@@ -23,6 +23,7 @@ The same data are packed for students in **`lab_data/`** (Shapefiles, CSV tables
 
 ## Run
 * CPU only, no GPU and no internet needed. Full run ≈ 70 s; peak memory ≈ 2.6 GB (use a machine or kernel with ≥ 4 GB).
+* Tested on Python 3.9 (NumPy 1.26, pandas 2.3) and Python 3.12 (NumPy 2.5, pandas 3.0); on I-GUIDE use the `geoai-edu` kernel.
 * Python ≥ 3.9 with the libraries in `requirements.txt`:
   ```bash
   pip install -r requirements.txt
