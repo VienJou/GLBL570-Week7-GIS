@@ -3,7 +3,7 @@
   "content": "3,144 counties/county equivalents (50 states + DC); 3,754 earthquakes M>=2.5 in 2025",
   "structure": {
     "crs_counties": "EPSG:4269",
-    "crs_quakes": "EPSG:4979",
+    "crs_quakes": "EPSG:4269",
     "fields": [
       "geoid",
       "state_fips",
@@ -46,6 +46,7 @@
   ],
   "lineage": [
     "Census TIGER/Line 2022 + ACS 5-year (B02001, B19013, B17001, B08301)",
+    "Rasters: Google Earth Engine (SRTM, NLCD 2021, Sentinel-2 L2A, WorldPop 2020), scripts/fetch_rasters_gee.py",
     "USGS FDSN catalog 2025-01-01..2026-01-01, M>=2.5, clipped to county boundaries"
   ],
   "constraints": "Teaching use; not for cadastral/engineering area work; earthquakes are one year only"

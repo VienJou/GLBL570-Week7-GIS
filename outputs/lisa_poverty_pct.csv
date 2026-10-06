@@ -167,7 +167,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 26025,Calhoun County,MI,14.8347943358058,Not significant
 31037,Colfax County,NE,10.224414780421744,Low-Low
 38101,Ward County,ND,9.032743141041706,Low-Low
-31059,Fillmore County,NE,7.0041090773253645,Low-Low
+31059,Fillmore County,NE,7.004109077325364,Low-Low
 42109,Snyder County,PA,8.370222414165408,Not significant
 19003,Adams County,IA,9.466962798445309,Not significant
 51580,Covington city,VA,16.92170818505338,Not significant
@@ -175,7 +175,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 48009,Archer County,TX,12.285814197458912,Not significant
 49031,Piute County,UT,20.904925544100802,Not significant
 20093,Kearny County,KS,15.640298892038134,High-Low
-31097,Johnson County,NE,6.1314206385932435,Not significant
+31097,Johnson County,NE,6.131420638593243,Not significant
 48435,Sutton County,TX,16.56644618159952,Not significant
 17147,Piatt County,IL,7.153170496931777,Not significant
 17169,Schuyler County,IL,19.505697794879385,Not significant
@@ -288,7 +288,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 48011,Armstrong County,TX,5.895078420767983,Not significant
 48249,Jim Wells County,TX,22.6226874643727,High-High
 40043,Dewey County,OK,14.237134436635683,Not significant
-48211,Hemphill County,TX,6.1408789885611075,Not significant
+48211,Hemphill County,TX,6.140878988561107,Not significant
 23011,Kennebec County,ME,12.424623011087176,Not significant
 19075,Grundy County,IA,5.943194877688392,Not significant
 27059,Isanti County,MN,8.786180910670158,Low-Low
@@ -355,12 +355,12 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 48327,Menard County,TX,22.4830464267084,Not significant
 48329,Midland County,TX,10.75262401021559,Not significant
 48353,Nolan County,TX,15.535739166782779,Not significant
-48383,Reagan County,TX,7.1863580998781975,Low-Low
+48383,Reagan County,TX,7.186358099878198,Low-Low
 40137,Stephens County,OK,16.8896123811546,Not significant
 29187,St. Francois County,MO,17.61784566970432,Not significant
 08061,Kiowa County,CO,15.945330296127562,Not significant
 48319,Mason County,TX,4.936708860759493,Not significant
-48173,Glasscock County,TX,5.2434456928838955,Not significant
+48173,Glasscock County,TX,5.243445692883896,Not significant
 48259,Kendall County,TX,5.09360618381663,Not significant
 40051,Grady County,OK,11.005138442201767,Not significant
 40027,Cleveland County,OK,12.836519565317461,Not significant
@@ -684,7 +684,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 48303,Lubbock County,TX,17.215924864288127,High-High
 27165,Watonwan County,MN,13.265213852970431,Not significant
 46039,Deuel County,SD,5.753360056590426,Low-Low
-19181,Warren County,IA,6.1628889893648395,Low-Low
+19181,Warren County,IA,6.16288898936484,Low-Low
 05099,Nevada County,AR,27.825225894293848,High-High
 20081,Haskell County,KS,9.014390442573989,Low-Low
 29075,Gentry County,MO,15.203426124197001,Not significant
@@ -715,14 +715,14 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 16085,Valley County,ID,13.987455967007476,Not significant
 21227,Warren County,KY,17.16537143034421,Not significant
 51740,Portsmouth city,VA,17.35733948366937,Not significant
-48433,Stonewall County,TX,7.0597362296353765,Not significant
+48433,Stonewall County,TX,7.059736229635377,Not significant
 40077,Latimer County,OK,16.65936952714536,High-High
 32029,Storey County,NV,9.08645603722753,Not significant
 40149,Washita County,OK,12.522445893582837,Low-High
 19177,Van Buren County,IA,11.097028587522884,Not significant
 55035,Eau Claire County,WI,12.08396332004634,Low-Low
 20101,Lane County,KS,8.995403808273146,Low-Low
-20195,Trego County,KS,7.2901325478645065,Low-Low
+20195,Trego County,KS,7.290132547864506,Low-Low
 51830,Williamsburg city,VA,13.65133126352432,Low-Low
 39039,Defiance County,OH,10.524632970078068,Low-Low
 46089,McPherson County,SD,13.216485078162009,Low-Low
@@ -758,7 +758,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 08029,Delta County,CO,15.031225086367261,Not significant
 17109,McDonough County,IL,19.792636993236403,Not significant
 39143,Sandusky County,OH,12.957970413383105,Not significant
-48033,Borden County,TX,1.6034985422740524,Not significant
+48033,Borden County,TX,1.603498542274052,Not significant
 05101,Newton County,AR,11.354442739573162,Not significant
 51540,Charlottesville city,VA,23.596281296023562,Not significant
 27117,Pipestone County,MN,13.035908596300326,Low-Low
@@ -838,7 +838,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 28147,Walthall County,MS,20.273912726742914,High-High
 29061,Daviess County,MO,13.777561213302473,Not significant
 48495,Winkler County,TX,12.633404482390608,Not significant
-39041,Delaware County,OH,4.5265986834096505,Not significant
+39041,Delaware County,OH,4.526598683409651,Not significant
 46057,Hamlin County,SD,7.425329551143,Low-Low
 20127,Morris County,KS,10.976989815164089,Not significant
 01081,Lee County,AL,18.498982654406806,Not significant
@@ -1064,7 +1064,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 29195,Saline County,MO,12.991020032235781,Not significant
 37033,Caswell County,NC,15.438794196365686,Not significant
 51183,Sussex County,VA,12.741969793660923,Not significant
-33015,Rockingham County,NH,4.8449358283468245,Low-Low
+33015,Rockingham County,NH,4.844935828346824,Low-Low
 47063,Hamblen County,TN,17.13898433313369,Not significant
 47067,Hancock County,TN,32.33578882750153,Not significant
 47073,Hawkins County,TN,16.879936107906648,High-High
@@ -1084,7 +1084,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 20011,Bourbon County,KS,12.791114295951273,Not significant
 20037,Crawford County,KS,20.902856525730332,Not significant
 48085,Collin County,TX,6.32207891628973,Low-Low
-48089,Colorado County,TX,7.4518629657414355,Not significant
+48089,Colorado County,TX,7.451862965741435,Not significant
 42045,Delaware County,PA,9.664362921125287,Low-Low
 45033,Dillon County,SC,31.60931899641577,High-High
 42031,Clarion County,PA,13.703416149068323,Not significant
@@ -1118,7 +1118,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 41047,Marion County,OR,12.994824450972164,Not significant
 42065,Jefferson County,PA,14.105660203776536,Not significant
 26043,Dickinson County,MI,9.702691057229034,Not significant
-26045,Eaton County,MI,7.6087057923558445,Not significant
+26045,Eaton County,MI,7.608705792355845,Not significant
 21121,Knox County,KY,34.03692140627121,High-High
 26059,Hillsdale County,MI,15.152958251128195,Not significant
 48121,Denton County,TX,7.416557225653712,Not significant
@@ -1239,10 +1239,10 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 35017,Grant County,NM,20.45958327176001,High-High
 21013,Bell County,KY,26.293748130421775,High-High
 37057,Davidson County,NC,13.93154486586494,Not significant
-23005,Cumberland County,ME,7.2131692491384225,Not significant
-27015,Brown County,MN,7.7307537283353485,Not significant
+23005,Cumberland County,ME,7.213169249138423,Not significant
+27015,Brown County,MN,7.730753728335348,Not significant
 45079,Richland County,SC,16.826898267124914,Not significant
-51065,Fluvanna County,VA,6.0555512452478855,Low-Low
+51065,Fluvanna County,VA,6.055551245247885,Low-Low
 45087,Union County,SC,21.04632886759973,Not significant
 56033,Sheridan County,WY,8.680315168298552,Not significant
 51089,Henry County,VA,16.129356030191104,Not significant
@@ -1279,7 +1279,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 46083,Lincoln County,SD,6.451167076167076,Low-Low
 47131,Obion County,TN,16.145297727649695,High-High
 21007,Ballard County,KY,14.297008828567664,Low-High
-48053,Burnet County,TX,7.8346610675394714,Not significant
+48053,Burnet County,TX,7.834661067539471,Not significant
 41039,Lane County,OR,16.12845415809619,Not significant
 25013,Hampden County,MA,15.767554050764566,High-Low
 29033,Carroll County,MO,9.427009034712317,Not significant
@@ -1291,7 +1291,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 55139,Winnebago County,WI,10.81834938538348,Low-Low
 18171,Warren County,IN,12.54501800720288,Not significant
 22011,Beauregard Parish,LA,13.314890882163914,Low-High
-24037,St. Mary's County,MD,7.5927771642018875,Low-Low
+24037,St. Mary's County,MD,7.592777164201888,Low-Low
 28117,Prentiss County,MS,16.319810882688166,Not significant
 28135,Tallahatchie County,MS,25.665478066174643,High-High
 34005,Burlington County,NJ,6.583532528871353,Not significant
@@ -1332,7 +1332,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 42107,Schuylkill County,PA,12.344700555518864,Not significant
 47145,Roane County,TN,12.151851155797782,Not significant
 21203,Rockcastle County,KY,23.55379807385675,High-High
-24009,Calvert County,MD,4.2689238731938755,Low-Low
+24009,Calvert County,MD,4.268923873193875,Low-Low
 24013,Carroll County,MD,5.097606848693171,Low-Low
 25027,Worcester County,MA,9.987842513794071,Low-Low
 21195,Pike County,KY,23.893727611154034,High-High
@@ -1352,9 +1352,9 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 48131,Duval County,TX,21.579116293998073,High-High
 48169,Garza County,TX,15.389972144846796,Not significant
 48025,Bee County,TX,19.961799660441425,Not significant
-49057,Weber County,UT,7.6395939086294415,Low-Low
+49057,Weber County,UT,7.639593908629442,Low-Low
 51147,Prince Edward County,VA,18.110188496272503,Not significant
-55087,Outagamie County,WI,6.9129541147265305,Low-Low
+55087,Outagamie County,WI,6.912954114726531,Low-Low
 55097,Portage County,WI,10.412273145810438,Low-Low
 27167,Wilkin County,MN,13.5378775897517,Not significant
 28127,Simpson County,MS,17.05680337899183,High-High
@@ -1365,7 +1365,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 27021,Cass County,MN,12.230890280242408,Not significant
 31025,Cass County,NE,5.635623835418489,Low-Low
 27019,Carver County,MN,3.783156842591632,Low-Low
-37179,Union County,NC,6.8036539313516595,Not significant
+37179,Union County,NC,6.80365393135166,Not significant
 21085,Grayson County,KY,21.06196737747272,Not significant
 21067,Fayette County,KY,14.93238567649893,Not significant
 26087,Lapeer County,MI,10.163406214039126,Not significant
@@ -1467,7 +1467,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 47177,Warren County,TN,16.80262217512384,High-High
 51157,Rappahannock County,VA,7.642364398755579,Low-Low
 31171,Thomas County,NE,6.587837837837838,Low-Low
-48431,Sterling County,TX,1.7699115044247788,Not significant
+48431,Sterling County,TX,1.769911504424779,Not significant
 01019,Cherokee County,AL,14.259063995457863,Not significant
 01129,Washington County,AL,15.80290537887711,Not significant
 06097,Sonoma County,CA,8.910852037299986,Not significant
@@ -1540,7 +1540,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 12109,St. Johns County,FL,6.795140313113677,Not significant
 13045,Carroll County,GA,16.87835143682112,Not significant
 28001,Adams County,MS,27.193206254328096,High-High
-27139,Scott County,MN,5.0307520361930385,Low-Low
+27139,Scott County,MN,5.030752036193038,Low-Low
 31055,Douglas County,NE,11.006301972890485,Low-Low
 48331,Milam County,TX,14.27233488069061,Not significant
 22059,LaSalle Parish,LA,15.190889845974159,High-High
@@ -1640,7 +1640,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 48507,Zavala County,TX,31.004774756072244,High-High
 51045,Craig County,VA,10.928270042194093,Not significant
 08079,Mineral County,CO,11.209068010075567,Not significant
-48103,Crane County,TX,3.8103677447939743,Not significant
+48103,Crane County,TX,3.810367744793974,Not significant
 47075,Haywood County,TN,21.92287976305747,Not significant
 54077,Preston County,WV,13.791407018694654,Not significant
 46055,Haakon County,SD,10.670553935860058,Low-High
@@ -1668,7 +1668,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 35025,Lea County,NM,17.773531493276717,Not significant
 31151,Saline County,NE,11.322436849925706,Low-Low
 53015,Cowlitz County,WA,12.14267389870263,Not significant
-56023,Lincoln County,WY,7.0588834037355594,Low-Low
+56023,Lincoln County,WY,7.058883403735559,Low-Low
 05057,Hempstead County,AR,22.99386627464896,High-High
 13063,Clayton County,GA,16.91088973097169,Not significant
 17061,Greene County,IL,13.714773697694278,Not significant
@@ -1685,7 +1685,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 45041,Florence County,SC,17.81964383131684,High-High
 37019,Brunswick County,NC,9.076083819199908,Not significant
 46093,Meade County,SD,7.443209279845336,Not significant
-32017,Lincoln County,NV,7.1838363681716135,Not significant
+32017,Lincoln County,NV,7.183836368171614,Not significant
 37063,Durham County,NC,12.270541642175049,Not significant
 39157,Tuscarawas County,OH,12.472542484017266,Not significant
 41003,Benton County,OR,19.056374597443696,Not significant
@@ -1700,7 +1700,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 23007,Franklin County,ME,12.11836051861146,Not significant
 37025,Cabarrus County,NC,8.411060778998431,Not significant
 38089,Stark County,ND,10.145243735195113,Low-Low
-39165,Warren County,OH,5.1351797948470255,Not significant
+39165,Warren County,OH,5.135179794847025,Not significant
 39133,Portage County,OH,11.29766425635957,Not significant
 42063,Indiana County,PA,12.973000744984201,Not significant
 12003,Baker County,FL,13.682854151566401,Not significant
@@ -1802,7 +1802,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 26115,Monroe County,MI,10.905004279675136,Not significant
 30005,Blaine County,MT,20.19105514546244,Not significant
 54099,Wayne County,WV,16.73931546774651,High-High
-55109,St. Croix County,WI,5.9406687427937195,Low-Low
+55109,St. Croix County,WI,5.940668742793719,Low-Low
 08015,Chaffee County,CO,11.777349131992285,Not significant
 53007,Chelan County,WA,9.22097349545472,Not significant
 12035,Flagler County,FL,9.774823517287576,Not significant
@@ -1859,12 +1859,12 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 26155,Shiawassee County,MI,11.00947451400354,Not significant
 26039,Crawford County,MI,13.831833217939842,Not significant
 29113,Lincoln County,MO,11.506928210861538,Not significant
-51013,Arlington County,VA,6.6691578829815565,Low-Low
+51013,Arlington County,VA,6.669157882981557,Low-Low
 18057,Hamilton County,IN,4.231191107502829,Low-Low
 29019,Boone County,MO,17.802858861611618,Not significant
 18133,Putnam County,IN,8.914644377466365,Not significant
 19057,Des Moines County,IA,14.642951251646904,Not significant
-51161,Roanoke County,VA,7.0754466607925774,Not significant
+51161,Roanoke County,VA,7.075446660792577,Not significant
 19115,Louisa County,IA,10.06100422336931,Not significant
 55077,Marquette County,WI,10.412371134020619,Not significant
 53021,Franklin County,WA,13.421326923485992,Not significant
@@ -1961,7 +1961,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 47103,Lincoln County,TN,11.9417168197656,Not significant
 51113,Madison County,VA,7.956215104319718,Low-Low
 40005,Atoka County,OK,18.202583490863265,High-High
-19049,Dallas County,IA,5.6673712894597115,Low-Low
+19049,Dallas County,IA,5.667371289459711,Low-Low
 38067,Pembina County,ND,9.186906019007392,Low-Low
 05065,Izard County,AR,19.7397476340694,Not significant
 51510,Alexandria city,VA,8.824642300563726,Low-Low
@@ -1977,7 +1977,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 36115,Washington County,NY,11.378784503880883,Low-Low
 48473,Waller County,TX,13.027529874451671,Not significant
 26027,Cass County,MI,12.856723716381419,Not significant
-16029,Caribou County,ID,6.7164179104477615,Low-Low
+16029,Caribou County,ID,6.716417910447761,Low-Low
 12115,Sarasota County,FL,8.14262696048315,Not significant
 13107,Emanuel County,GA,21.360998126228235,High-High
 13263,Talbot County,GA,18.408220132358064,Not significant
@@ -2078,7 +2078,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 13009,Baldwin County,GA,22.657328357445937,High-High
 22087,St. Bernard Parish,LA,22.52231631952392,Not significant
 51800,Suffolk city,VA,9.434745140595576,Low-Low
-08059,Jefferson County,CO,6.6744605856623345,Low-Low
+08059,Jefferson County,CO,6.674460585662334,Low-Low
 54071,Pendleton County,WV,16.352513227513228,Not significant
 51185,Tazewell County,VA,18.14828191105149,High-High
 29045,Clark County,MO,10.90578612541654,Not significant
@@ -2086,7 +2086,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 42123,Warren County,PA,11.594241183463215,Not significant
 38035,Grand Forks County,ND,14.16833287117442,Low-Low
 40041,Delaware County,OK,19.045128511655708,Not significant
-08053,Hinsdale County,CO,7.3545554335894625,Not significant
+08053,Hinsdale County,CO,7.354555433589463,Not significant
 01087,Macon County,AL,25.013637190132734,High-High
 51035,Carroll County,VA,15.236614853195164,Not significant
 06061,Placer County,CA,6.809019482339865,Not significant
@@ -2108,7 +2108,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 48277,Lamar County,TX,15.960523388678787,Not significant
 20041,Dickinson County,KS,8.84090783588271,Not significant
 16053,Jerome County,ID,14.742187177475953,Not significant
-39107,Mercer County,OH,6.3591202855213655,Low-Low
+39107,Mercer County,OH,6.359120285521366,Low-Low
 17105,Livingston County,IL,10.2085490312084,Not significant
 19061,Dubuque County,IA,9.951810517695725,Low-Low
 16065,Madison County,ID,30.108245644298776,Not significant
@@ -2235,7 +2235,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 54051,Marshall County,WV,14.667834523649104,Not significant
 51155,Pulaski County,VA,13.143526944076005,Not significant
 29063,DeKalb County,MO,10.342968075927523,Not significant
-13145,Harris County,GA,7.5221624763842465,Low-High
+13145,Harris County,GA,7.522162476384247,Low-High
 13153,Houston County,GA,9.746989364788377,Low-High
 08027,Custer County,CO,7.71123872026251,Not significant
 29179,Reynolds County,MO,18.109704641350213,Not significant
@@ -2287,7 +2287,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 29031,Cape Girardeau County,MO,14.52096191768894,Not significant
 40117,Pawnee County,OK,15.037935283055573,Not significant
 37173,Swain County,NC,19.80390743277341,Not significant
-51047,Culpeper County,VA,7.3322780481131895,Low-Low
+51047,Culpeper County,VA,7.33227804811319,Low-Low
 36107,Tioga County,NY,10.157346686500869,Not significant
 37099,Jackson County,NC,19.34632404316435,Not significant
 48035,Bosque County,TX,11.544427210281409,Not significant
@@ -2305,7 +2305,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 51103,Lancaster County,VA,14.004890895410083,Not significant
 29041,Chariton County,MO,13.287785833798104,Not significant
 30013,Cascade County,MT,13.604315583102983,Not significant
-51115,Mathews County,VA,6.8370002365744025,Not significant
+51115,Mathews County,VA,6.837000236574402,Not significant
 40013,Bryan County,OK,16.310649648391863,Not significant
 48477,Washington County,TX,11.889925762499628,Not significant
 39053,Gallia County,OH,17.164804469273744,Not significant
@@ -2416,7 +2416,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 19017,Bremer County,IA,6.564709891795178,Not significant
 16023,Butte County,ID,22.135619641465315,High-Low
 05073,Lafayette County,AR,21.61106590724166,High-High
-46117,Stanley County,SD,3.2225579053373616,Low-High
+46117,Stanley County,SD,3.222557905337362,Low-High
 39049,Franklin County,OH,14.53104727891631,High-Low
 30027,Fergus County,MT,14.764800572348417,Not significant
 37059,Davie County,NC,11.610969298142901,Not significant
@@ -2476,7 +2476,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 05109,Pike County,AR,17.477964743589745,High-High
 29183,St. Charles County,MO,4.517805809037116,Low-Low
 17095,Knox County,IL,16.293985470887236,Not significant
-06081,San Mateo County,CA,6.4319022995416955,Not significant
+06081,San Mateo County,CA,6.431902299541695,Not significant
 01041,Crenshaw County,AL,14.858472276075998,High-High
 37177,Tyrrell County,NC,15.985130111524164,High-High
 20091,Johnson County,KS,5.269957536628174,Not significant
@@ -2534,7 +2534,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 40101,Muskogee County,OK,18.10459293861684,Not significant
 13079,Crawford County,GA,16.61371237458194,High-High
 51810,Virginia Beach city,VA,8.034368438747542,Not significant
-26125,Oakland County,MI,7.6997916210738655,Not significant
+26125,Oakland County,MI,7.699791621073865,Not significant
 26145,Saginaw County,MI,18.213727912406057,Not significant
 47059,Greene County,TN,15.604031761844766,Not significant
 42025,Carbon County,PA,11.801572292640232,Not significant
@@ -2735,7 +2735,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 53019,Ferry County,WA,15.528296626707554,Not significant
 16083,Twin Falls County,ID,12.482470016716592,Not significant
 24017,Charles County,MD,5.872588550595166,Low-Low
-51107,Loudoun County,VA,3.7547843258194615,Low-Low
+51107,Loudoun County,VA,3.754784325819462,Low-Low
 17201,Winnebago County,IL,16.07651302691015,High-Low
 08021,Conejos County,CO,15.682878081279148,Not significant
 01061,Geneva County,AL,20.83174941078081,Not significant
@@ -2744,7 +2744,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 54065,Morgan County,WV,10.59664752080647,Not significant
 54083,Randolph County,WV,15.47791952894995,Not significant
 28163,Yazoo County,MS,29.133404293063688,High-High
-30055,McCone County,MT,2.4376088218224026,Not significant
+30055,McCone County,MT,2.437608821822403,Not significant
 13003,Atkinson County,GA,27.51335599805731,High-High
 13051,Chatham County,GA,13.979376816624768,Not significant
 21039,Carlisle County,KY,20.084656084656086,Not significant
@@ -2759,7 +2759,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 22065,Madison Parish,LA,38.096926713947994,High-High
 27045,Fillmore County,MN,8.714333993144402,Low-Low
 53063,Spokane County,WA,12.310903147722833,Not significant
-49029,Morgan County,UT,1.7239983812221773,Low-Low
+49029,Morgan County,UT,1.723998381222177,Low-Low
 55071,Manitowoc County,WI,9.972713340559936,Low-Low
 01093,Marion County,AL,16.44596624855875,Not significant
 26117,Montcalm County,MI,12.295452772794635,Not significant
@@ -2772,7 +2772,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 16013,Blaine County,ID,6.930816047695938,Not significant
 17073,Henry County,IL,9.235451214210297,Not significant
 47169,Trousdale County,TN,11.452391399736726,Not significant
-55015,Calumet County,WI,5.8527979135504165,Low-Low
+55015,Calumet County,WI,5.852797913550416,Low-Low
 35035,Otero County,NM,19.363613753652924,High-High
 18091,LaPorte County,IN,14.72280061230117,Not significant
 25017,Middlesex County,MA,7.43872189983877,Low-Low
@@ -2787,7 +2787,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 19193,Woodbury County,IA,13.505805861340653,Not significant
 17027,Clinton County,IL,7.214731621105441,Not significant
 32031,Washoe County,NV,10.879381002533968,Not significant
-33013,Merrimack County,NH,7.2474837942152615,Low-Low
+33013,Merrimack County,NH,7.247483794215261,Low-Low
 40089,McCurtain County,OK,21.103524876678318,High-High
 50017,Orange County,VT,9.219686212032002,Low-Low
 32510,Carson City,NV,11.177274853380348,Low-Low
@@ -2816,7 +2816,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 46009,Bon Homme County,SD,11.71003717472119,Not significant
 18119,Owen County,IN,12.297672636720621,Not significant
 18149,Starke County,IN,13.576301925900337,Not significant
-18161,Union County,IN,6.0369728480647025,Not significant
+18161,Union County,IN,6.036972848064702,Not significant
 42073,Lawrence County,PA,12.345708544636876,Not significant
 32011,Eureka County,NV,17.636138613861387,Not significant
 33001,Belknap County,NH,8.56997971602434,Low-Low
@@ -2938,7 +2938,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 51059,Fairfax County,VA,5.982567109052927,Low-Low
 45085,Sumter County,SC,16.414560359129503,High-High
 42047,Elk County,PA,8.962418836492425,Not significant
-19189,Winnebago County,IA,7.7527866242038215,Low-Low
+19189,Winnebago County,IA,7.752786624203821,Low-Low
 12129,Wakulla County,FL,6.148435210212655,Low-High
 28109,Pearl River County,MS,15.764380470583953,High-High
 05141,Van Buren County,AR,18.915133380021647,High-High
@@ -3002,7 +3002,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 51163,Rockbridge County,VA,8.892775460782994,Not significant
 55059,Kenosha County,WI,11.09917260051113,Low-Low
 09120,Greater Bridgeport Planning Region,CT,13.307322247054813,Not significant
-31011,Boone County,NE,7.3465533522190745,Not significant
+31011,Boone County,NE,7.346553352219074,Not significant
 48099,Coryell County,TX,10.612318189980249,Not significant
 17037,DeKalb County,IL,15.391236712470832,High-Low
 26085,Lake County,MI,20.296864576384255,Not significant
@@ -3013,7 +3013,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 06045,Mendocino County,CA,16.155227609900834,Not significant
 55011,Buffalo County,WI,8.232445520581114,Low-Low
 55101,Racine County,WI,11.328373294986818,Not significant
-50013,Grand Isle County,VT,7.4367737525632265,Not significant
+50013,Grand Isle County,VT,7.436773752563226,Not significant
 27037,Dakota County,MN,5.642111250507446,Low-Low
 41051,Multnomah County,OR,12.200083895259414,Low-Low
 22069,Natchitoches Parish,LA,25.924462259357533,High-High
@@ -3046,7 +3046,7 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 54011,Cabell County,WV,20.113355455092087,Not significant
 21183,Ohio County,KY,14.039843380233208,Not significant
 27013,Blue Earth County,MN,16.40409339779469,High-Low
-33011,Hillsborough County,NH,6.8590526724160785,Low-Low
+33011,Hillsborough County,NH,6.859052672416079,Low-Low
 56037,Sweetwater County,WY,11.654769943088647,Low-Low
 19155,Pottawattamie County,IA,11.329021489672439,Low-Low
 36045,Jefferson County,NY,12.794721171642392,Not significant
@@ -3085,10 +3085,10 @@ geoid,county_label,state_abbr,poverty_pct,lisa
 42057,Fulton County,PA,10.704419889502763,Not significant
 26037,Clinton County,MI,9.554310795809782,Not significant
 13239,Quitman County,GA,15.275229357798166,High-High
-53061,Snohomish County,WA,7.6006176242981125,Low-Low
+53061,Snohomish County,WA,7.600617624298112,Low-Low
 29111,Lewis County,MO,16.46354733405876,Not significant
 12079,Madison County,FL,22.44669609001057,High-High
-35028,Los Alamos County,NM,3.7085400887960303,Not significant
+35028,Los Alamos County,NM,3.70854008879603,Not significant
 35019,Guadalupe County,NM,20.660304359040495,High-High
 54021,Gilmer County,WV,11.141353656323716,Low-High
 18163,Vanderburgh County,IN,14.258979880920847,Not significant

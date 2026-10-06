@@ -25,6 +25,34 @@
       <SimpleField name="county_label" type="string"/>
       <SimpleField name="population" type="float"/>
     </Schema>
+    <Schema id="il_counties.schema">
+      <SimpleField name="county_label" type="string"/>
+      <SimpleField name="population" type="float"/>
+    </Schema>
+    <Schema id="il_counties.schema">
+      <SimpleField name="county_label" type="string"/>
+      <SimpleField name="population" type="float"/>
+    </Schema>
+    <Schema id="il_counties.schema">
+      <SimpleField name="county_label" type="string"/>
+      <SimpleField name="population" type="float"/>
+    </Schema>
+    <Schema id="il_counties.schema">
+      <SimpleField name="county_label" type="string"/>
+      <SimpleField name="population" type="float"/>
+    </Schema>
+    <Schema id="il_counties.schema">
+      <SimpleField name="county_label" type="string"/>
+      <SimpleField name="population" type="float"/>
+    </Schema>
+    <Schema id="il_counties.schema">
+      <SimpleField name="county_label" type="string"/>
+      <SimpleField name="population" type="float"/>
+    </Schema>
+    <Schema id="il_counties.schema">
+      <SimpleField name="county_label" type="string"/>
+      <SimpleField name="population" type="float"/>
+    </Schema>
     <Document id="il_counties">
       <name>il_counties</name>
       <Placemark id="il_counties.1">
